@@ -1,0 +1,54 @@
+1
+00:00:00,220 --> 00:00:01,547
+¡Hola a todos!
+
+2
+00:00:01,547 --> 00:00:03,487
+Bienvenidos a <i>programar 
+en ScratchX</i> con Felienne.
+
+3
+00:00:03,524 --> 00:00:06,769
+En este curso en línea vas a
+aprender a programar con Scratch
+
+4
+00:00:06,769 --> 00:00:08,764
+paso a paso en seis semanas.
+
+5
+00:00:08,764 --> 00:00:12,171
+Cada semana haremos un juego distinto,
+y te voy a explicar totalmente
+
+6
+00:00:12,171 --> 00:00:14,238
+cómo debes armar cada juego.
+
+7
+00:00:14,279 --> 00:00:16,919
+En el primer video vamos a 
+trabajar en este juego:
+
+8
+00:00:16,919 --> 00:00:19,936
+Giga, nuestra amiga en 
+la esquina izquierda arriba,
+
+9
+00:00:19,936 --> 00:00:21,605
+está atrapada en un laberinto,
+
+10
+00:00:21,619 --> 00:00:24,940
+y ella debe escapar, tomando
+la llave que se encuentra abajo.
+
+11
+00:00:24,940 --> 00:00:29,379
+Vamos a guiarla, y cuidar que 
+pueda pasar por el laberinto.
+
+12
+00:00:29,379 --> 00:00:31,434
+¡Nos vemos en el siguiente vídeo!
