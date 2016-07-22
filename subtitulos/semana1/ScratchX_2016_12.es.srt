@@ -1,0 +1,219 @@
+1
+00:00:00,198 --> 00:00:03,591
+Hola, si has seguido el video anterior 
+con el entorno en línea,
+
+2
+00:00:03,591 --> 00:00:06,263
+entonces habrás terminado
+en este juego.
+
+3
+00:00:06,268 --> 00:00:09,185
+Como ves, nuestra amiga <i>Giga</i>
+está atrapada en el laberinto,
+
+4
+00:00:09,206 --> 00:00:11,601
+pero por ahora no pasa
+nada más en este juego.
+
+5
+00:00:11,601 --> 00:00:13,511
+Pero eso lo vamos a resolver juntos.
+
+6
+00:00:13,543 --> 00:00:16,772
+Te voy a mostrar cómo puedes hacer
+de este dibujo un verdadero juego.
+
+7
+00:00:16,785 --> 00:00:17,785
+Pon atención.
+
+8
+00:00:17,785 --> 00:00:20,019
+<i>Quizá ya notaste
+que hay muchos bloques</i>
+
+9
+00:00:20,019 --> 00:00:23,037
+<i>de programa con instrucciones raras.</i>
+
+10
+00:00:23,037 --> 00:00:26,690
+<i>Esas son precisamente las instrucciones
+que le podemos dar a </i>Giga,
+
+11
+00:00:26,690 --> 00:00:28,354
+<i>para que pueda moverse.</i>
+
+12
+00:00:28,397 --> 00:00:31,548
+<i>Lo primero que vamos a hacer,
+vamos ir al bloque </i>Eventos,
+
+13
+00:00:31,548 --> 00:00:33,738
+<i>Y tomamos este bloque.</i>
+
+14
+00:00:33,770 --> 00:00:39,975
+<i>"Cuando demos clic a la bandera verde",
+que es la misma que ves en este lado.</i>
+
+15
+00:00:40,695 --> 00:00:43,775
+<i>Podemos darle clic, pero por ahora no
+pasa absolutamente nada.</i>
+
+16
+00:00:43,775 --> 00:00:46,806
+<i>Necesitamos aún agregar 
+un bloque de </i>acción.
+
+17
+00:00:47,221 --> 00:00:49,739
+<i>Ve hacia </i>movimiento,
+<i>y elige el bloque que dice:</i>
+
+18
+00:00:49,739 --> 00:00:51,333
+<i>"cambiar x por 10."</i>
+
+19
+00:00:51,333 --> 00:00:56,640
+<i>En cuanto lo muevas a la derecha,
+verás que el bloque se pega.</i>
+
+20
+00:00:56,640 --> 00:01:00,140
+<i>Y ahora esto significa que cuando
+des clic a la bandera verde,</i>
+
+21
+00:01:00,140 --> 00:01:02,069
+<i>se moverá en el eje X con 10.</i>
+
+22
+00:01:02,069 --> 00:01:05,700
+<i>Da clic a la bandera verde cuatro veces,</i>
+
+23
+00:01:05,700 --> 00:01:07,460
+<i>y cada vez se moverá.</i>
+
+24
+00:01:07,460 --> 00:01:11,819
+<i>Eso es porque </i>Giga<i> hace exactamente
+lo que está en el bloque de programación.</i>
+
+25
+00:01:13,057 --> 00:01:15,594
+<i>Desde luego no es todavía 
+un juego muy divertido,</i>
+
+26
+00:01:15,594 --> 00:01:17,870
+<i>si cada vez tienes que 
+dar clic a la bandera.</i>
+
+27
+00:01:17,870 --> 00:01:19,274
+<i>Eso no es nada emocionante.</i>
+
+28
+00:01:19,274 --> 00:01:21,361
+<i>Por eso ahora vamos a tomar
+otro evento.</i>
+
+29
+00:01:21,361 --> 00:01:22,924
+<i>Ve de nuevo a </i>Eventos,
+
+30
+00:01:23,107 --> 00:01:26,793
+<i>Y tomamos</i> "cuando se
+presiona sobre un bloque."
+
+31
+00:01:26,793 --> 00:01:30,142
+<i>No queremos que se use la 
+barra espaciadora,</i>
+
+32
+00:01:30,146 --> 00:01:32,395
+<i>sino la tecla de flecha derecha,</i>
+
+33
+00:01:32,395 --> 00:01:35,275
+<i>porque cada vez que se mueve en x,
+lo hace a la derecha.</i>
+
+34
+00:01:35,319 --> 00:01:38,323
+<i>toma de nuevo el bloque azul,
+que ahora se suelta,</i>
+
+35
+00:01:38,323 --> 00:01:41,154
+<i>y colócalo abajo en el nuevo evento.</i>
+
+36
+00:01:41,154 --> 00:01:44,345
+<i>Y ahora, si presionas
+la flecha derecha en el teclado,</i>
+
+37
+00:01:44,345 --> 00:01:47,627
+<i>mira, ahí va ella, hacia el laberinto.</i>
+
+38
+00:01:47,740 --> 00:01:49,435
+Eso fue la flecha a la derecha,
+
+39
+00:01:49,435 --> 00:01:53,584
+y ahora es tu tarea, hacer que avance
+en las otras tres direcciones.
+
+40
+00:01:53,584 --> 00:01:56,917
+Flechita a la izquierda, hacia arriba,
+y hacia abajo.
+
+41
+00:01:56,917 --> 00:01:58,719
+Eso lo vas a programar por tu cuenta.
+
+42
+00:01:58,869 --> 00:02:01,237
+Hay un tip que quiero darte,
+
+43
+00:02:01,237 --> 00:02:04,137
+hay una parte importante de 
+programación que debes saber:
+
+44
+00:02:04,157 --> 00:02:06,550
+las <i>x</i> van de izquierda a derecha,
+
+45
+00:02:06,583 --> 00:02:08,836
+y las <i>y</i> van de arriba a abajo.
+
+46
+00:02:08,836 --> 00:02:11,039
+Entonces si vas a programar
+el movimiento vertical,
+
+47
+00:02:11,039 --> 00:02:13,306
+debes usar las <i>y</i> en lugar de las <i>x</i>.
+
+48
+00:02:13,565 --> 00:02:16,304
+¡Buena suerte con tu
+primera tarea de programación!
