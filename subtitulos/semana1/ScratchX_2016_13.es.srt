@@ -1,0 +1,219 @@
+1
+00:00:01,490 --> 00:00:03,809
+¿Te ha ido bien en tu primera 
+tarea de programación?
+
+2
+00:00:03,809 --> 00:00:07,629
+Si es así, entonces has hecho 
+estos cuatro bloques,
+
+3
+00:00:07,652 --> 00:00:11,314
+y si aprietas las flechas del teclado,
+¡entonces Giga irá para todos lados!
+
+4
+00:00:11,403 --> 00:00:12,992
+Mira conmigo:
+
+5
+00:00:13,381 --> 00:00:17,082
+<i>Va la derecha, y a la izquierda,
+y para arriba, y para abajo.</i>
+
+6
+00:00:17,082 --> 00:00:18,292
+<i>Eso funciona perfectamente.</i>
+
+7
+00:00:18,753 --> 00:00:21,532
+<i>Hay solo un problema 
+en nuestro programa,</i>
+
+8
+00:00:21,532 --> 00:00:25,442
+<i>aún tienes este bloque vacío
+cuando das clic a la flecha verde.</i>
+
+9
+00:00:25,732 --> 00:00:28,101
+<i>En sí no importa,
+no pasa nada,</i>
+
+10
+00:00:28,101 --> 00:00:31,771
+<i>pero a nosotros los programadores
+nos gusta un espacio ordenado.</i>
+
+11
+00:00:32,238 --> 00:00:34,132
+<i>Así que puedes remover ese bloque,</i>
+
+12
+00:00:34,132 --> 00:00:36,323
+<i>tomándolo, y colocándole
+de vuelta aquí,</i>
+
+13
+00:00:36,323 --> 00:00:38,203
+<i>entonces desaparecerá de lado derecho.</i>
+
+14
+00:00:38,203 --> 00:00:41,612
+<i>Y eso es bueno, porque así no estorba
+donde podemos seguir programando.</i>
+
+15
+00:00:42,234 --> 00:00:47,382
+<i>Quizá ya has visto que Giga
+puede atravesar los muros verdes.</i>
+
+16
+00:00:47,407 --> 00:00:51,708
+<i>Esa no es exactamente la idea,
+porque así no emocionante el laberinto.</i>
+
+17
+00:00:52,532 --> 00:00:54,404
+<i>Así que nuestra siguiente
+tarea de programación</i>
+
+18
+00:00:54,404 --> 00:00:57,501
+<i>es cuidar de que Giga 
+no pueda atravesar por los muros.</i>
+
+19
+00:00:58,159 --> 00:01:00,867
+Lo que vamos a usar para ello,
+es un bloque de repetición.
+
+20
+00:01:00,867 --> 00:01:02,784
+<i>Ven conmigo a donde dice</i> dirigir,
+
+21
+00:01:02,784 --> 00:01:05,705
+<i>y toma aquí 
+un</i> bloque de repetición.
+
+22
+00:01:08,142 --> 00:01:13,815
+<i>Este bloque lo pegaremos a un nuevo</i>
+Cuando se da clic a la bandera verde.
+
+23
+00:01:13,815 --> 00:01:17,605
+<i>Lo tomamos de vuelta, y lo unimos
+al bloque de repetición.</i>
+
+24
+00:01:17,605 --> 00:01:21,089
+<i>Eso significa que cada vez 
+que demos clic en la bandera,</i>
+
+25
+00:01:21,089 --> 00:01:23,624
+<i>que en ese bloque algo se repetirá.</i>
+
+26
+00:01:23,624 --> 00:01:27,419
+<i>Y eso lo vemos ya, porque este bloque
+toma un color amarillo</i>
+
+27
+00:01:27,419 --> 00:01:30,385
+<i>porque el bloque en este 
+momento está ejecutándose.</i>
+
+28
+00:01:31,635 --> 00:01:34,506
+<i>Lo que pongas en este 
+bloque de repetición,</i>
+
+29
+00:01:34,506 --> 00:01:38,586
+<i>como dice la palabra,
+será repetido todo el tiempo.</i>
+
+30
+00:01:38,586 --> 00:01:42,713
+<i>Entonces, en palabras de programación,
+llamamos a este bloque</i> un lazo.
+
+31
+00:01:42,715 --> 00:01:45,938
+<i>Piensa en el cordón de zapatos que usas,
+que se cierra consigo mismo,</i>
+
+32
+00:01:45,938 --> 00:01:48,298
+<i>igual que el bloque se repite siempre, 
+que da la vuelta.</i>
+
+33
+00:01:48,298 --> 00:01:50,839
+<i>Así que lo que pongas dentro,
+pasará todo el tiempo.</i>
+
+34
+00:01:51,688 --> 00:01:55,519
+<i>Y te toca a tí probar un par de cosas
+que puedas colocar ahí,</i>
+
+35
+00:01:55,519 --> 00:01:57,507
+<i>que se repitan todo el tiempo.</i>
+
+36
+00:01:57,507 --> 00:01:59,995
+<i>Por ejemplo, podrías 
+probar algo como esto:</i>
+
+37
+00:01:59,995 --> 00:02:02,559
+<i>tomas un bloque</i> cambiar x en 10,
+
+38
+00:02:03,337 --> 00:02:06,037
+<i>luego, tomas un bloque</i> esperar,
+
+39
+00:02:07,389 --> 00:02:10,397
+<i>y de nuevo un bloque</i> cambiar x en 10,
+
+40
+00:02:10,418 --> 00:02:13,571
+pero ahora lo vas a poner en -10,
+
+41
+00:02:13,571 --> 00:02:16,571
+(puse -100)
+
+42
+00:02:16,571 --> 00:02:20,365
+<i>igual que recién lo hicimos con</i> dirigir,
+
+43
+00:02:20,365 --> 00:02:22,866
+<i>colocas de nuevo un bloque</i> esperar,
+
+44
+00:02:23,237 --> 00:02:29,246
+y explica en la siguiente tarea
+lo que pasa en ese bloque de repetición.
+
+45
+00:02:29,608 --> 00:02:31,959
+Da clic a la bandera verde,
+mira lo que hace Giga,
+
+46
+00:02:31,979 --> 00:02:36,249
+y en la siguiente tarea, vamos a preguntar
+qué pasa exactamente con la repetición.
+
+47
+00:02:36,249 --> 00:02:37,280
+¡Éxito!
