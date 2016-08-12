@@ -1,0 +1,389 @@
+1
+00:00:00,962 --> 00:00:03,522
+Bueno, ahora ya sabes cómo funciona
+un bloque de repetición, ¿verdad?
+
+2
+00:00:03,544 --> 00:00:06,722
+Cada vez que se ejecuta,
+se activan todos los bloques
+
+3
+00:00:06,722 --> 00:00:08,202
+conectados al bloque.
+
+4
+00:00:08,202 --> 00:00:10,105
+Así que en este caso lo 
+que hemos programado
+
+5
+00:00:10,105 --> 00:00:12,702
+es que Giga cada vez
+se mueve izquierda, derecha,
+
+6
+00:00:12,712 --> 00:00:15,784
+izquierda, derecha, 
+y espera entre un movimiento y otro.
+
+7
+00:00:16,062 --> 00:00:20,673
+Ese bloque de repetición lo vamos a usar
+para ver si Giga rebota contra el muro.
+
+8
+00:00:20,713 --> 00:00:21,941
+Veamos juntos.
+
+9
+00:00:23,913 --> 00:00:26,573
+<i>Voy a sacar estos bloquecitos
+del bloque de repetición</i>
+
+10
+00:00:26,573 --> 00:00:28,486
+<i>y los podemos devolver después.</i>
+
+11
+00:00:28,486 --> 00:00:30,993
+<i>Entonces si tomas el superior,
+se lleva todos los de debajo,</i>
+
+12
+00:00:30,993 --> 00:00:33,614
+<i>Y si los pones aquí en medio,
+entonces se quedan ahí.</i>
+
+13
+00:00:34,383 --> 00:00:37,053
+<i>Lo que vamos a usar es un</i>
+si - entonces, <i>el cual está también</i>
+
+14
+00:00:37,053 --> 00:00:40,144
+<i>en dirigir, aquí arriba. 
+Tomamos el bloque</i> si-entonces,
+
+15
+00:00:40,144 --> 00:00:43,561
+<i>y lo acoplamos en el bloque de repetición.</i>
+
+16
+00:00:43,594 --> 00:00:48,164
+<i>Y lo que este bloque haría es que 
+todos los bloques que insertemos dentro</i>
+
+17
+00:00:48,184 --> 00:00:53,475
+<i>son ejecutados, si es cierto
+lo que pones en el triangulito.</i>
+
+18
+00:00:53,783 --> 00:00:58,784
+<i>Lo que vamos a usar para ello 
+es ver si Giga ha chocado contra el muro.</i>
+
+19
+00:00:59,084 --> 00:01:02,593
+<i>Entonces vamos a</i> observar,
+<i>damos clic ahí,</i>
+
+20
+00:01:02,853 --> 00:01:05,144
+<i>y ahí pone</i> 'toco un color'.
+
+21
+00:01:05,154 --> 00:01:07,914
+<i>y ahora está en azul,
+pero eso lo vamos a cambiar.</i>
+
+22
+00:01:07,914 --> 00:01:10,105
+<i>Tomo primero el bloque</i>
+'toco un color',
+
+23
+00:01:10,114 --> 00:01:13,955
+y como ves tiene puntas triangulares,
+igual que el triángulo del bloque
+
+24
+00:01:13,959 --> 00:01:16,065
+<i>al que conectaremos, 
+así que encaja exacto,</i>
+
+25
+00:01:16,065 --> 00:01:18,325
+<i>lo soltamos, y hace clic al conectar.</i>
+
+26
+00:01:18,575 --> 00:01:21,195
+<i>Y ahora dice</i>
+si toco un color azul,
+
+27
+00:01:21,455 --> 00:01:24,125
+<i>no es el color del muro.
+Lo que vamos a hacer es cambiarlo</i>
+
+28
+00:01:24,415 --> 00:01:28,305
+<i>y para ello damos clic antes
+al cuadrito de color,</i>
+
+29
+00:01:28,305 --> 00:01:31,566
+<i>y ves que el cursor se transforma
+en una manita, y vamos al verde,</i>
+
+30
+00:01:31,566 --> 00:01:33,136
+<i>y damos clic una vez más</i>.
+
+31
+00:01:33,136 --> 00:01:35,806
+<i>Y ahora dice, repito</i>
+'si toco verde.'
+
+32
+00:01:36,076 --> 00:01:37,876
+<i>Y eso es naturalmente el muro.</i>
+
+33
+00:01:38,286 --> 00:01:40,967
+<i>Bueno, ahora nuestro 
+bloquecito está vacío.</i>
+
+34
+00:01:41,287 --> 00:01:42,915
+<i>Entonces puedes dar clic a la bandera,</i>
+
+35
+00:01:43,166 --> 00:01:46,656
+<i>Y si camina hacia el muro,
+aun no pasa nada.</i>
+
+36
+00:01:46,927 --> 00:01:49,146
+<i>Y eso es porque el lazo sigue vacío.</i>
+
+37
+00:01:49,146 --> 00:01:51,075
+<i>Eso lo tenemos que rellenar.</i>
+
+38
+00:01:51,075 --> 00:01:53,506
+<i>Vamos a iniciar simple,
+porque lo primero que haremos</i>
+
+39
+00:01:53,558 --> 00:01:57,197
+<i>será que Giga diga</i> "au"
+<i>cuando choque con el muro</i>.
+
+40
+00:01:57,206 --> 00:02:00,667
+<i>Entonces vamos a</i> expresiones,
+<i>y tomamos el que dice</i> "hola"
+
+41
+00:02:00,917 --> 00:02:02,267
+<i>lo colocamos en medio,</i>
+
+42
+00:02:02,549 --> 00:02:06,257
+<i>y removemos</i> "hola"
+<i>poniendo en su lugar</i> "au".
+
+43
+00:02:06,536 --> 00:02:09,317
+<i>Desde luego puedes poner
+otra cosa, puedes elegir lo que quieras.</i>
+
+44
+00:02:09,647 --> 00:02:13,557
+<i>Mira, vamos a probar el programa
+haciendo clic en la bandera verde,</i>
+
+45
+00:02:13,848 --> 00:02:17,447
+<i>y ahora si choca contra el muro,
+dice Giga: </i> "¡au!",
+
+46
+00:02:17,447 --> 00:02:22,773
+<i>que es la intención en el juego,
+que no traspase el muro.</i>
+
+47
+00:02:23,698 --> 00:02:27,818
+<i>Si pruebas el juego, 
+verás que aun queda un problema.</i>
+
+48
+00:02:28,088 --> 00:02:29,798
+<i>Si decimos una vez 'au',</i>
+
+49
+00:02:29,818 --> 00:02:32,057
+<i>entonces se queda ahí el 'au',</i>
+
+50
+00:02:32,057 --> 00:02:35,227
+<i>miren, sigue ahí aunque 
+ya no chocamos contra el muro.</i>
+
+51
+00:02:35,587 --> 00:02:40,637
+<i>porque solo dijimos:
+"Si toco el muro, entonces '!au!'"</i>
+
+52
+00:02:40,970 --> 00:02:43,809
+<i>Entonces debemos modificar
+nuestro programa un poco.</i>
+
+53
+00:02:43,809 --> 00:02:45,128
+"Vamos de nuevo a" Dirigir,
+
+54
+00:02:45,487 --> 00:02:48,428
+<i>y vemos que hay un bloque</i>
+si - entonces, pero también
+
+55
+00:02:48,668 --> 00:02:50,877
+<i>hay otro bloque que dice</i>
+si - entonces - si no,
+
+56
+00:02:50,877 --> 00:02:52,549
+<i>y ese es el que vamos a usar.</i>
+
+57
+00:02:53,683 --> 00:02:56,399
+<i>Vamos a colocar ese bloque</i>
+'si - entonces -si no' <i>a un lado,</i>
+
+58
+00:02:56,429 --> 00:02:58,949
+<i>porque ese lo vamos a
+reemplazar por el otro bloque,</i>
+
+59
+00:02:58,969 --> 00:03:03,088
+<i>entonces saco el bloque de</i>
+'toco un color' <i>y lo coloco ahí,</i>
+
+60
+00:03:03,290 --> 00:03:06,138
+<i>y saco también el 'au'
+y lo pongo en la parte de arriba.</i>
+
+61
+00:03:06,138 --> 00:03:09,009
+<i>El bloque original </i>
+si-entonces <i>lo sacamos</i>,
+
+62
+00:03:09,299 --> 00:03:11,219
+<i>y colocamos el nuevo en su lugar.</i>
+
+63
+00:03:11,569 --> 00:03:13,900
+<i>Este programa hace exactamente lo mismo</i>
+
+64
+00:03:13,910 --> 00:03:15,759
+<i>que el programa anterior,</i>
+
+65
+00:03:15,759 --> 00:03:17,760
+<i>porque aun no tiene algo 
+en la parte</i> 'si no'.
+
+66
+00:03:18,041 --> 00:03:20,380
+<i>Si doy clic a la bandera verde, miren,</i>
+
+67
+00:03:20,638 --> 00:03:23,019
+<i>dice '!au!', pero sigue mostrando eso.</i>
+
+68
+00:03:23,279 --> 00:03:26,459
+<i>Estamos ahora cerca,
+porque tenemos este espacio vacío,</i>
+
+69
+00:03:26,849 --> 00:03:29,799
+<i>en la parte de</i> 'si no',
+<i>donde podemos decir otra cosa:</i>
+
+70
+00:03:30,021 --> 00:03:33,769
+<i>si Giga no toca el muro.
+Entonces vamos a Expresiones,</i>
+
+71
+00:03:33,979 --> 00:03:37,660
+<i>y tomamos otro bloque</i> decir,
+<i>y lo ponemos aquí abajo,</i>
+
+72
+00:03:37,660 --> 00:03:40,800
+<i>Y si hago ese bloque
+'vacío', con la tecla Suprimir,</i>
+
+73
+00:03:40,800 --> 00:03:43,861
+<i>eso significa que el texto desaparecerá.</i>
+
+74
+00:03:43,870 --> 00:03:45,930
+<i>Miren conmigo:
+doy clic a la bandera verde,</i>
+
+75
+00:03:46,298 --> 00:03:50,031
+<i>ahora dice '¡au!',
+y ahora ya no.</i>
+
+76
+00:03:50,671 --> 00:03:53,950
+<i>Ahora comienza a parecerse, ¿eh?</i>
+
+77
+00:03:54,581 --> 00:03:56,471
+<i>En los siguientes puzzles que veremos,</i>
+
+78
+00:03:56,821 --> 00:03:58,871
+<i>Van a ejercitarse con 
+los bloques 'si-entonces',</i>
+
+79
+00:03:58,871 --> 00:04:02,001
+<i>para asegurarse de que entiendan
+lo que ocurre con estos,</i>
+
+80
+00:04:02,001 --> 00:04:04,281
+<i>y con los de 'si - entonces - si no',</i>
+
+81
+00:04:04,281 --> 00:04:08,440
+y después vamos a programar
+que Giga no solo diga '¡au!' al chocar,
+
+82
+00:04:08,501 --> 00:04:11,482
+sino que regrese 
+al inicio del laberinto,
+
+83
+00:04:11,502 --> 00:04:13,682
+para intentar de nuevo.
+¡Éxito!
