@@ -1,0 +1,279 @@
+1
+00:00:01,238 --> 00:00:03,425
+Bueno, si ya has completado 
+las tareas anteriores,
+
+2
+00:00:03,425 --> 00:00:05,666
+entonces seguro entiendes
+cómo funciona un bloque <i>si-entonces</i>.
+
+3
+00:00:06,422 --> 00:00:08,910
+Ya sabes cómo funciona,
+entonces vamos a hacer el juego
+
+4
+00:00:08,910 --> 00:00:10,227
+un poco más emocionante.
+
+5
+00:00:10,230 --> 00:00:14,947
+En lugar de que Giga diga 'au',
+irá de vuelta al inicio del laberinto.
+
+6
+00:00:15,007 --> 00:00:16,585
+Mira cómo hacerlo:
+
+7
+00:00:17,698 --> 00:00:19,846
+Vamos al bloque <i>Movimiento</i>,
+
+8
+00:00:19,846 --> 00:00:23,591
+<i>y ahí ves un bloque muy grande,
+es tan grande que no cabe</i>
+
+9
+00:00:23,591 --> 00:00:25,449
+<i>entre las lineas divisorias.</i>
+
+10
+00:00:25,449 --> 00:00:29,824
+<i>Aquí pone: </i> escribe en un
+segundo una x y una y.
+
+11
+00:00:30,008 --> 00:00:32,785
+<i>Toma ese bloque,
+y lo vamos a colocar</i>
+
+12
+00:00:32,818 --> 00:00:35,264
+<i>justo debajo del bloque
+donde dice '¡au!'.</i>
+
+13
+00:00:35,556 --> 00:00:38,210
+<i>Una vez que diga Giga ''au!',
+el texto desaparacerá,</i>
+
+14
+00:00:38,210 --> 00:00:40,152
+<i>y va a regresar entonces.</i>
+
+15
+00:00:40,492 --> 00:00:45,390
+<i>Hay una gran pregunta: ¿qué valores
+tenemos que poner en x y en y,</i>
+
+16
+00:00:45,655 --> 00:00:47,464
+<i>de forma que regrese al lugar correcto?</i>
+
+17
+00:00:47,970 --> 00:00:50,074
+<i>Los valores actuales, en los
+que Giga está ahora,</i>
+
+18
+00:00:50,092 --> 00:00:57,040
+<i>y esos los puedes ver bien al final
+de tu pantalla, por la llave,</i>
+
+19
+00:00:57,248 --> 00:01:02,654
+<i>aquí están una x y una y,
+y eso dan las coordenadas</i>
+
+20
+00:01:02,679 --> 00:01:05,289
+<i>en las que apunta el ratón,
+entonces ves que si lo muevo,</i>
+
+21
+00:01:05,330 --> 00:01:07,235
+<i>cambian los valores de x e y.</i>
+
+22
+00:01:07,539 --> 00:01:11,800
+<i>Entonces, aquí veo que Giga está
+más o menos en -37 y 66,</i>
+
+23
+00:01:12,090 --> 00:01:16,646
+<i>y sabemos aproximadamente
+a dónde tiene que ir Giga,</i>
+
+24
+00:01:16,646 --> 00:01:18,990
+<i>entonces podemos leer
+lo que ahora pone:</i>
+
+25
+00:01:19,008 --> 00:01:24,942
+<i>-218, y 154.</i>
+
+26
+00:01:25,609 --> 00:01:28,160
+<i>Podemos rellenar esos valores,</i>
+
+27
+00:01:28,160 --> 00:01:30,322
+<i>¿Cuales eran esos valores de nuevo?</i>
+
+28
+00:01:30,595 --> 00:01:34,787
+<i>creo que -178 y 154.</i>
+
+29
+00:01:35,310 --> 00:01:38,559
+<i>Si escribo esos, miren,
+regresa a la esquina izquierda.</i>
+
+30
+00:01:38,968 --> 00:01:42,476
+<i>Veamos si funciona: 
+doy clic a la bandera verde,</i>
+
+31
+00:01:42,795 --> 00:01:47,631
+<i>si camina contra el muro,
+entonces regresa al inicio.</i>
+
+32
+00:01:47,631 --> 00:01:52,221
+<i>Creo que quedó un poco a lado,
+con mi -178, </i>
+
+33
+00:01:52,221 --> 00:01:56,212
+<i>¿Cuánto todavía hay que regresar? 
+Un poquito mas: -214.</i>
+
+34
+00:01:57,092 --> 00:02:01,512
+<i>Eso es mejor, -214.
+Probemos si eso es el lugar correcto.</i>
+
+35
+00:02:01,833 --> 00:02:05,570
+<i>Nos vamos en línea recta y ¡upa!,
+regresa al inicio.</i>
+
+36
+00:02:05,628 --> 00:02:07,703
+<i>Eso funciona perfecto.</i>
+
+37
+00:02:07,896 --> 00:02:10,367
+<i>Naturalmente se pueden
+ agregar otros bloques,</i>
+
+38
+00:02:10,561 --> 00:02:17,610
+<i>Por ejemplo, miren en</i> Apariencias,
+<i>podemos agregar otros</i> rostros para Giga.
+
+39
+00:02:17,958 --> 00:02:22,091
+<i>Entonces dando clic 
+al botón aquí en medio,</i>
+
+40
+00:02:22,484 --> 00:02:25,775
+<i>ven entonces que Giga también 
+tiene una cara de enojada.</i>
+
+41
+00:02:26,003 --> 00:02:29,960
+Giga D.<i> Vean el nombre 
+debajo de la carita enojada.</i>
+
+42
+00:02:29,960 --> 00:02:34,056
+<i>Entonces lo que pueden hacer, 
+es si van al bloque</i> Programar,
+
+43
+00:02:34,352 --> 00:02:38,237
+<i>pueden decir:</i>
+Cambiar apariencia a Giga D.
+
+44
+00:02:38,278 --> 00:02:41,532
+<i>Ahí están todas las opciones.
+Entonces lo colocamos abajo,</i>
+
+45
+00:02:41,790 --> 00:02:45,350
+<i>Y no solo irá de vuelta al inicio,
+y dirá</i> au!,
+
+46
+00:02:45,555 --> 00:02:49,019
+<i>sino además pondrá 
+una carita enojada.</i>
+
+47
+00:02:49,036 --> 00:02:53,322
+<i>Así como tiene una carita enojada,
+colocaremos una carita feliz</i>
+
+48
+00:02:53,596 --> 00:02:56,086
+<i>si es que no choca contra el muro.</i>
+
+49
+00:02:56,116 --> 00:02:58,665
+<i>Y esa carita ya la han visto,
+es la </i> Giga A.
+
+50
+00:02:58,907 --> 00:03:03,576
+<i>Si damos clic en la bandera verde,
+entonces se ve contenta, miren,</i>
+
+51
+00:03:03,935 --> 00:03:05,866
+<i>tiene una linda sonrisa en la cara.</i>
+
+52
+00:03:06,567 --> 00:03:10,310
+<i>Pero si ahora choca contra el muro,
+entonces mira ella enojada,</i>
+
+53
+00:03:10,323 --> 00:03:14,163
+<i>hasta regresar al muro,
+y luego mira contenta de nuevo.</i>
+
+54
+00:03:14,605 --> 00:03:17,842
+Experimenten con otros bloques
+que puedan usar,
+
+55
+00:03:17,879 --> 00:03:21,315
+Si Giga choca o no contra el muro,
+
+56
+00:03:21,315 --> 00:03:23,900
+pueden revisar por ejemplo 
+al Bloque de <i>Sonidos</i>,
+
+57
+00:03:24,109 --> 00:03:27,910
+y que Giga haga un sonido
+si choca contra el muro.
+
+58
+00:03:27,910 --> 00:03:31,332
+Prueben que bloques hay,
+y en la siguiente tarea,
+
+59
+00:03:31,345 --> 00:03:34,477
+les preguntaré lo que encontraron.
+¡Hasta pronto!
