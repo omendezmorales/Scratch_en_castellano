@@ -1,0 +1,136 @@
+1
+00:00:00,000 --> 00:00:02,919
+Entonces, ¿están listos para
+la siguiente tarea de programación?
+
+2
+00:00:03,177 --> 00:00:04,566
+Están mejorando, ¿cierto?
+
+3
+00:00:04,803 --> 00:00:09,327
+Giga gana el juego si llega
+al final donde está la llave,
+
+4
+00:00:09,617 --> 00:00:11,318
+totalmente hasta abajo.
+
+5
+00:00:11,803 --> 00:00:14,254
+Así que la siguiente tarea
+de programación consiste
+
+6
+00:00:14,310 --> 00:00:19,050
+en que diga Giga "¡Sí!",
+o "¡Hurra!", o "¡He ganado"
+
+7
+00:00:19,407 --> 00:00:21,041
+cuando toque la llave.
+
+8
+00:00:21,087 --> 00:00:22,839
+Yo les daré un par de consejos.
+
+9
+00:00:23,865 --> 00:00:29,040
+<i>Vamos a usar un "Cuando se da clic
+a la bandera verde",</i>
+
+10
+00:00:29,098 --> 00:00:31,631
+<i>y también un bloque de repetición</i>
+
+11
+00:00:32,021 --> 00:00:33,363
+<i>que insertaremos aquí.</i>
+
+12
+00:00:33,718 --> 00:00:37,448
+<i>Y dentro de él pondremos
+un bloque</i> si-entonces,
+
+13
+00:00:37,448 --> 00:00:41,425
+<i>esos dos bloques 
+actuarán al mismo tiempo,</i>
+
+14
+00:00:41,846 --> 00:00:46,009
+<i>entonces ambos se ejecutan,
+cada vez que se repiten:</i>
+
+15
+00:00:46,036 --> 00:00:48,526
+<i>Vamos a ver si Giga toca el color verde.</i>
+
+16
+00:00:48,563 --> 00:00:52,210
+<i>Y vamos a ver si toca la llave.</i>
+
+17
+00:00:52,224 --> 00:00:53,982
+<i>Vamos a </i> Observaciones,
+
+18
+00:00:54,299 --> 00:00:58,353
+<i>porque además de </i> toco un color,
+tenemos un bloque arriba que pone
+
+19
+00:00:58,359 --> 00:01:00,324
+toco un ...
+
+20
+00:01:00,770 --> 00:01:03,176
+<i>Arrastramos ese dentro 
+del bloque</i> si-entonces,
+
+21
+00:01:03,465 --> 00:01:06,202
+<i>Y si doy clic al triangulito invertido,</i>
+
+22
+00:01:06,727 --> 00:01:10,175
+<i>verán que dice</i> "si toco key".
+
+23
+00:01:10,715 --> 00:01:13,210
+<i>Key es la palabra inglesa para llave.</i>
+
+24
+00:01:13,402 --> 00:01:16,528
+<i>Entonces en lugar de mirar 
+el color que Giga toca, </i>
+
+25
+00:01:16,562 --> 00:01:20,205
+<i>miramos aquí que otra figura 
+Giga ha tocado,</i>
+
+26
+00:01:20,553 --> 00:01:24,925
+<i> y como podemos ver aquí abajo,
+la llave aparece como otra figura.</i>
+
+27
+00:01:25,141 --> 00:01:28,928
+Ahora, tu tarea de programación es
+insertar otros bloques de programación,
+
+28
+00:01:29,111 --> 00:01:32,171
+por ejemplo, "si", "hurra", 
+o hacer un sonido,
+
+29
+00:01:32,210 --> 00:01:37,534
+hacer que Giga de vueltas,
+prueben que les parece interesante,
+
+30
+00:01:37,824 --> 00:01:40,746
+para que ustedes hagan suyo el juego.
+¡Éxito!
