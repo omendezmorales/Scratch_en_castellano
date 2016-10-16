@@ -1,0 +1,259 @@
+1
+00:00:00,724 --> 00:00:02,615
+¿Se te da programar?
+
+2
+00:00:02,649 --> 00:00:04,664
+Mira los bloques que he usado.
+
+3
+00:00:04,684 --> 00:00:09,513
+Yo digo "¡si!", y dejo que Giga abra
+la boca, con la apariencia Giga-c.
+
+4
+00:00:09,513 --> 00:00:11,606
+Pero quizá has pensado en 
+algo mucho mas entretenido.
+
+5
+00:00:11,623 --> 00:00:13,918
+Algo con sonido, o con movimiento.
+
+6
+00:00:14,466 --> 00:00:17,471
+Les voy a mostrar cómo 
+funciona mi programa.
+
+7
+00:00:17,909 --> 00:00:21,777
+<i>Si doy clic a la bandera verde, 
+y toco la llave,</i>
+
+8
+00:00:21,777 --> 00:00:24,517
+<i>entonces la apariencia de 
+Giga cambia, y dice "¡SSSí!"</i>
+
+9
+00:00:25,061 --> 00:00:28,358
+<i>Pero todo lo que se te ocurra está bien,
+porque es tu propio juego.</i>
+
+10
+00:00:28,531 --> 00:00:29,817
+<i>Lindo, ¿no?</i>
+
+11
+00:00:30,631 --> 00:00:35,458
+<i>Vamos a hacer el juego aún mas
+emocionante, agregando monstruos.</i>
+
+12
+00:00:35,861 --> 00:00:39,972
+<i>El monstruo intentará atrapara 
+a Giga antes que llegue a la llave.</i>
+
+13
+00:00:40,103 --> 00:00:43,467
+<i>Si quieres agregar una 
+nueva figurita, ve ahí abajo,</i>
+
+14
+00:00:43,774 --> 00:00:45,957
+<i>y da clic en "nuevo sprite".</i>
+
+15
+00:00:45,992 --> 00:00:48,960
+<i>Y ahí está otra figura aparte de Giga.
+Das clic sobre ella.</i>
+
+16
+00:00:49,757 --> 00:00:55,013
+<i>Verás que hay muchas figuritas
+para elegir. Puedes elegir cualquiera.</i>
+
+17
+00:00:55,016 --> 00:00:58,338
+<i>Tenemos todo tipo de animales,
+o seres fantásticos.</i>
+
+18
+00:00:58,338 --> 00:01:03,032
+<i>Yo elijo este "Ghoul", un tipo de fantasma
+terrible, pero tu sabrás que elegir.</i>
+
+19
+00:01:03,274 --> 00:01:07,637
+<i>Si quieres por ejemplo que a Giga le 
+persiga una manzana, ahí hay una.</i>
+
+20
+00:01:07,649 --> 00:01:09,498
+<i>Todo es posible.</i>
+
+21
+00:01:10,939 --> 00:01:14,077
+<i>Mira, ahora tenemos un nuevo fantasma, 
+pero quizá te has asustado</i>
+
+22
+00:01:14,090 --> 00:01:16,393
+<i>porque todos los bloques ya no están.</i>
+
+23
+00:01:16,690 --> 00:01:20,851
+<i>¿Qué ocurre aquí? Naturalmente, no es
+la intención que todo desaparezca.</i>
+
+24
+00:01:21,254 --> 00:01:27,184
+<i>Cada sprite, que es cada figura
+que tienes en el juego,</i>
+
+25
+00:01:27,212 --> 00:01:28,892
+<i>tiene sus propios bloques.</i>
+
+26
+00:01:28,892 --> 00:01:32,063
+<i>Entonces, si doy clic a Giga, miren, 
+aparecen de nuevo mis bloques.</i>
+
+27
+00:01:32,063 --> 00:01:34,553
+<i>Y esos son los que guían a Giga.</i>
+
+28
+00:01:34,553 --> 00:01:37,593
+<i>Entonces, si aparece por ejemplo:
+"toco color verde",</i>
+
+29
+00:01:37,593 --> 00:01:40,356
+<i>Ese 'yo' representa a nuestra Giga</i>.
+
+30
+00:01:40,356 --> 00:01:44,650
+<i>Entonces si yo regreso al fantasma,
+aún no hay bloques,</i>
+
+31
+00:01:44,650 --> 00:01:48,388
+<i>porque esos bloques aún 
+no los programamos.</i>
+
+32
+00:01:48,388 --> 00:01:50,988
+<i>¿Qué podemos hacer con el fantasma?</i>
+
+33
+00:01:50,988 --> 00:01:53,834
+<i>Bueno, puedes inventarte algo, 
+pero te voy a dar un par de ejemplos</i>
+
+34
+00:01:53,904 --> 00:01:56,060
+<i>que podemos hacer con el fantasma.</i>
+
+35
+00:01:56,060 --> 00:01:59,982
+<i>Lo primero que haremos es 
+encoger un poco el tamaño del fantasma,</i>
+
+36
+00:01:59,982 --> 00:02:02,169
+<i>con el botoncito de reducción,
+porque si no,</i>
+
+37
+00:02:02,169 --> 00:02:04,678
+<i>se complicará mucho el juego.</i>
+
+38
+00:02:05,737 --> 00:02:09,205
+<i>Usaremos de nuevo un bloque
+"cuando se da clic a la bandera verde",</i>
+
+39
+00:02:09,249 --> 00:02:11,539
+<i>porque esa es la forma 
+de iniciar el juego,</i>
+
+40
+00:02:11,562 --> 00:02:14,685
+<i>y vamos a insertar también
+un bloque de repetición.</i>
+
+41
+00:02:14,702 --> 00:02:19,262
+<i>Ese lo van a necesitar casi siempre, ya 
+que cada figurita que tengas en el juego,</i>
+
+42
+00:02:19,457 --> 00:02:22,629
+<i>querrás hacer algo, y más de una vez.</i>
+
+43
+00:02:22,649 --> 00:02:24,852
+<i>Bueno, ahora es tu tarea.</i>
+
+44
+00:02:24,978 --> 00:02:28,251
+Puedes elegir por tu cuenta 
+que va a hacer el fantasma.
+
+45
+00:02:28,683 --> 00:02:32,867
+Algunos bloques que puedes probar
+son los de movimiento
+
+46
+00:02:32,869 --> 00:02:34,999
+que están en el cuadro azul.
+
+47
+00:02:35,669 --> 00:02:37,584
+Lo voy a poner el azul.
+
+48
+00:02:37,584 --> 00:02:39,301
+Esos bloquecitos los pueden probar.
+
+49
+00:02:39,301 --> 00:02:42,143
+Así podrán hacer que se mueva 
+el fantasma para todos lados.
+
+50
+00:02:42,151 --> 00:02:44,257
+Y un bloque que seguramente 
+quieren probar es
+
+51
+00:02:44,303 --> 00:02:48,686
+'cuando llego al límite, dar la vuelta'.
+
+52
+00:02:49,001 --> 00:02:50,551
+Prueben lo que hace.
+
+53
+00:02:50,612 --> 00:02:53,823
+Ese es quizá un bloque muy útil
+de usar por el fantasma.
+
+54
+00:02:53,846 --> 00:02:56,568
+En la siguiente tarea pueden 
+enviarnos una imagen de su
+
+55
+00:02:56,648 --> 00:03:00,131
+programa fantasma, para demostrar 
+lo creativos que son
+
+56
+00:03:00,131 --> 00:03:01,989
+con los bloques que eligieron.
+¡Éxito!
