@@ -1,0 +1,187 @@
+1
+00:00:00,580 --> 00:00:03,713
+Hemos visto unas fotos 
+súper lindas de ustedes,
+
+2
+00:00:03,713 --> 00:00:05,858
+y este es el programa que yo hice.
+
+3
+00:00:05,870 --> 00:00:07,290
+Miren lo que hago aquí.
+
+4
+00:00:07,290 --> 00:00:11,109
+Repito cada vez 'dar cinco pasos',
+y lo que también hago es:
+
+5
+00:00:11,109 --> 00:00:13,168
+me doy vuelta si llego al límite.
+
+6
+00:00:13,623 --> 00:00:16,916
+Y, un bloquecito extra que aun uso
+es 'dirigirse a Giga'.
+
+7
+00:00:17,269 --> 00:00:21,236
+Ese fantasma puede buscar 
+automáticamente a donde se encuentre Giga,
+
+8
+00:00:21,419 --> 00:00:22,737
+e irá hacia ella.
+
+9
+00:00:22,947 --> 00:00:25,520
+Miren lo espantoso que ese 
+fantasma está programado.
+
+10
+00:00:25,520 --> 00:00:27,642
+Entonces si doy clic ahora
+a la bandera verde...
+
+11
+00:00:27,664 --> 00:00:28,998
+<i>¡uuh!
+¡Miren!</i>
+
+12
+00:00:28,998 --> 00:00:31,033
+<i>¡Ahí viene!
+Y me ha atrapado de inmediato.</i>
+
+13
+00:00:31,391 --> 00:00:33,906
+<i>Entonces quizá esos cinco 
+pasos son un poco rápido.</i>
+
+14
+00:00:34,254 --> 00:00:36,479
+<i>Porque el fantasma llega muy rápido.</i>
+
+15
+00:00:37,077 --> 00:00:39,453
+<i>Entonces si me coloco un poco más lejos,</i>
+
+16
+00:00:39,453 --> 00:00:42,805
+<i>uuh, rápido, debo correr
+antes que el fantasma me atrape.</i>
+
+17
+00:00:43,128 --> 00:00:45,352
+<i>Ahora ven ustedes de una
+cuál es el problema.</i>
+
+18
+00:00:45,807 --> 00:00:48,181
+<i>Ese fantasma me atrapa todo el tiempo,</i>
+
+19
+00:00:48,380 --> 00:00:52,922
+<i>No pasa otra cosa sino que sigue dando
+la vuelta una vez que me ha atrapado.</i>
+
+20
+00:00:52,931 --> 00:00:54,991
+<i>Eso es algo que naturalmente no queremos.</i>
+
+21
+00:00:55,018 --> 00:00:57,334
+<i>Querríamos mejor, que cuando
+chocamos contra el muro,</i>
+
+22
+00:00:57,638 --> 00:01:02,957
+<i>que Giga vaya de vuelta al inicio
+si el fantasma la atrapa.</i>
+
+23
+00:01:02,967 --> 00:01:05,992
+<i>Entonces vamos a ver el código de Giga.</i>
+
+24
+00:01:06,919 --> 00:01:11,526
+<i>Le damos clic.
+Y aquí podemos agregar un bloque extra.</i>
+
+25
+00:01:11,709 --> 00:01:13,630
+<i>Vamos a 'funciones'.</i>
+
+26
+00:01:13,651 --> 00:01:16,303
+<i>Veremos una nueva opción 
+que aun no hemos probado.</i>
+
+27
+00:01:16,340 --> 00:01:18,884
+<i>Y ahí hay una serie de cálculos.</i>
+
+28
+00:01:18,884 --> 00:01:21,961
+<i>Pero además ven ustedes un bloque de 'o'</i>
+
+29
+00:01:21,961 --> 00:01:24,996
+<i>Y ese pueden usarlo combinado 
+con un bloque 'si-entonces'.</i>
+
+30
+00:01:25,938 --> 00:01:30,465
+<i>Si-entonces, o si-esto-o-aquello, 
+entonces pasa algo.</i>
+
+31
+00:01:30,508 --> 00:01:34,082
+<i>Tomo entonces ese bloque 'o',
+y lo coloco aquí abajo,</i>
+
+32
+00:01:34,082 --> 00:01:36,057
+<i>porque necesitamos un poco de espacio.</i>
+
+33
+00:01:36,057 --> 00:01:39,284
+<i>Entonces tomo un bloque 
+'toco color verde', y ese lo inserto.</i>
+
+34
+00:01:39,716 --> 00:01:42,251
+<i>Y luego lo pongo de vuelta.</i>
+
+35
+00:01:42,775 --> 00:01:49,298
+<i>Entonces ahora tengo:
+si alcanzo el muro verde, o algo más,</i>
+
+36
+00:01:49,298 --> 00:01:54,969
+<i>si ocurre ese algo o toco el muro,
+entonces debo ir al inicio.</i>
+
+37
+00:01:54,983 --> 00:01:57,077
+<i>Ahora, el rompecabezas es suyo.</i>
+
+38
+00:01:57,242 --> 00:02:00,295
+¿Saben ustedes qué otro bloque debe de ir
+
+39
+00:02:00,349 --> 00:02:04,085
+Si queremos regresar al inicio
+cuando el fantasma toca a Giga?
+
+40
+00:02:04,085 --> 00:02:06,559
+Esa es vuestra siguiente 
+tarea de programación.
+
+41
+00:02:06,559 --> 00:02:07,523
+¡Éxito!
