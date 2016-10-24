@@ -1,0 +1,190 @@
+1
+00:00:00,000 --> 00:00:02,047
+Bueno, ¿Esa no fue 
+una tarea difícil, verdad?
+
+2
+00:00:02,047 --> 00:00:03,425
+Les tuvo que haber resultado bien.
+
+3
+00:00:03,425 --> 00:00:05,265
+Miren lo que yo he programado.
+
+4
+00:00:05,540 --> 00:00:08,855
+Si toco el muro verde, o al Ghoul.
+
+5
+00:00:09,161 --> 00:00:11,143
+Si me atrapa el fantasma,
+regreso al inicio.
+
+6
+00:00:11,143 --> 00:00:13,396
+Miren como luce eso.
+
+7
+00:00:14,776 --> 00:00:16,403
+Doy clic a la bandera verde.
+
+8
+00:00:16,403 --> 00:00:19,172
+¡Ahí viene el fantasma!
+Uf, tengo que ir al inicio.
+
+9
+00:00:19,986 --> 00:00:22,146
+Y para el fantasma 
+no necesito programar nada
+
+10
+00:00:22,177 --> 00:00:25,163
+que regrese a su inicio 
+si toca el muro verde.
+
+11
+00:00:25,372 --> 00:00:29,141
+Porque es un fantasma, 
+y los fantasmas atraviesan muros.
+
+12
+00:00:29,148 --> 00:00:30,314
+Eso no es problema.
+
+13
+00:00:30,908 --> 00:00:33,025
+<i>Solo hay una cosa que 
+no hemos programado aún.</i>
+
+14
+00:00:33,332 --> 00:00:36,202
+<i>Cada vez que iniciamos el juego, como ven,</i>
+
+15
+00:00:36,202 --> 00:00:38,303
+<i>voy a colocar a Giga aquí en el medio.</i>
+
+16
+00:00:38,696 --> 00:00:40,358
+<i>Si ahora doy clic a la bandera verde, </i>
+
+17
+00:00:40,986 --> 00:00:43,188
+<i>entonces comienza donde está ahora.</i>
+
+18
+00:00:43,189 --> 00:00:45,560
+<i>Eso naturalmente no es lo mejor.</i>
+
+19
+00:00:45,560 --> 00:00:48,775
+<i>Entonces algo que queremos
+programar es que Giga comience</i>
+
+20
+00:00:49,092 --> 00:00:51,750
+<i>al inicio del juego cuando este comienza.</i>
+
+21
+00:00:53,093 --> 00:00:57,410
+<i>Si yo la coloco donde quiero que empiece,
+es un truco útil</i>
+
+22
+00:00:57,410 --> 00:01:02,350
+si yo voy a <i>movimiento</i> 
+y tomo el bloque <i>ir-a</i>,
+
+23
+00:01:02,393 --> 00:01:08,627
+<i>entonces verán unos numeritos que
+indican dónde se encuentra Giga ahora.</i>
+
+24
+00:01:09,144 --> 00:01:11,494
+<i>Entonces si no quieren escribir cada vez,</i>
+
+25
+00:01:11,784 --> 00:01:14,589
+<i>siempre pueden colocar su figurita
+donde la necesiten que vaya,</i>
+
+26
+00:01:14,899 --> 00:01:16,942
+y luego usen el bloque <i>ir-a</i>.
+
+27
+00:01:17,721 --> 00:01:21,133
+<i>Ese bloque lo fijan una sola vez aquí.</i>
+
+28
+00:01:21,133 --> 00:01:23,563
+<i>De hecho no dentro 
+del bloque de repetición,</i>
+
+29
+00:01:23,563 --> 00:01:25,819
+<i>porque solo quiero 
+ir una sola vez al inicio,</i>
+
+30
+00:01:25,819 --> 00:01:28,117
+<i>y no retornar cada vez ahí.</i>
+
+31
+00:01:28,231 --> 00:01:30,298
+<i>Entonces les voy a mostrar cómo funciona.</i>
+
+32
+00:01:30,639 --> 00:01:32,867
+<i>Imaginen que Giga terminó ahí.</i>
+
+33
+00:01:33,190 --> 00:01:37,075
+<i>Si doy ahora clic a la bandera verde, 
+entonces ella irá al inicio.</i>
+
+34
+00:01:38,333 --> 00:01:41,332
+<i>Lo mismo tenemos que hacer con el fantasma.</i>
+
+35
+00:01:41,622 --> 00:01:44,152
+Porque como vieron cuando
+di clic a la bandera,
+
+36
+00:01:44,501 --> 00:01:48,025
+el fantasma permaneció justo
+donde quedó en el juego anterior.
+
+37
+00:01:48,408 --> 00:01:51,808
+Entonces vuestra siguiente tarea
+de programación es hacer también
+
+38
+00:01:51,808 --> 00:01:55,068
+que el fantasma comience en
+un punto fijo al inicio del juego.
+
+39
+00:01:55,068 --> 00:01:57,542
+Siempre el mismo punto; 
+ustedes eligen cuál.
+
+40
+00:01:57,542 --> 00:02:00,403
+Pueden hacer que inicie 
+sobre la llave, o en el medio.
+
+41
+00:02:00,499 --> 00:02:04,293
+Elijan pues, pero la intención 
+es que cada vez que comience el juego,
+
+42
+00:02:04,293 --> 00:02:07,501
+el fantasma esté en un lugar definido.
+¡Éxito!
