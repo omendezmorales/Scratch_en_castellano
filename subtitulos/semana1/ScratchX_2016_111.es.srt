@@ -1,0 +1,398 @@
+1
+00:00:01,241 --> 00:00:02,622
+¿Cómo les fue?
+
+2
+00:00:02,622 --> 00:00:04,913
+Miren, aquí es donde el 
+bloque tiene que colocarse.
+
+3
+00:00:04,913 --> 00:00:07,742
+Si la toca el fantasma, entonces 
+restamos un 1 a los puntos.
+
+4
+00:00:07,742 --> 00:00:11,244
+Algo que quizá han visto es que 
+esos puntos ahora están justo
+
+5
+00:00:11,273 --> 00:00:12,873
+en la nariz de Giga.
+
+6
+00:00:13,503 --> 00:00:15,150
+Eso no luce muy bien.
+
+7
+00:00:15,350 --> 00:00:17,774
+Si no nos gusta, podemos cambiarlo.
+Miren conmigo.
+
+8
+00:00:18,523 --> 00:00:20,074
+<i>Puedo hacer dos cosas,</i>
+
+9
+00:00:20,074 --> 00:00:23,064
+<i>puedo quitar esta palomita, 
+en 'hacer una variable'</i>
+
+10
+00:00:23,314 --> 00:00:26,514
+<i>Si quito la palomita, 
+entonces 'puntos' no aparecerá.</i>
+
+11
+00:00:26,834 --> 00:00:32,405
+<i>A veces puede ser útil,
+si es visible el valor de la variable.</i>
+
+12
+00:00:32,686 --> 00:00:34,376
+<i>La cifra que tiene la variable.</i>
+
+13
+00:00:34,376 --> 00:00:37,287
+<i>Entonces puedo tomar esos puntos,
+y colocarlos en otro lado,</i>
+
+14
+00:00:37,287 --> 00:00:39,318
+<i>donde me parezca mejor.
+Por ejemplo aquí abajo.</i>
+
+15
+00:00:39,318 --> 00:00:42,787
+<i>Ahí no llega Giga tan a menudo.
+Entonces lo puedo colocar ahí.</i>
+
+16
+00:00:43,996 --> 00:00:46,357
+<i>Ese es un fenomenal buen juego, ¿no creen?</i>
+
+17
+00:00:46,366 --> 00:00:50,116
+<i>Doy clic a la bandera, 
+y luego tengo que apresurarme</i>
+
+18
+00:00:50,137 --> 00:00:52,056
+<i>antes que me atrape el fantasma.</i>
+
+19
+00:00:52,066 --> 00:00:54,699
+<i>Si quieren hacerlo un poco más fácil,
+pueden hacer que Giga</i>
+
+20
+00:00:54,699 --> 00:00:56,928
+<i>sea mas rápida, o el fantasma, 
+pero en todo caso tienen</i>
+
+21
+00:00:56,928 --> 00:00:59,918
+<i>una base para hacer que funcione el juego.</i>
+
+22
+00:01:00,488 --> 00:01:04,028
+Pueden adaptar el juego como lo deseen.
+
+23
+00:01:04,038 --> 00:01:09,738
+Pueden por ejemplo agregar otras 
+figuritas, otros sonidos, o actividades.
+
+24
+00:01:09,738 --> 00:01:11,447
+Pueden cambiar tantas cosas como deseen.
+
+25
+00:01:12,088 --> 00:01:13,589
+Ese es el don de la programación,
+
+26
+00:01:13,589 --> 00:01:17,109
+pueden poner tantas cosas
+como se les ocurran en la computadora.
+
+27
+00:01:17,501 --> 00:01:19,880
+Hay algo más que quiero mostrarles.
+
+28
+00:01:19,880 --> 00:01:23,430
+Porque naturalmente es agradable cuando 
+tras trabajar tanto en sus programas,
+
+29
+00:01:23,450 --> 00:01:27,460
+pueden almacenarlos en 
+la computadora, o en internet.
+
+30
+00:01:27,800 --> 00:01:32,232
+En el sitio web de Scratch, 
+pueden crear su propia cuenta
+
+31
+00:01:32,232 --> 00:01:35,902
+Y si ingresan con su cuenta,
+estarán disponibles todos sus juegos,
+
+32
+00:01:35,902 --> 00:01:39,821
+no importa dónde estén, en casa o 
+el colegio, o con tus abuelos.
+
+33
+00:01:40,131 --> 00:01:43,262
+Si ingresas, tus juegos permanecen en internet.
+
+34
+00:01:43,262 --> 00:01:45,503
+Me gustaría mostrarles cómo 
+hacer su propia cuenta
+
+35
+00:01:45,503 --> 00:01:47,842
+para que no se pierdan 
+jamás vuestros juegos.
+
+36
+00:01:49,532 --> 00:01:53,373
+<i>Ya pueden ver aquí sobre la barra, 
+que dice 'Ingresa para guardar'.</i>
+
+37
+00:01:53,602 --> 00:01:57,893
+<i>Solo si le has dicho a Scratch quien eres,
+sabrán donde tiene que guardar.</i>
+
+38
+00:01:58,894 --> 00:02:00,624
+<i>Eso lo puedes hacer aquí 
+dando clic en 'log in',</i>
+
+39
+00:02:00,634 --> 00:02:02,164
+<i>y luego dar clic en ese triangulito.</i>
+
+40
+00:02:02,473 --> 00:02:05,714
+<i>Ahora aparece 'Log in', pero aun no 
+tenemos un nombre de usuario o contraseña.</i>
+
+41
+00:02:06,024 --> 00:02:08,355
+<i>Entonces lo que haremos 
+en lugar de ingresar,</i>
+
+42
+00:02:08,390 --> 00:02:10,254
+<i>es dar clic en 'hacerse Scratcher'.</i>
+
+43
+00:02:10,504 --> 00:02:13,455
+<i>Y luego pueden elegir 
+vuestro nombre de usuario.</i>
+
+44
+00:02:13,805 --> 00:02:17,326
+<i>Pueden elegir cómo llamarse, 
+o inventarse algo.</i>
+
+45
+00:02:17,576 --> 00:02:22,796
+<i>Por ejemplo, 'PietjePuk123456' es un lindo
+nombre que aun no existe.</i>
+
+46
+00:02:23,366 --> 00:02:27,914
+<i>Aquí deben elegir la contraseña, y ven que
+aparece un pop-up, muy importante.</i>
+
+47
+00:02:28,237 --> 00:02:31,757
+<i>Deben recordar bien la contraseña, 
+y nunca decírsela a alguien.</i>
+
+48
+00:02:32,067 --> 00:02:34,618
+<i>Elijan de preferencia 
+una palabra un poco difícil,</i>
+
+49
+00:02:34,618 --> 00:02:37,778
+<i>o sea no el nombre 
+de su mascota o profesora.</i>
+
+50
+00:02:37,778 --> 00:02:39,787
+<i>Algo que nadie pueda adivinar.</i>
+
+51
+00:02:40,187 --> 00:02:43,107
+<i>¡Desde luego que no 
+les voy a decir la mía!</i>
+
+52
+00:02:45,097 --> 00:02:47,899
+<i>Así que no pueden ver lo que he escrito.</i>
+
+53
+00:02:47,918 --> 00:02:50,049
+<i>Pero puede ustedes 
+mismos inventarse algo.</i>
+
+54
+00:02:50,049 --> 00:02:55,165
+<i>Luego doy clic en siguiente, 
+y poner ahí la fecha de nacimiento.</i>
+
+55
+00:02:55,165 --> 00:02:58,519
+<i>Mi nacimiento fue hace mucho 
+tiempo como pueden ver.</i>
+
+56
+00:02:58,899 --> 00:03:02,719
+<i>Soy una chica, y en mi caso, 
+nací en "Holanda".</i>
+
+57
+00:03:02,719 --> 00:03:07,890
+<i>Si no tienen ganas de ir hasta abajo, 
+siempre pueden empujar la 'h',</i>
+
+58
+00:03:08,120 --> 00:03:10,320
+<i>y eventualmente aparecerá 'Holanda'.</i>
+
+59
+00:03:10,660 --> 00:03:12,960
+<i>Lástima que solo aparecen 
+nombres en Inglés.</i>
+
+60
+00:03:12,981 --> 00:03:15,861
+<i>Clic en siguiente.</i>
+<i>Aquí pueden llenar su dirección de email,</i>
+
+61
+00:03:15,861 --> 00:03:18,315
+<i>para que sepan a quien 
+corresponde cada cuenta.</i>
+
+62
+00:03:18,315 --> 00:03:20,232
+<i>Pueden tomar su propia direccion de email,</i>
+
+63
+00:03:20,232 --> 00:03:23,502
+<i>o si no tienen una, 
+pídanle ayuda a su papá o mamá.</i>
+
+64
+00:03:24,332 --> 00:03:26,472
+<i>Les voy a mostrar mi dirección de email.</i>
+
+65
+00:03:27,282 --> 00:03:29,882
+<i>Si desean, pueden enviarme un mensaje,
+en caso de de dudas.</i>
+
+66
+00:03:30,102 --> 00:03:34,494
+<i>Luego clic en siguiente.
+Dura un poco.</i>
+
+67
+00:03:35,573 --> 00:03:37,813
+<i>Y luego, Scratch hará 
+un programa para ustedes.</i>
+
+68
+00:03:38,094 --> 00:03:40,894
+<i>¡Bienvenido a Scratch, PietjePuk123456!</i>
+
+69
+00:03:41,144 --> 00:03:42,203
+<i>Comencemos.</i>
+
+70
+00:03:42,203 --> 00:03:47,014
+<i>Miren, ahora estamos de vuelta al juego, 
+y aqui arriba podemos ver:</i>
+
+71
+00:03:47,234 --> 00:03:49,243
+<i>'¿Quieren guardar?, den clic en remix'</i>
+
+72
+00:03:49,523 --> 00:03:51,434
+<i>Bueno, den clic en 'remix'.</i>
+
+73
+00:03:52,454 --> 00:03:54,325
+<i>Digan, 'OK, entiendo'.</i>
+
+74
+00:03:54,715 --> 00:03:59,577
+<i>Y lo que va a pasar si quieren hacer remix,
+es que reciben una copia propia del juego.</i>
+
+75
+00:03:59,836 --> 00:04:01,367
+<i>Entonces inician con mi juego,</i>
+
+76
+00:04:01,617 --> 00:04:04,816
+<i>y luego el juego se guarda en 
+vuestra propia cuenta de Scratch.</i>
+
+77
+00:04:05,185 --> 00:04:07,126
+<i>Dan clic en 'OK, entiendo'.</i>
+
+78
+00:04:07,526 --> 00:04:09,546
+<i>Y entonces ahora verán arriba que dice:</i>
+
+79
+00:04:09,546 --> 00:04:13,723
+<i>'Iniciar remix de Laberinto de PietjePuk',
+en lugar de 'de Felienne'.</i>
+
+80
+00:04:13,783 --> 00:04:18,819
+<i>Y a partir de ahora será vuestro proyecto, 
+sin importar la computadora que usen,</i>
+
+81
+00:04:19,107 --> 00:04:22,557
+para que puedan continuar programándolo.
+
+82
+00:04:23,127 --> 00:04:25,318
+Espero que les haya gustado
+la primera lección.
+
+83
+00:04:25,318 --> 00:04:29,837
+Que hayan ya aprendido algo sobre programación, 
+repeticiones y condiciones,
+
+84
+00:04:29,837 --> 00:04:32,485
+y en la siguiente lección haremos otros juego
+
+85
+00:04:32,485 --> 00:04:36,739
+donde Gerrie el pez debe atrapar 
+otros pececillos para crecer.
+
+86
+00:04:37,289 --> 00:04:39,360
+¡Hasta la siguiente semana!
