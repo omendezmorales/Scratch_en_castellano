@@ -1,0 +1,109 @@
+1
+00:00:00,114 --> 00:00:01,923
+Estamos en el camino 
+correcto con nuestro juego,
+
+2
+00:00:01,923 --> 00:00:03,572
+pero lo podemos hacer 
+aún más emocionante
+
+3
+00:00:03,595 --> 00:00:05,331
+si añadimos un enemigo.
+
+4
+00:00:05,379 --> 00:00:07,424
+Al igual que hicimos la semana 
+pasada con el fantasma.
+
+5
+00:00:07,445 --> 00:00:10,284
+Vamos a escoger un nuevo sprite,
+miren conmigo.
+
+6
+00:00:10,399 --> 00:00:14,052
+Nuevo "sprite", y entonces 
+podemos elegir lo que queramos.
+
+7
+00:00:14,073 --> 00:00:17,919
+Así que tal vez quieran
+un avión i.e. aquarium,
+
+8
+00:00:17,919 --> 00:00:21,115
+<i>o una manzana, pero voy a
+escoger un pez venenoso.</i>
+
+9
+00:00:21,125 --> 00:00:22,146
+<i>Este de aquí.</i>
+
+10
+00:00:22,146 --> 00:00:26,539
+<i>Y el pez venenoso, que está a punto de 
+tratar de comer a Gerrie también.</i>
+
+11
+00:00:26,571 --> 00:00:29,327
+<i>Porque, Gerrie no sólo adora
+comer pescado,</i>
+
+12
+00:00:29,376 --> 00:00:31,526
+<i>A los peces también
+les encanta comerse a Gerrie.</i>
+
+13
+00:00:32,620 --> 00:00:35,916
+<i>La primer tarea que pueden
+ programar por sí mismos,</i>
+
+14
+00:00:36,019 --> 00:00:39,586
+<i>es hacer Gerrie muy pequeño, 
+o sea, permitir que se encoja ,</i>
+
+15
+00:00:39,586 --> 00:00:42,925
+<i>si le toca accidentalmente
+el pez venenoso .</i>
+
+16
+00:00:42,960 --> 00:00:44,531
+<i>Volvemos al código de Gerrie,</i>
+
+17
+00:00:44,652 --> 00:00:48,570
+<i>y en apariencias verán no sólo
+"cambiar tamaño con 10",</i>
+
+18
+00:00:48,784 --> 00:00:52,774
+<i>sino también "aumentar tamaño"
+y se puede poner, por ejemplo,</i>
+
+19
+00:00:52,898 --> 00:00:55,085
+<i>el 20% que es muy, muy pequeña.</i>
+
+20
+00:00:55,570 --> 00:00:59,627
+Y vuestra tarea que si a Gerrie 
+lo toca el pez venenoso,
+
+21
+00:01:00,122 --> 00:01:02,415
+reducir su tamaño completo al 20%.
+
+22
+00:01:02,588 --> 00:01:05,301
+Así que piensen de nuevo en
+el bloque "repetir", el de "tocar",
+
+23
+00:01:05,301 --> 00:01:08,565
+y en el bloque condicional,
+y creo que lo harán muy bien.
