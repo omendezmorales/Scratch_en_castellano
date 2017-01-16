@@ -1,0 +1,91 @@
+1
+00:00:00,442 --> 00:00:01,552
+¡Hola a todos!
+
+2
+00:00:01,552 --> 00:00:03,702
+Bienvenidos a la lección 2 de Scratch 
+EdX con Felienne.
+
+3
+00:00:03,873 --> 00:00:05,831
+Esta semana vamos a pescar
+en el mar profundo,
+
+4
+00:00:06,031 --> 00:00:08,063
+y si han seguido los enlaces
+del entorno en linea,
+
+5
+00:00:08,283 --> 00:00:11,703
+entonces habrán encontrado 
+el siguiente programa.
+
+6
+00:00:11,703 --> 00:00:13,353
+Miren conmigo.
+
+7
+00:00:13,502 --> 00:00:14,973
+<i>Aquí está el programa.</i>
+
+8
+00:00:15,044 --> 00:00:17,544
+<i>Pueden ver que tenemos a </i> Gerrie,
+<i>y un pececillo morado,</i>
+
+9
+00:00:17,544 --> 00:00:20,484
+<i>pero por lo demás
+no tenemos ni un bloque aun</i>
+
+10
+00:00:20,663 --> 00:00:22,874
+<i>porque esos los van a 
+agregar ustedes mismos.</i>
+
+11
+00:00:23,345 --> 00:00:26,405
+<i>Igual que la semana anterior,
+queremos dirigir una figurita</i>
+
+12
+00:00:26,405 --> 00:00:29,304
+<i>con las teclas izquierda, 
+derecha,arriba, y abajo.</i>
+
+13
+00:00:29,663 --> 00:00:34,405
+<i>Así que lo que seguramente necesitamos
+es un bloque "cuando . . es presionado", </i>
+
+14
+00:00:35,075 --> 00:00:39,946
+<i>ya sea arriba, abajo, izquierda, 
+o derecha, y lo que también vamos a usar </i>
+
+15
+00:00:39,946 --> 00:00:44,246
+<i>son estos bloques: "cambiar x", 
+y "cambiar y".</i>
+
+16
+00:00:44,536 --> 00:00:48,556
+Pero tras la lección 1 naturalmente
+ya son programadores independientes,
+
+17
+00:00:48,786 --> 00:00:51,967
+entonces creo que les va a funcionar,
+elegir los bloques adecuados
+
+18
+00:00:52,017 --> 00:00:55,437
+y ponerlos en en lugar correcto:
+izquierda, derecha, arriba y abajo.
+
+19
+00:00:55,447 --> 00:00:57,824
+Esa es vuestra primera tarea
+para la lección 2. ¡Sorprendanme!
