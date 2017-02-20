@@ -1,0 +1,163 @@
+1
+00:00:00,260 --> 00:00:01,479
+¿Les ha resultado?
+
+2
+00:00:01,479 --> 00:00:03,980
+Aquí pueden ver el mio.
+Lo que he hecho es repetir,
+
+3
+00:00:04,035 --> 00:00:07,743
+y cada vez que toco a Gerrie,
+entonces dice "ayuda",
+
+4
+00:00:07,743 --> 00:00:11,229
+y he hecho además un sonido
+de "pop", así que oirán
+
+5
+00:00:11,229 --> 00:00:14,293
+cuando el pececillo sea atrapado.
+Miren conmigo cómo funciona:
+
+6
+00:00:14,729 --> 00:00:18,722
+<i>Este es Gerrie, está nadando,
+y si toca al pececito morado,</i>
+
+7
+00:00:19,183 --> 00:00:22,356
+<i>entonces dirá "ayuda!",
+y escuchan además todo el tiempo</i>
+
+8
+00:00:22,356 --> 00:00:24,580
+<i>el sonido, en tanto lo esté tocando.</i>
+
+9
+00:00:24,991 --> 00:00:28,623
+<i>Ahora, ese ya es un bonito programa,
+pero naturalmente queremos que</i>
+
+10
+00:00:28,834 --> 00:00:33,045
+<i>el pececito desaparezca si es comido,
+eso es que no debe seguir ahí. </i>
+
+11
+00:00:33,316 --> 00:00:38,858
+<i>En "apariencia", podemos encontrar también
+bloques para aparecer y desaparecer,</i>
+
+12
+00:00:39,212 --> 00:00:43,602
+<i>así que tomamos ese bloque de desaparecer,
+y ese lo vamos a poner en el lugar correcto.</i>
+
+13
+00:00:43,903 --> 00:00:50,831
+<i>Esta es una tarea intermedia para que
+identifiquen el lugar donde tiene que ir.</i>
+
+14
+00:00:52,675 --> 00:00:55,654
+<i>Bueno, eso no era tan complicado, ¿verdad?</i>
+
+15
+00:00:55,654 --> 00:00:58,394
+Toman el bloque desaparecer 
+y lo colocan aquí.
+
+16
+00:00:58,394 --> 00:01:01,943
+<i>No importa si lo hacen antes 
+o después del sonido, </i>
+
+17
+00:01:02,677 --> 00:01:04,715
+<i>y ahora vamos a iniciar.</i>
+
+18
+00:01:05,227 --> 00:01:07,751
+<i>Y si tocamos al pececito,
+miren, ahí vamos,</i>
+
+19
+00:01:08,020 --> 00:01:09,748
+<i>el pececillo ha desaparecido.</i>
+
+20
+00:01:09,892 --> 00:01:11,143
+<i>¡Eso funciona bien!</i>
+
+21
+00:01:11,870 --> 00:01:14,689
+<i>Solo que funciona un poquito muy bien,</i>
+
+22
+00:01:14,939 --> 00:01:17,665
+<i>miren, ahora no quedan más pescaditos,</i>
+
+23
+00:01:17,858 --> 00:01:23,027
+<i>y no regresan, porque si lo ha tocado 
+una vez, entonces ha desaparecido,</i>
+
+24
+00:01:23,333 --> 00:01:25,929
+<i>y asi, ya no regresa más.</i>
+
+25
+00:01:26,359 --> 00:01:29,248
+<i>Entonces para ello podemos usar
+un bloque "aparecer",</i>
+
+26
+00:01:29,593 --> 00:01:33,926
+<i>y ese bloque lo colocamos abajo.
+¿Qué vamos a hacer?</i>
+
+27
+00:01:34,506 --> 00:01:38,761
+Vuestra siguiente tarea de programación
+es hacer que el pececillo
+
+28
+00:01:38,761 --> 00:01:42,842
+no desaparezca para siempre, 
+sino por un momento.
+
+29
+00:01:42,902 --> 00:01:45,973
+Entonces, debe desaparecer,
+esperar un rato, por ejemplo,
+
+30
+00:01:45,973 --> 00:01:48,682
+un segundo, y luego aparecer de vuelta.
+
+31
+00:01:49,035 --> 00:01:51,980
+Así que, ¿saben ustedes qué bloques
+se tienen que usar para eso?
+
+32
+00:01:52,270 --> 00:01:56,043
+Un bloque de espera, que quizá recuerden
+de la lección 1, ese está en la categoría
+
+33
+00:01:56,043 --> 00:02:01,061
+"dirigir", una categoría donde encuentran
+ese bloque, y miren si usando los bloques
+
+34
+00:02:01,061 --> 00:02:03,288
+de desaparecer, esperar y aparecer,
+
+35
+00:02:03,288 --> 00:02:05,169
+los colocan en el lugar indicado.
+¡Éxito!
