@@ -1,0 +1,216 @@
+1
+00:00:00,376 --> 00:00:05,188
+Esa fue una tarea pesada,
+porque si el pececillo desaparece,
+
+2
+00:00:05,188 --> 00:00:06,919
+entonces no regresa más.
+
+3
+00:00:06,919 --> 00:00:10,148
+Así que lo complicado es
+que si inicias en la parte superior,
+
+4
+00:00:10,148 --> 00:00:15,449
+al menos una vez necesitan un bloque
+de "aparecer"; porque si termina el juego
+
+5
+00:00:15,449 --> 00:00:18,770
+cuando el pececillo debe [inaudible],
+entonces no regresa mas.
+
+6
+00:00:18,770 --> 00:00:21,840
+Entonces necesitan dos bloques 
+de "aparecer": uno aquí arriba,
+
+7
+00:00:22,161 --> 00:00:25,460
+y otro hasta el final, 
+luego que ha desaparecido.
+
+8
+00:00:25,481 --> 00:00:28,041
+Así va a funcionar bien.
+Miren conmigo.
+
+9
+00:00:28,250 --> 00:00:29,981
+<i>Si doy clic a la bandera verde,</i>
+
+10
+00:00:30,201 --> 00:00:32,741
+<i>entonces aparece,
+es este bloque</i>,
+
+11
+00:00:32,771 --> 00:00:35,982
+<i>y enseguida, cada vez que lo toco</i>
+
+12
+00:00:36,211 --> 00:00:37,752
+<i>entonces desaparece,</i>
+
+13
+00:00:38,026 --> 00:00:41,213
+<i>pero después de un segundo, regresa.
+Entonces si Gerrie se aleja,</i>
+
+14
+00:00:41,454 --> 00:00:44,664
+<i>entonces reaparece, 
+y sigue diciendo "ayuda"</i>.
+
+15
+00:00:45,513 --> 00:00:48,554
+<i>Así no es un juego tan dificil,
+porque si el pececillo morado</i>
+
+16
+00:00:48,744 --> 00:00:52,103
+<i>siempre está en el mismo lugar,
+bueno, es más fácil para Gerrie</i>.
+
+17
+00:00:52,335 --> 00:00:54,395
+<i>Él puede seguir atrapándolo
+con solo regresar</i>.
+
+18
+00:00:54,665 --> 00:00:57,836
+<i>No es tan difícil de jugar.</i>
+
+19
+00:00:58,376 --> 00:01:02,477
+<i>Entonces preferiríamos que
+en lugar de reaparecer en el mismo lugar,</i>
+
+20
+00:01:02,775 --> 00:01:06,916
+<i>que aparezca mejor en un lugar al azar</i>.
+
+21
+00:01:07,306 --> 00:01:11,177
+<i>Vamos al bloque de "movimiento",</i>
+
+22
+00:01:12,028 --> 00:01:14,398
+<i>Tomamos un bloque "ir a"</i>,
+
+23
+00:01:14,788 --> 00:01:18,739
+<i>ese lo colocamos antes 
+de aparecer,</i>
+
+24
+00:01:19,968 --> 00:01:22,649
+<i>para que vaya a un lugar determinado.</i>
+
+25
+00:01:23,279 --> 00:01:25,750
+<i>Ahora ya hay dos números,
+así que si iniciamos el juego,</i>
+
+26
+00:01:26,129 --> 00:01:30,469
+*les voy a mostrar, miren.
+Entonces sigue apareciendo
+
+27
+00:01:30,710 --> 00:01:32,769
+<i>cada vez en el mismo sitio.</i>
+
+28
+00:01:33,000 --> 00:01:35,926
+<i>Pero si vamos a "funciones",
+entonces está un bloque súper largo</i>
+
+29
+00:01:36,221 --> 00:01:41,011
+<i>que casi no cabe, "número aleatorio
+entre 1 y 10".</i>
+
+30
+00:01:41,328 --> 00:01:42,640
+<i>Tomamos ese bloque,</i>
+
+31
+00:01:42,901 --> 00:01:45,291
+<i>y lo colocamos en los huecos,</i>
+
+32
+00:01:45,576 --> 00:01:48,072
+<i>tanto para</i> x <i>como para</i> y,
+
+33
+00:01:48,332 --> 00:01:50,238
+<i>ahí colocaremos un valor aleatorio</i>.
+
+34
+00:01:50,483 --> 00:01:54,222
+<i>Se ha hecho tan grande, 
+que casi no cabe en la pantalla.</i>
+
+35
+00:01:54,912 --> 00:01:56,966
+<i>Si ahora damos clic a la bandera verde,</i>
+
+36
+00:01:57,273 --> 00:01:59,751
+<i>entonces coge al pececillo,</i>
+
+37
+00:02:00,923 --> 00:02:03,404
+<i>¡y aparece en un lugar 
+totalmente distinto!</i>
+
+38
+00:02:04,234 --> 00:02:07,565
+Sin embargo, quizá 1 y 10
+no son las opciones correctas,
+
+39
+00:02:07,844 --> 00:02:15,685
+porque si notaron en el vídeo anterior,
+saben que 0,0 es exactamente en el centro,
+
+40
+00:02:15,916 --> 00:02:17,656
+entonces 1 y 10 están ligeramente lejos
+del centro cada vez.
+
+41
+00:02:17,946 --> 00:02:20,004
+Entonces vuestra siguiente 
+tarea de programación
+
+42
+00:02:20,295 --> 00:02:21,906
+es elegir buenos números
+
+43
+00:02:22,156 --> 00:02:25,096
+en lugar de 1 y 10, porque esos
+no son realmente al azar,
+
+44
+00:02:26,135 --> 00:02:27,506
+ya que son muy cercanos al centro.
+
+45
+00:02:27,746 --> 00:02:29,807
+Piensen además que el lado 
+izquierdo de la pantalla
+
+46
+00:02:30,036 --> 00:02:32,717
+representan valores negativos,
+así que prueben poner valores
+
+47
+00:02:32,726 --> 00:02:34,557
+bajo cero también.
+¡Éxito!
