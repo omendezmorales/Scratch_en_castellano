@@ -1,0 +1,377 @@
+1
+00:00:00,866 --> 00:00:05,047
+Tras experimentar un poco, quizá 
+ya has descubierto que las cifras
+
+2
+00:00:05,066 --> 00:00:11,227
+entre -200 y 200 aproximadamente 
+para x e y son los mejores valores,
+
+3
+00:00:12,017 --> 00:00:17,128
+eso podían experimentar, pero eso también
+pudieron probar al colocar el mouse.
+
+4
+00:00:17,559 --> 00:00:19,267
+Miren conmigo:
+
+5
+00:00:19,267 --> 00:00:23,416
+<i>Quizá recuerden de la primera lección 
+que en la parte baja están una x e y</i>
+
+6
+00:00:23,867 --> 00:00:25,899
+<i>y que cambian de valor al mover el mouse.</i>
+
+7
+00:00:26,189 --> 00:00:31,969
+<i>Entonces si van a la esquina izquierda 
+superior, verán que x = 240,</i>
+
+8
+00:00:31,969 --> 00:00:40,051
+<i>y que y = 180. En el extremo contrario,
+x = 240, y para y = -180.</i>
+
+9
+00:00:40,306 --> 00:00:48,582
+<i>Entonces si quieren mover el pez
+por toda el área, toman 240 y -180</i>
+
+10
+00:00:48,582 --> 00:00:51,781
+<i>para x e y respectivamente,
+pero también pueden elegir</i>
+
+11
+00:00:52,011 --> 00:00:56,372
+<i>200 y -200 en los valores de bloque,
+porque así es más facil de ver.</i>
+
+12
+00:00:57,311 --> 00:01:00,210
+<i>Una cosa más quizá deben 
+saber del pececillo:</i>
+
+13
+00:01:00,501 --> 00:01:04,982
+<i>Si inicio ahora el juego,
+el primer pececillo azul es fácil</i>
+
+14
+00:01:05,092 --> 00:01:06,712
+<i>porque ese lo ven de inmediato.</i>
+
+15
+00:01:06,712 --> 00:01:11,613
+<i>Así que si sería mejor si el primer
+pececillo también aparece al azar.</i>
+
+16
+00:01:12,244 --> 00:01:16,073
+<i>Y naturalmente podemos colocar
+este bloque en la parte de arriba,</i>
+
+17
+00:01:16,323 --> 00:01:19,604
+<i>así tenemos dos veces
+"llego a un lugar al azar, y aparezco."</i>
+
+18
+00:01:19,604 --> 00:01:24,365
+<i>Una forma de lograrlo es tomar
+"ir a", y colocarlo aquí,</i>
+
+19
+00:01:24,685 --> 00:01:29,475
+<i>y llenar valores al azar entre 200 y -200,
+pero creo es mucho trabajo</i>
+
+20
+00:01:29,705 --> 00:01:32,664
+<i>y a los programadores no les gusta
+tanto trabajo si no es necesario.</i>
+
+21
+00:01:32,864 --> 00:01:35,617
+<i>Entonces lo que puedo hacer es
+tomar el bloque "ir hacia",</i>
+
+22
+00:01:36,126 --> 00:01:41,117
+<i>y mientras lo tomo con el mouse, 
+presiono </i> shift <i>en el teclado</i>
+
+23
+00:01:41,117 --> 00:01:43,677
+<i>aparece entonces un menú,
+y elijo "copiar"</i>.
+
+24
+00:01:43,897 --> 00:01:48,608
+<i>Doy clic, recibo entonces todo el 
+bloque en el cursor del </i> mouse.
+
+25
+00:01:48,617 --> 00:01:51,748
+<i>Entonces ahora lo puedo unir aquí arriba</i>
+
+26
+00:01:52,105 --> 00:01:56,107
+<i>y una vez ahí tengo en dos sitios
+el bloque "aparecer".</i>
+
+27
+00:01:56,358 --> 00:02:01,218
+<i>Voy a separar estos bloques,
+y así no necesito programarlos de nuevo</i>
+
+28
+00:02:01,527 --> 00:02:05,400
+<i>sino solo los copio,
+y eso es mucho más fácil.</i>
+
+29
+00:02:08,009 --> 00:02:11,290
+<i>Nuestra siguiente tarea, es que 
+queremos que Gerrie crezca,</i>
+
+30
+00:02:11,600 --> 00:02:15,002
+<i>porque si come, entonces tendrá que crecer</i>
+
+31
+00:02:15,638 --> 00:02:19,660
+<i>Sería lindo que cada vez 
+que atrape un pececito,</i>
+
+32
+00:02:20,349 --> 00:02:23,881
+<i>entonces que crezca un poquito.</i>
+
+33
+00:02:25,740 --> 00:02:30,501
+<i>Este es un problema difícil de programar,
+porque lo que en realidad querríamos usar</i>
+
+34
+00:02:30,621 --> 00:02:36,361
+<i>es lo siguiente: pueden decir,
+'tomo la bandera verde,</i>
+
+35
+00:02:37,111 --> 00:02:38,593
+<i>tomo un "repetir"</i>,
+
+36
+00:02:38,942 --> 00:02:40,122
+<i>tomo un "si"',</i>
+
+37
+00:02:40,292 --> 00:02:42,923
+<i>ese ya lo hemos visto un par de veces,</i>
+
+38
+00:02:42,943 --> 00:02:45,963
+<i>y además "cuando toque el pez,</i>
+
+39
+00:02:45,963 --> 00:02:47,763
+<i>entonces voy a crecer".</i>
+
+40
+00:02:48,653 --> 00:02:53,943
+<i>Pero eso no va a funcionar,
+porque si toco al pececillo,</i>
+
+41
+00:02:54,254 --> 00:02:55,755
+<i>este desaparece.</i>
+
+42
+00:02:56,073 --> 00:02:59,003
+<i>Así que Gerrie no tiene
+suficiente tiempo para reaccionar</i>
+
+43
+00:02:59,263 --> 00:03:04,124
+<i>porque antes que Gerrie sepa que 
+tocó el pececillo, este ya desapareció.</i>
+
+44
+00:03:04,564 --> 00:03:07,844
+<i>Por eso vamos a usar una nueva
+técnica de programación</i>
+
+45
+00:03:07,844 --> 00:03:09,594
+<i>y se llama "señales"</i>.
+
+46
+00:03:10,265 --> 00:03:13,922
+<i>Lo que voy a hacer entonces
+es crear una señal "bocado"</i>
+
+47
+00:03:13,955 --> 00:03:19,935
+y esa es algo así como cuando dices
+"te pillé" al jugar al escondite.
+
+48
+00:03:20,665 --> 00:03:23,246
+Si Gerrie dice "te atrapé",
+
+49
+00:03:23,466 --> 00:03:27,557
+oye el pececillo eso, 
+y este dice "me atraparon",
+
+50
+00:03:27,806 --> 00:03:29,397
+y eso lo oye Gerrie.
+
+51
+00:03:29,817 --> 00:03:32,735
+Así que vamos a enviar una señal
+desde el pececillo morado
+
+52
+00:03:32,967 --> 00:03:37,827
+hacia Gerrie, y así sabrá 
+que se ha tragado un pececillo sabroso.
+
+53
+00:03:38,388 --> 00:03:40,868
+Miren conmigo cómo luce aquello:
+
+54
+00:03:42,835 --> 00:03:46,169
+<i>Entonces retirarmos este bloque,
+no lo necesitamos mas.</i>
+
+55
+00:03:46,955 --> 00:03:49,178
+<i>Lo que vamos a hacer con el 
+peceillo morado es:</i>
+
+56
+00:03:49,428 --> 00:03:54,920
+<i>en el momento que es atrapado,
+o sea aquí, vamos a "eventos",</i>
+
+57
+00:03:55,411 --> 00:03:57,829
+<i>y envío la señal "bocado"</i>,
+
+58
+00:03:58,229 --> 00:04:00,250
+<i>porque significa que fue comido.</i>
+
+59
+00:04:00,629 --> 00:04:03,871
+<i>Tomo "bocado", y lo coloco 
+antes de "desaparecer".</i>
+
+60
+00:04:04,324 --> 00:04:08,210
+<i>Entonces, si el pez es tocado,
+envía la señal "bocado"</i>
+
+61
+00:04:08,720 --> 00:04:11,791
+<i>y luego hará todas las otras cosas
+que debe hacer:</i>
+
+62
+00:04:12,072 --> 00:04:16,783
+<i>desaparecer, esperar un poco,
+ir a un sitio al azar, y re-aparecer.</i>
+
+63
+00:04:17,812 --> 00:04:20,023
+<i>Si vamos de vuelta al código de Gerrie,</i>
+
+64
+00:04:20,023 --> 00:04:24,836
+<i>verán que tengo un bloque grande,
+uno redondeado igual que mi flecha</i>
+
+65
+00:04:24,836 --> 00:04:27,002
+<i>a la derecha 
+y como el de la bandera verde,</i>
+
+66
+00:04:27,002 --> 00:04:31,625
+<i>y con este puede Gerrie 
+reaccionar a la señal "bocado".</i>
+
+67
+00:04:31,625 --> 00:04:35,895
+<i>Entonces en el momento que "oye"
+que ha comido un pececillo,</i>
+
+68
+00:04:35,895 --> 00:04:37,265
+<i>puede hacer algo.</i>
+
+69
+00:04:37,484 --> 00:04:39,554
+<i>Ahora , ¿qué debía hacer? Crecer</i>
+
+70
+00:04:40,155 --> 00:04:45,364
+<i>Voy a "apariencia", y aquí tenemos
+un bloque "cambiar tamaño en"</i>
+
+71
+00:04:45,894 --> 00:04:48,354
+<i>con el cual Gerrie puede crecer.</i>
+
+72
+00:04:48,764 --> 00:04:51,065
+<i>Probamos este programa entero,</i>
+
+73
+00:04:51,255 --> 00:04:52,905
+<i>doy clic a la bandera verde,</i>
+
+74
+00:04:53,575 --> 00:04:55,845
+<i>y cada vez que coge un pececillo, ¡miren!</i>
+
+75
+00:04:56,315 --> 00:04:57,726
+<i>¿Vieron que creció?</i>
+
+76
+00:04:58,057 --> 00:05:00,717
+<i>Atrapo otro más , ahí va.</i>
+
+77
+00:05:03,802 --> 00:05:07,804
+<i>Cada vez que atrapa un pez,
+aumenta su tamaño.</i>
+
+78
+00:05:07,804 --> 00:05:11,256
+Las señales son un truco
+difícil de programación,
+
+79
+00:05:11,256 --> 00:05:14,466
+así que el siguiente cuestionario
+vamos a hacer unas preguntas
+
+80
+00:05:14,466 --> 00:05:17,348
+sobre cómo funcionan las señales
+para estar seguros que entienden
+
+81
+00:05:17,348 --> 00:05:19,898
+cómo es que funcionan.
+¡Éxito!
