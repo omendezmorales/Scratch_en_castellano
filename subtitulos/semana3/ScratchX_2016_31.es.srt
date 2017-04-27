@@ -1,0 +1,24 @@
+1
+00:00:00,469 --> 00:00:04,951
+¡Hola a todos! Bienvenidos a la lección 3
+de Scratch X con Felienne.
+
+2
+00:00:05,361 --> 00:00:09,931
+Esta semana haremos un juego nuevo,
+y esta semana será una ruleta.
+
+3
+00:00:10,282 --> 00:00:13,491
+Un verdadero juego espectacular,
+aquí vemos a Carol el gato.
+
+4
+00:00:13,841 --> 00:00:17,302
+Ese es nuestra mascota del programa,
+y pueden ver ya una bonita ruleta
+
+5
+00:00:17,682 --> 00:00:20,843
+y nuestra primera tarea
+será hacer que gire la ruleta.
