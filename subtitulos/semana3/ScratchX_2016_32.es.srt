@@ -1,0 +1,89 @@
+1
+00:00:00,529 --> 00:00:03,310
+¿Están listos para programar conmigo?
+
+2
+00:00:03,629 --> 00:00:06,469
+Nuestra primera tarea es 
+hacer que gire la ruleta.
+
+3
+00:00:06,778 --> 00:00:08,000
+Miren conmigo:
+
+4
+00:00:10,209 --> 00:00:13,739
+<i>El primer paso de programación
+es naturalmente ir a la ruleta.</i>
+
+5
+00:00:14,027 --> 00:00:17,040
+<i>El código está ahora en el gato,
+eso se nota en la línea azul,</i>
+
+6
+00:00:17,320 --> 00:00:19,820
+<i>pero queremos que gire 
+la ruleta y no el gato.</i>
+
+7
+00:00:20,570 --> 00:00:24,671
+<i>Tomen un bloque aquí:
+"Cuando se presiona la tecla de espacio",</i>
+
+8
+00:00:25,000 --> 00:00:28,201
+<i>porque queremos que 
+inicie la ruleta con esa tecla.</i>
+
+9
+00:00:28,491 --> 00:00:31,932
+<i>Ahora vamos a "movimiento",
+y ahí veremos un bloque "girar".</i>
+
+10
+00:00:32,221 --> 00:00:33,932
+<i>A la derecha y a la izquierda.</i>
+
+11
+00:00:34,152 --> 00:00:38,102
+<i>No importa cuál elija para la ruleta,
+puede ser a la izquierda o a la derecha.</i>
+
+12
+00:00:38,322 --> 00:00:40,350
+<i>Yo elijo el primero.</i>
+
+13
+00:00:40,912 --> 00:00:44,672
+<i>Bueno, eso funciona bien.
+Cada vez que presiono espacio,</i>
+
+14
+00:00:44,981 --> 00:00:46,543
+<i>entonces gira la ruleta.</i>
+
+15
+00:00:46,822 --> 00:00:51,234
+<i>Pero no es natural,
+ya que no sigue girando.</i>
+
+16
+00:00:51,773 --> 00:00:55,354
+<i>Entonces la primera pregunta
+que tengo para ustedes</i>
+
+17
+00:00:55,634 --> 00:00:59,883
+es, ¿cómo pueden programar la ruleta
+para que siga girando?
+
+18
+00:01:00,324 --> 00:01:03,735
+Y ese código lo hemos visto ya en
+las lecciones 1 y 2,
+
+19
+00:01:03,974 --> 00:01:07,605
+así que pienso que ustedes sáben
+qué bloques deben usar. ¡Éxito!
