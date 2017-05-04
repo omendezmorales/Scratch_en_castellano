@@ -1,0 +1,28 @@
+1
+00:00:01,146 --> 00:00:05,315
+Si lo han hecho bien, entonces tendrán 
+un nuevo bloque en "datos",
+
+2
+00:00:05,519 --> 00:00:08,119
+la variable "velocidad" ha sido agregada,
+
+3
+00:00:08,369 --> 00:00:11,550
+y con ese nuevo bloque 
+pueden programar la variable.
+
+4
+00:00:11,830 --> 00:00:15,791
+Así que la siguiente tarea 
+es poner la velocidad en 15
+
+5
+00:00:15,791 --> 00:00:18,712
+cada vez que presionemos
+la barra espaciadora.
+
+6
+00:00:18,712 --> 00:00:21,671
+¿Podrán hacerlo? 
+Hasta el siguiente vídeo.
