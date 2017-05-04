@@ -1,0 +1,42 @@
+1
+00:00:00,785 --> 00:00:05,686
+Creo que eligieron un bloque 
+de repetición para que gire la ruleta.
+
+2
+00:00:06,325 --> 00:00:09,996
+Eso funciona, pero me mareo de solo ver.
+
+3
+00:00:09,996 --> 00:00:12,806
+Miren lo que ocurre cuando 
+presionamos la barra espaciadora.
+
+4
+00:00:14,277 --> 00:00:17,428
+Eso jamás se detendrá. 
+La ruleta sigue girando,
+
+5
+00:00:17,428 --> 00:00:21,036
+y queremos que se detenga en algún color.
+
+6
+00:00:21,598 --> 00:00:25,579
+Vuestra siguiente tarea 
+es cambiar el número
+
+7
+00:00:25,579 --> 00:00:28,458
+que se encuentra en el bloque
+por una variable.
+
+8
+00:00:28,458 --> 00:00:31,239
+¿Recuerdan de la primera semana
+cómo declarar variables?
+
+9
+00:00:31,239 --> 00:00:33,789
+Inténtenlo una vez más. 
+Esa es vuestra siguiente tarea. ¡Éxito!
