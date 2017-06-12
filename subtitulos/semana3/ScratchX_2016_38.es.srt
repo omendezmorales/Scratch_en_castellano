@@ -1,0 +1,157 @@
+1
+00:00:00,625 --> 00:00:02,516
+¿Les ha resultado? Seguro que sí, ¿verdad?
+
+2
+00:00:02,616 --> 00:00:04,177
+Miren, así es.
+
+3
+00:00:04,177 --> 00:00:08,618
+Al extremo debajo del bloque "repetir"
+hemos colocado ahora un "enviar señal"
+
+4
+00:00:08,618 --> 00:00:12,458
+y ahí pone "terminé de girar".
+Así sabemos cuando está lista,
+
+5
+00:00:12,838 --> 00:00:16,646
+y así Caroll puede reaccionar,
+vamos a mirar su código.
+
+6
+00:00:18,390 --> 00:00:22,469
+<i>Cuando reciba la señal "terminé de girar"
+entonces va a decir</i> "hola".
+
+7
+00:00:22,729 --> 00:00:24,649
+<i> Miren como luce el código.</i>
+
+8
+00:00:25,780 --> 00:00:28,811
+<i>Presiono la barra espaciadora,
+la ruleta gira,</i>
+
+9
+00:00:28,811 --> 00:00:30,282
+<i>y Caroll dice "hola".</i>
+
+10
+00:00:30,490 --> 00:00:36,051
+<i>Súper guapo, pero decir "Hola"
+no es aún un juego emocionante</i>.
+
+11
+00:00:36,051 --> 00:00:38,553
+<i>Así que vamos a presentar
+un nuevo bloque</i>
+
+12
+00:00:38,553 --> 00:00:41,045
+<i>con el que Caroll pueda preguntar algo.</i>
+
+13
+00:00:41,252 --> 00:00:42,757
+<i>¿No es eso </i>cool?
+
+14
+00:00:42,757 --> 00:00:45,126
+Vamos a "observar"
+
+15
+00:00:45,126 --> 00:00:49,680
+<i>y vemos un bloque que dice
+"pregunta </i> what's your name? <i>y espera</i>.
+
+16
+00:00:50,092 --> 00:00:53,454
+what's your name?<i>
+significa en Inglés ¿Cómo te llamas?</i>
+
+17
+00:00:53,754 --> 00:00:55,704
+Vamos a usar ese bloque.
+
+18
+00:00:55,928 --> 00:00:57,335
+<i>Quitaremos el "hola"</i>
+
+19
+00:00:57,615 --> 00:00:59,275
+<i>lo ponemos de vuelta,</i>
+
+20
+00:00:59,335 --> 00:01:02,295
+<i>y tomamos ahora el bloque
+de pregunta y ese lo pegamos abajo.</i>
+
+21
+00:01:02,585 --> 00:01:07,004
+<i>Así, cada vez que termine de girar
+la ruleta, Carol hará una pregunta.</i>
+
+22
+00:01:07,185 --> 00:01:08,896
+<i>Miren ahora lo que ocurre:</i>
+
+23
+00:01:09,086 --> 00:01:13,596
+<i>presiono la espaciadora,
+la ruleta gira, y Caroll pregunta:</i>
+
+24
+00:01:13,596 --> 00:01:14,917
+What's your name?
+
+25
+00:01:14,917 --> 00:01:20,858
+<i>Lo que enseguida ven que ocurre,
+es que aparece una barra abajo</i>
+
+26
+00:01:20,858 --> 00:01:22,380
+<i>donde pueden escribir,</i>
+
+27
+00:01:22,380 --> 00:01:25,469
+<i>así que puedo poner</i> "Felienne".
+
+28
+00:01:25,718 --> 00:01:27,207
+<i>Entonces presiono</i> Enter,
+
+29
+00:01:27,207 --> 00:01:29,678
+<i>o doy clic a esa palomita</i>.
+
+30
+00:01:32,039 --> 00:01:35,539
+Eso es genial, 
+pero lo que ahora queremos
+
+31
+00:01:35,790 --> 00:01:39,200
+es que en lugar de que ponga:
+<i>wha's your name?</i>
+
+32
+00:01:39,515 --> 00:01:42,910
+que lo pongamos en Español
+"¿Cómo te llamas?"
+
+33
+00:01:43,164 --> 00:01:45,350
+Cambien eso por mí.
+
+34
+00:01:45,700 --> 00:01:48,431
+Creo que les será fácil,
+y para eso no necesitan
+
+35
+00:01:48,431 --> 00:01:52,901
+colocar nuevos bloques,
+sino escribir algo. ¡Éxito!
