@@ -1,0 +1,241 @@
+1
+00:00:00,417 --> 00:00:02,354
+Eso no fue tan difícil, ¿verdad?
+
+2
+00:00:02,734 --> 00:00:05,434
+Toman un bloque "verde-es" 
+y en un lado colocan la respuesta
+
+3
+00:00:05,434 --> 00:00:08,263
+y al otro lado colocan
+la respuesta correcta,
+
+4
+00:00:08,616 --> 00:00:11,528
+en mi caso "verde", pero quizá 
+tienen una pregunta totalmente distinta.
+
+5
+00:00:11,922 --> 00:00:14,850
+Algo que deben de poner atención:
+en ese bloque "decir"
+
+6
+00:00:15,134 --> 00:00:20,551
+hemos agregado ahora un segundo, porque
+si colocan dos bloques de esos juntos,
+
+7
+00:00:20,586 --> 00:00:25,324
+la computadora es tan rápida
+que coloca uno y de inmediato el otro,
+
+8
+00:00:25,598 --> 00:00:29,029
+así que solo verían el último.
+Si quieren que su figurita diga
+
+9
+00:00:29,262 --> 00:00:33,842
+dos cosas seguidas, siempre usen
+un bloque "decir... segundos"
+
+10
+00:00:33,850 --> 00:00:38,653
+en lugar del bloque regular "decir" 
+porque si no, solo verán el último.
+
+11
+00:00:39,594 --> 00:00:42,136
+Este es ya un juego guay. Miren conmigo:
+
+12
+00:00:42,193 --> 00:00:44,167
+<i>presiono la barra espaciadora,</i>
+
+13
+00:00:44,502 --> 00:00:48,665
+<i>rueda por un rato, llega a un color, 
+"¿de qué color son las tortugas?"</i>
+
+14
+00:00:48,915 --> 00:00:52,013
+<i>"verde", "tu respuesta fue verde".</i>
+
+15
+00:00:52,013 --> 00:00:53,511
+<i>Está bien.</i>
+
+16
+00:00:53,511 --> 00:00:55,800
+<i>Muy bien, solo que no hacemos más</i>
+
+17
+00:00:56,345 --> 00:00:59,493
+<i>con la ruleta que programamos
+con tanto esfuerzo.</i>
+
+18
+00:00:59,825 --> 00:01:04,256
+<i>¿Qué queremos ahora?, 
+queremos que los puntos obtenidos</i>
+
+19
+00:01:04,505 --> 00:01:08,809
+<i>dependan del color 
+donde se detenga la ruleta.</i>
+
+20
+00:01:09,166 --> 00:01:13,743
+<i>Por ejemplo, si toca rosa, 
+recibimos 2 puntos</i>
+
+21
+00:01:14,121 --> 00:01:17,312
+<i>y si toca otro color, 
+recibimos un solo punto.</i>
+
+22
+00:01:17,820 --> 00:01:22,581
+<i>¿Cómo vamos a programar eso?
+Miren conmigo, vamos a mirar el programa</i>
+
+23
+00:01:22,853 --> 00:01:25,692
+<i>de la flecha. En ese momento no hay nada</i>
+
+24
+00:01:25,934 --> 00:01:33,138
+<i>pero con la flecha vamos 
+a decir al gato qué color está apuntando.</i>
+
+25
+00:01:33,841 --> 00:01:40,091
+<i>Para ello vamos a crear una nueva
+variable y en ella guardaremos el color.</i>
+
+26
+00:01:41,677 --> 00:01:44,490
+<i>Miren conmigo: voy a 
+crear una nueva variable</i>
+
+27
+00:01:44,772 --> 00:01:50,305
+<i>llamándola "indicador" (porque
+así se llama la flecha) toca color".</i>
+
+28
+00:01:50,733 --> 00:01:54,373
+<i>Doy clic en OK, 
+y así tengo una nueva variable.</i>
+
+29
+00:01:57,681 --> 00:02:02,194
+<i>¿Qué vamos a hacer? 
+Cada vez que la ruleta termine de girar,</i>
+
+30
+00:02:02,621 --> 00:02:06,228
+<i>va a mirar el indicador 
+el color al que apunta.</i>
+
+31
+00:02:06,470 --> 00:02:09,395
+<i>¿Cuando termina de girar la ruleta?</i>
+
+32
+00:02:09,763 --> 00:02:13,889
+<i>Creo que ustedes saben 
+qué bloque pueden usar para decidir eso.</i>
+
+33
+00:02:18,160 --> 00:02:23,590
+<i>¡Exacto! el bloque 
+"cuando reciba la señal</i> 'listo'"
+
+34
+00:02:23,883 --> 00:02:26,243
+<i>Entonces la ruleta ha terminado de girar.</i>
+
+35
+00:02:26,268 --> 00:02:30,649
+<i>Vamos a ver aquí abajo 
+a qué color apunta la flecha,</i>
+
+36
+00:02:31,049 --> 00:02:34,986
+<i>y ese color lo vamos a 
+guardar en "indicador toca color". </i>
+
+37
+00:02:35,376 --> 00:02:39,797
+<i>Voy a hacer un poco por ustedes,
+y ustedes harán el resto.</i>
+
+38
+00:02:40,049 --> 00:02:44,466
+<i>Tomo un bloque "si-entonces",
+entonces si le he tocado.</i>
+
+39
+00:02:45,131 --> 00:02:52,632
+<i>Si toca que la flecha a tocado el rosa,
+y si quiero colocar este bloque en rosa,</i>
+
+40
+00:02:52,981 --> 00:02:55,407
+<i>recuerden de la 1ª lección </i>
+
+41
+00:02:55,700 --> 00:02:58,804
+<i>que doy clic al bloque, 
+y luego sobre el color,</i>
+
+42
+00:02:59,446 --> 00:03:03,981
+<i>¿Qué voy a hacer?
+Voy a agregar "indicador toca color"</i>
+
+43
+00:03:04,271 --> 00:03:12,650
+<i>no lo coloco en "0", sino en "rosa"
+y así guardo en la variable el color.</i>
+
+44
+00:03:13,087 --> 00:03:20,409
+<i>Entonces ven que una variable no solo se
+usa con cifras, sino además con palabras.</i>
+
+45
+00:03:20,647 --> 00:03:25,001
+<i>Igual que hicimos con la respuesta. </i>
+Esa es otra variable con un poco de texto.
+
+46
+00:03:25,434 --> 00:03:29,385
+Este es es el primer paso: 
+si la flecha apunta al rosa,
+
+47
+00:03:29,671 --> 00:03:31,962
+entonces guardo "rosa" en la variable,
+
+48
+00:03:32,036 --> 00:03:34,835
+ahora van a programar 
+el resto de los colores.
+
+49
+00:03:34,835 --> 00:03:37,274
+Entonces rojo, morado y verde.
+
+50
+00:03:37,274 --> 00:03:42,809
+Miren a qué color apunta la flecha,
+y coloquen su nombre en la variable.
+
+51
+00:03:42,809 --> 00:03:44,103
+¡Sorpréndanme!
