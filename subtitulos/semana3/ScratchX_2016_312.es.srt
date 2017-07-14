@@ -1,0 +1,49 @@
+1
+00:00:00,613 --> 00:00:04,477
+Miren, así debe ser: ustedes tienen 
+cada vez un "si-bloque" y por cada color
+
+2
+00:00:04,477 --> 00:00:09,756
+por ejemplo tengo aquí "toco verde"
+escriben "verde", y con "toco morado"
+
+3
+00:00:09,790 --> 00:00:14,536
+escriben "morado", si tocan rojo
+escriben "rojo". Totalmente simple.
+
+4
+00:00:14,833 --> 00:00:17,808
+Espero que recuerden que pueden
+copiar los bloques
+
+5
+00:00:18,213 --> 00:00:22,416
+y que no los revuelvan tanto, 
+porque así se complica todo.
+
+6
+00:00:22,750 --> 00:00:25,975
+Ahora es el momento para 
+la siguiente tarea de programación.
+
+7
+00:00:26,168 --> 00:00:30,349
+Lo que vais a hacer es 
+que Caroll reaccione con los colores.
+
+8
+00:00:30,636 --> 00:00:34,501
+Así, con una respuesta acertada 
+cuando esté la flecha en rosa
+
+9
+00:00:34,734 --> 00:00:39,613
+el jugador recibe 2 puntos,y en
+todos los otros colores recibe 1 punto.
+
+10
+00:00:40,294 --> 00:00:44,009
+Eso lo van a hacer por mí.
+Estoy segura que lo harán bien.

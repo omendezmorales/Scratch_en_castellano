@@ -1,0 +1,126 @@
+1
+00:00:00,802 --> 00:00:04,568
+Miren, estas son mis preguntas
+favoritas sobre tortugas:
+
+2
+00:00:05,112 --> 00:00:08,892
+Si han hecho esto y probado, 
+quizá han visto que hay algo
+
+3
+00:00:09,329 --> 00:00:12,414
+que aun no funciona bien.
+Miren conmigo.
+
+4
+00:00:13,278 --> 00:00:17,708
+<i>Si doy clic a la bandera verde,
+están aquí mis preguntas</i>
+
+5
+00:00:17,886 --> 00:00:22,151
+<i>pero si me desplazo hacia arriba,
+siguen unos textos vacíos</i>
+
+6
+00:00:22,364 --> 00:00:26,509
+<i>y luego recién aparecen mis preguntas. 
+Eso no lo quiero.</i>
+
+7
+00:00:26,509 --> 00:00:30,697
+<i>Me gustaría que cada vez 
+que se vacía la lista al inicio del juego</i>
+
+8
+00:00:31,138 --> 00:00:34,106
+<i>y que recién entonces 
+pueda llenar la lista con preguntas.</i>
+
+9
+00:00:34,337 --> 00:00:38,965
+<i>Vean que afortunadamente</i> Scratch
+<i>tiene para todo un bloque,</i>
+
+10
+00:00:38,965 --> 00:00:44,575
+<i>y en este caso podemos usar el 2º bloque.
+Lo tomamos, y le colocamos aquí en medio.</i>
+
+11
+00:00:45,095 --> 00:00:52,542
+<i>Ahí pone "remover ítem 1 de la pregunta".
+Si probamos esto, y vamos a hacerlo,</i>
+
+12
+00:00:54,092 --> 00:00:59,437
+<i>Vamos hacia arriba, entonces
+ veremos que un ítem fue removido.</i>
+
+13
+00:00:59,808 --> 00:01:03,567
+<i>No es lo que queremos, 
+sino que todo sea removido</i>
+
+14
+00:01:03,717 --> 00:01:09,239
+<i>cuando iniciemos. Doy clic al triángulo, 
+y ¿qué dice? "Uno, último"... </i>
+
+15
+00:01:09,424 --> 00:01:13,655
+<i>tampoco es lo que quiero, 
+quiero que TODOS desaparezcan</i>
+
+16
+00:01:13,939 --> 00:01:15,809
+<i>y luego llenar con las preguntas.</i>
+
+17
+00:01:17,445 --> 00:01:22,887
+<i>Miren, eso va bien. 
+Incluso se puede agrandar el bloque </i>
+
+18
+00:01:22,887 --> 00:01:25,730
+<i>y luego voy a desplazarme, 
+y agrandaremos el cuadro un poco,</i>
+
+19
+00:01:25,730 --> 00:01:28,341
+<i>así veremos mejor lo que ocurre.</i>
+
+20
+00:01:28,341 --> 00:01:31,543
+Entonces la lista se vacía,
+y luego coloco todas mis preguntas.
+
+21
+00:01:31,543 --> 00:01:37,829
+Muy bonito, pero ¿Qué es un cuestionario
+solo con preguntas sin respuesta?
+
+22
+00:01:37,829 --> 00:01:42,647
+Eso no es un buen cuestionario. 
+Así que su siguiente tarea de programación
+
+23
+00:01:42,647 --> 00:01:47,167
+es hacer una nueva 
+lista llamada "respuestas",
+
+24
+00:01:47,589 --> 00:01:52,173
+Va a estar al principio vacía, 
+y guarden allí todas las respuestas
+
+25
+00:01:52,328 --> 00:01:54,571
+que correspondan con vuestras preguntas.
+
+26
+00:01:54,571 --> 00:01:59,513
+Esas solo ustedes las conocen, así que
+seguramente ustedes tienen las respuestas.
