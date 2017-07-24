@@ -1,0 +1,181 @@
+1
+00:00:00,540 --> 00:00:04,671
+Ya tenemos un juego lindo,
+pero todavía es un poco aburrido.
+
+2
+00:00:04,671 --> 00:00:06,818
+Seguro ya sabían 
+que las tortugas son verdes
+
+3
+00:00:06,818 --> 00:00:09,610
+y tras contestar 5 veces la misma pregunta
+
+4
+00:00:09,610 --> 00:00:11,957
+estarán más que seguros 
+que la tortuga es verde.
+
+5
+00:00:12,698 --> 00:00:16,191
+¿No sería mejor si pudieran 
+hacer más preguntas?
+
+6
+00:00:16,546 --> 00:00:18,022
+Algunas preguntas distintas.
+
+7
+00:00:18,182 --> 00:00:21,749
+Para lograrlo, vamos 
+a descubrir un nuevo bloque.
+
+8
+00:00:21,749 --> 00:00:23,072
+Miren conmigo.
+
+9
+00:00:23,568 --> 00:00:28,451
+<i>En "datos" vemos "hacer una variable",
+que ya conocemos, </i>
+
+10
+00:00:28,451 --> 00:00:33,112
+<i>pero abajo quizá han visto que está
+"Hacer una lista".</i>
+
+11
+00:00:33,774 --> 00:00:37,028
+<i>Una lista es lo que usaremos 
+para guardar las preguntas.</i>
+
+12
+00:00:37,180 --> 00:00:39,021
+<i>Den clic a "hacer una lista"</i>
+
+13
+00:00:40,817 --> 00:00:43,787
+<i>Escribo "preguntas", ese es 
+el nombre de la lista</i>
+
+14
+00:00:44,372 --> 00:00:45,942
+<i>y luego clic en OK.</i>
+
+15
+00:00:46,113 --> 00:00:50,672
+<i>Verán dos cosas: Primero que se agregaron
+algunos bloques, </i>
+
+16
+00:00:51,241 --> 00:00:55,580
+<i>y enseguida que sobre Caroll 
+está un bloque gris grande.</i>
+
+17
+00:00:58,502 --> 00:01:02,503
+<i>Una lista es por ejemplo 
+lo que anotamos para comprar,</i>
+
+18
+00:01:02,833 --> 00:01:06,568
+<i>un listado de cosas 
+que podemos escribir.</i>
+
+19
+00:01:07,229 --> 00:01:10,222
+<i>Eso es lo que haremos 
+porque quizá es mejor </i>
+
+20
+00:01:10,832 --> 00:01:13,074
+<i>si lo vemos en
+ el lenguaje de programación. </i>
+
+21
+00:01:13,074 --> 00:01:18,369
+<i>Voy a "eventos", entonces tomo
+"cuando se da clic a la bandera verde", </i>
+
+22
+00:01:19,733 --> 00:01:21,310
+<i>la coloco aquí debajo,</i>
+
+23
+00:01:21,310 --> 00:01:25,211
+<i>regreso a "Datos",
+y vemos aquí arriba</i>
+
+24
+00:01:25,235 --> 00:01:27,964
+<i>"añadir esto a las preguntas".</i>
+
+25
+00:01:27,964 --> 00:01:29,845
+<i>Este lo vamos a probar.</i>
+
+26
+00:01:29,845 --> 00:01:31,622
+<i>Lo coloco aquí abajo,</i>
+
+27
+00:01:32,230 --> 00:01:35,114
+<i>¿Qué ocurre ahora 
+si doy clic a la bandera verde?</i>
+
+28
+00:01:37,505 --> 00:01:42,484
+<i>Cada vez que doy clic vemos 
+que aumenta en tamaño la lista.</i>
+
+29
+00:01:42,705 --> 00:01:50,004
+<i>Entonces lo que escriban ahí
+será agregado a la lista.</i>
+
+30
+00:01:50,558 --> 00:01:54,765
+Es vuestra tarea agregar 
+un par de preguntas,
+
+31
+00:01:54,765 --> 00:01:56,745
+y colocarlas en la lista.
+
+32
+00:01:57,046 --> 00:01:59,022
+Pensad en vuestro pasatiempo favorito,
+
+33
+00:01:59,022 --> 00:02:00,760
+o en su taller escolar favorito
+
+34
+00:02:00,760 --> 00:02:03,498
+e inventaos un par 
+de preguntas interesantes.
+
+35
+00:02:03,498 --> 00:02:07,137
+Colóquenlas en la lista. 
+En lugar de "cosa" que pone ahí,
+
+36
+00:02:07,137 --> 00:02:09,196
+escriban la pregunta que deseen.
+
+37
+00:02:09,196 --> 00:02:11,997
+Pueden poner tantas 
+preguntas como quieran,
+
+38
+00:02:11,997 --> 00:02:16,116
+tantos bloques de pregunta
+y colocadlos todos apilados,
+
+39
+00:02:16,116 --> 00:02:18,966
+poniendo en cada bloque 
+una pregunta distinta.

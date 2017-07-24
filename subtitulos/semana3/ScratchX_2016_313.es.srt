@@ -1,0 +1,87 @@
+1
+00:00:01,131 --> 00:00:04,197
+Miren, así se hace:
+Bajo el bloque "bien dicho",
+
+2
+00:00:04,489 --> 00:00:07,941
+si saben que la respuesta es correcta,
+coloquen un "si-entonces-si_no",
+
+3
+00:00:08,271 --> 00:00:14,220
+y miren si la flecha apunta a rosa, 
+y conceden dos puntos,
+
+4
+00:00:14,480 --> 00:00:16,371
+y de otro modo solo un punto.
+
+5
+00:00:16,652 --> 00:00:19,262
+Para 0 puntos cuando 
+la respuesta es equivocada,
+
+6
+00:00:19,262 --> 00:00:22,143
+no necesitan hacer nada,
+porque no se agregan puntos
+
+7
+00:00:22,610 --> 00:00:24,711
+y por eso no necesitan hacer algo.
+
+8
+00:00:25,003 --> 00:00:28,218
+Les tengo otro consejo,
+quizá no les guste mucho
+
+9
+00:00:28,481 --> 00:00:32,042
+que la flecha indique un color
+y la velocidad también aparezca.
+
+10
+00:00:32,401 --> 00:00:36,343
+Es útil cuando estamos programando
+porque así sabemos lo que vale,
+
+11
+00:00:37,061 --> 00:00:40,829
+pero si ya no la necesitamos,
+podemos remover la palomita aquí
+
+12
+00:00:41,180 --> 00:00:46,780
+<i>doy clic en esta, y desaparece.
+Los puntos quiero que se queden,</i>
+
+13
+00:00:47,101 --> 00:00:50,465
+<i>remuevo la velocidad,
+y los puntos puedo tomarlos</i>
+
+14
+00:00:50,760 --> 00:00:55,901
+<i>y colocarlos más arriba para que queden
+en la esquina superior izquierda</i>.
+
+15
+00:00:56,162 --> 00:00:58,640
+Entonces, si estamos listos 
+con una variable,
+
+16
+00:00:58,640 --> 00:01:02,651
+sabemos cómo debe ser programada,
+entonces podemos remover la palomita,
+
+17
+00:01:02,651 --> 00:01:09,363
+y además podemos tomar una variable
+para colocarla donde mejor nos parezca
+
+18
+00:01:09,622 --> 00:01:11,990
+y así podemos hacer ver 
+mejor nuestro juego.
