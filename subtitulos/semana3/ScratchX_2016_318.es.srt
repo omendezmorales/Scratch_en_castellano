@@ -1,0 +1,192 @@
+1
+00:00:00,762 --> 00:00:02,695
+Miren, he agregado una pregunta.
+
+2
+00:00:02,925 --> 00:00:05,384
+Mi pregunta es 
+"¿Comen tomate las tortugas?"
+
+3
+00:00:05,632 --> 00:00:08,248
+La respuesta es "Sí".
+Las tortugas aman comer tomate.
+
+4
+00:00:09,070 --> 00:00:13,826
+Puedo dar clic hasta cansarme,
+lo he probado. He dado clic
+
+5
+00:00:13,826 --> 00:00:18,339
+unas cien veces a la bandera verde,
+cada vez que presiono la espaciadora,
+
+6
+00:00:18,339 --> 00:00:22,610
+pueden hacer lo que quieran,
+"¿Qué color es una tortuga?"
+
+7
+00:00:26,590 --> 00:00:29,683
+Voy a rodar la ruleta de nuevo.
+
+8
+00:00:29,683 --> 00:00:32,489
+Hacedlo 100, o 1000 veces,
+no importa, nunca llegaréis
+
+9
+00:00:32,849 --> 00:00:34,477
+a la última pregunta.
+
+10
+00:00:34,846 --> 00:00:36,175
+¿Cómo puede ser eso?
+
+11
+00:00:36,175 --> 00:00:38,244
+Quizá tengan la idea del por qué.
+
+12
+00:00:38,716 --> 00:00:42,533
+Y es que aquí está 
+una cifra entre el 1 y el 4.
+
+13
+00:00:42,795 --> 00:00:45,004
+No importa cuantas preguntas añadan,
+
+14
+00:00:45,004 --> 00:00:47,181
+siempre usará las primeras cuatro.
+
+15
+00:00:47,593 --> 00:00:50,362
+<i>Lo que ahora debemos hacer
+es bajar un poco,</i>
+
+16
+00:00:50,726 --> 00:00:55,155
+<i>y vemos en los ítems de respuesta que
+está también la longitud de respuestas.</i>
+
+17
+00:00:55,478 --> 00:00:58,430
+<i>Si empujo al triangulito,
+longitud de preguntas</i>.
+
+18
+00:00:59,409 --> 00:01:02,634
+<i>Esa la puedo poner aquí.
+en el hueco del 4,</i>
+
+19
+00:01:03,477 --> 00:01:06,182
+y entonces verán que todas las preguntas
+
+20
+00:01:06,360 --> 00:01:11,445
+que tengo en la lista 
+se verán también en el juego.
+
+21
+00:01:12,044 --> 00:01:14,931
+Así verá cada vez, 
+¿cuántos hay en mi lista?
+
+22
+00:01:15,224 --> 00:01:18,807
+Y de ahí toma un elemento al azar.
+
+23
+00:01:19,725 --> 00:01:22,708
+Esas fueron todas las tareas 
+que hicimos esta semana,
+
+24
+00:01:23,054 --> 00:01:26,750
+pero todavía tengo
+unas tareas chiquita para vosotros.
+
+25
+00:01:26,750 --> 00:01:32,333
+La tareas que pueden agregar 
+al juego son las siguientes:
+
+26
+00:01:32,663 --> 00:01:36,161
+Algo que quizá habéis visto es que
+que la cantidad de puntos
+
+27
+00:01:36,180 --> 00:01:39,680
+que aparecen arriba a la izquierda
+solo aumenta.
+
+28
+00:01:40,060 --> 00:01:42,803
+Nunca vale 0 cuando inicia el juego.
+
+29
+00:01:43,067 --> 00:01:48,461
+La primera tarea es hacer 
+que el puntaje sea 0 al iniciar el juego.
+
+30
+00:01:49,211 --> 00:01:52,874
+Lo que también vais a hacer es 
+que tras una pregunta,
+
+31
+00:01:52,910 --> 00:01:56,756
+Caroll diga "presiona la espaciadora
+para la siguiente pregunta",
+
+32
+00:01:56,756 --> 00:01:59,729
+ya que eso lo sabemos nosotros
+como programadores
+
+33
+00:02:00,085 --> 00:02:05,623
+pero si su madre o hermanos juegan,
+entonces ellos no sabrán qué hacer.
+
+34
+00:02:05,871 --> 00:02:10,837
+La tarea 3 es que Caroll también
+diga al iniciar el juego
+
+35
+00:02:10,837 --> 00:02:14,588
+"presiona espacio para la 1ª pregunta."
+
+36
+00:02:15,218 --> 00:02:19,948
+Ya que así también tus familiares sabrán
+cómo iniciar el juego.
+
+37
+00:02:19,948 --> 00:02:22,847
+Esas son vuestras 3 tareas: 
+poner el puntaje en 0,
+
+38
+00:02:23,224 --> 00:02:25,028
+tras cada pregunta Caroll debe decir
+
+39
+00:02:25,332 --> 00:02:27,817
+"presiona espacio para
+la siguiente pregunta",
+
+40
+00:02:28,054 --> 00:02:32,245
+y en la primera pregunta Caroll dirá
+"presiona espacio para la 1ª pregunta."
+
+41
+00:02:32,811 --> 00:02:37,241
+Esa es la tarea y los veo 
+la siguiente semana. ¡Adiós!
