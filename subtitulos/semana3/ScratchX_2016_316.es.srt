@@ -1,0 +1,165 @@
+1
+00:00:00,420 --> 00:00:03,394
+Miren, seguramente les ha salido bien.
+Tenemos una lista con preguntas,
+
+2
+00:00:03,552 --> 00:00:07,805
+y una con respuestas a lado,
+y al dar clic a la bandera verde
+
+3
+00:00:08,211 --> 00:00:10,045
+puedo ver que tenga todas.
+
+4
+00:00:10,045 --> 00:00:11,387
+Miren conmigo,
+
+5
+00:00:11,825 --> 00:00:15,616
+<i>Voy a encoger un poco este,
+lo subo a este otro,</i>
+
+6
+00:00:16,013 --> 00:00:19,416
+<i>entonces podemos ver 4 preguntas
+y sus 4 respuestas.</i>
+
+7
+00:00:19,941 --> 00:00:24,882
+<i>¡Muy bien!, pero Caroll tiene que hacer 
+la pregunta desde nuestra lista</i>
+
+8
+00:00:24,882 --> 00:00:29,204
+<i>en lugar que siga diciendo: 
+"¿de qué color es una tortuga?"</i>
+
+9
+00:00:29,805 --> 00:00:32,144
+<i>¿Qué es lo que podemos usar?</i>
+
+10
+00:00:32,504 --> 00:00:35,804
+<i>Debemos movernos hacia abajo
+porque tenemos tantos bloques</i>
+
+11
+00:00:35,804 --> 00:00:39,224
+<i>que no podemos verlos todos.
+Aquí vemos que pone</i>
+
+12
+00:00:39,385 --> 00:00:43,005
+<i>"ítem 1 de respuestas"</i>
+
+13
+00:00:43,005 --> 00:00:46,626
+<i>y aquí puedo dar clic al triangulito
+y así puedo tomar preguntas.</i>
+
+14
+00:00:46,781 --> 00:00:50,872
+<i>Iniciemos simple, y que Caroll
+tome un ítem al inicio de la lista.</i>
+
+15
+00:00:51,585 --> 00:00:55,543
+<i>Así, en lugar de decir ahora
+"¿qué color es una tortuga?"</i>
+
+16
+00:00:55,859 --> 00:01:00,766
+<i>voy a decir:
+"toma ítem 1 de las preguntas"</i>
+
+17
+00:01:00,896 --> 00:01:03,205
+<i>Ese lo puedo pegar allí,
+vemos que se pone blanco</i>.
+
+18
+00:01:03,465 --> 00:01:06,586
+<i>Un cuadrado y un circulito
+y pueden unirse</i>
+
+19
+00:01:06,586 --> 00:01:08,566
+<i>por lo que vemos en el borde blanco.</i>
+
+20
+00:01:08,997 --> 00:01:12,185
+<i>¿Veamos lo que ahora sucede?</i>
+
+21
+00:01:12,456 --> 00:01:15,924
+<i>Una cosa más: remuevo
+las preguntas y las respuestas,</i>
+
+22
+00:01:16,052 --> 00:01:17,866
+<i>porque así puedo ver mejor el juego.</i>
+
+23
+00:01:18,556 --> 00:01:22,125
+<i>Doy clic a la bandera verde;
+presiono la tecla espaciadora</i>
+
+24
+00:01:22,125 --> 00:01:25,294
+<i>para que gire la ruleta,
+y ¿qué pregunta Caroll?</i>
+
+25
+00:01:25,428 --> 00:01:28,297
+<i>¡Miren eso!
+"¿cuántas patas tiene una tortuga?"</i>
+
+26
+00:01:28,520 --> 00:01:33,115
+<i>Para eso van a escribir
+la respuesta: "cuatro".</i>
+
+27
+00:01:34,690 --> 00:01:39,105
+<i>Está equivocado;
+¿pero saben por qué?</i>
+
+28
+00:01:41,676 --> 00:01:47,027
+<i>Si, eso es porque en la respuesta
+aún pone "verde".</i>
+
+29
+00:01:47,446 --> 00:01:50,924
+<i>Eso tendría que decir:
+"la respuesta es verde",</i>
+
+30
+00:01:51,466 --> 00:01:54,617
+<i>pero naturalmente una tortuga
+no tiene "verde" patas , </i>
+
+31
+00:01:55,026 --> 00:01:56,815
+<i>eso no suena bien. </i>
+
+32
+00:01:56,815 --> 00:02:00,517
+<i>Lo que deben hacer es
+que en lugar de comparar con verde,</i>
+
+33
+00:02:00,517 --> 00:02:03,758
+sino comparar con ítem 1 de las respuestas.
+
+34
+00:02:04,626 --> 00:02:07,526
+Tomen el bloque, 
+colóquenlo en el lugar correcto,
+
+35
+00:02:07,526 --> 00:02:12,659
+y vean si pueden programar juntas
+pregunta 1 con respuesta 1.
