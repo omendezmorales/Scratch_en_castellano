@@ -1,0 +1,226 @@
+1
+00:00:02,762 --> 00:00:06,298
+Miren, así funciona:
+toman ítem 1 de las respuestas,
+
+2
+00:00:06,298 --> 00:00:09,955
+y ese lo comparan con la respuesta
+que han escrito en el juego.
+
+3
+00:00:10,119 --> 00:00:11,630
+Eso no fue tan complicado.
+
+4
+00:00:12,495 --> 00:00:15,598
+Ahora solo recibo la pregunta 1.
+
+5
+00:00:15,598 --> 00:00:18,111
+Y no escribimos en vano
+la lista de preguntas,
+
+6
+00:00:18,111 --> 00:00:19,214
+todas las 4.
+
+7
+00:00:19,214 --> 00:00:22,576
+Entonces quisiéramos que el anfitrión
+Caroll hiciera todas las preguntas.
+
+8
+00:00:23,192 --> 00:00:25,890
+Una vez la pregunta 2, 
+a la otra pregunta 3 y así.
+
+9
+00:00:26,672 --> 00:00:30,330
+Y como ustedes imaginaron,
+necesitamos un número al azar.
+
+10
+00:00:30,518 --> 00:00:35,329
+Para eso vamos a elegir 
+un número entre 1 y 4 ,
+
+11
+00:00:36,061 --> 00:00:37,614
+<i>y eso es lo que usaremos.</i>
+
+12
+00:00:37,930 --> 00:00:40,250
+<i>Vamos a </i> "funciones",
+<i>esas las conocen ya</i>
+
+13
+00:00:40,811 --> 00:00:44,652
+<i>y escribimos aquí
+"número al azar entre 1 y 4"</i>.
+
+14
+00:00:45,475 --> 00:00:48,381
+<i>Ese lo puedo usar aquí,
+en las preguntas.</i>
+
+15
+00:00:48,961 --> 00:00:51,917
+<i>Y este otro en las respuestas.</i>
+
+16
+00:00:52,688 --> 00:00:54,473
+<i>Probemos este juego.</i>
+
+17
+00:00:54,697 --> 00:00:59,267
+<i>Vean si pueden tener juntas
+la pregunta y respuesta correctas.</i>
+
+18
+00:01:00,129 --> 00:01:01,684
+<i>¿Es correcto el juego?</i>
+
+19
+00:01:03,542 --> 00:01:05,542
+<i>No, este juego no está correcto.</i>
+
+20
+00:01:05,542 --> 00:01:09,846
+<i>Eso quizá lo vieron porque cada vez
+recibimos una pregunta al azar,</i>
+
+21
+00:01:10,531 --> 00:01:13,345
+<i>pero con ella, una respuesta al azar.</i>
+
+22
+00:01:13,845 --> 00:01:15,277
+<i>Eso no está bien.</i>
+
+23
+00:01:15,563 --> 00:01:21,104
+<i>Lo que debemos hacer es guardar
+el número al azar y usarlo dos veces.</i>
+
+24
+00:01:21,650 --> 00:01:25,715
+<i>Y si yo digo "guardar", vosotros pensáis 
+naturalmente en variables.</i>
+
+25
+00:01:26,249 --> 00:01:32,436
+<i>Vamos a "datos", hacemos una variable
+que llamaré "número_de_ítem".</i>
+
+26
+00:01:33,340 --> 00:01:35,813
+<i>¿Quiero usar cada vez "item"?</i>
+
+27
+00:01:36,255 --> 00:01:37,579
+<i>doy clic "OK",</i>
+
+28
+00:01:37,863 --> 00:01:41,547
+<i>y lo que ahora voy a hacer es
+si recibo la señal "girar",</i>
+
+29
+00:01:41,907 --> 00:01:46,612
+<i>haré de número_de_ítem
+un valor al azar.</i>
+
+30
+00:01:48,529 --> 00:01:52,570
+<i>¿y qué digo ahora?
+Voy a tomar el número de item</i>
+
+31
+00:01:52,916 --> 00:01:58,047
+<i>de las preguntas, pero tomo...
+- voy a quitar este desde luego- </i>
+
+32
+00:01:58,523 --> 00:02:02,827
+<i>tomo el número de ítem de las respuestas,
+así recibo el mismo número.</i>
+
+33
+00:02:03,130 --> 00:02:05,894
+<i>Miren conmigo al juego porque
+ahora hay muchos bloques,</i>
+
+34
+00:02:05,894 --> 00:02:07,300
+<i>y muchos colores,</i>
+
+35
+00:02:07,300 --> 00:02:09,429
+<i>dejo la palomita de "número_de_ítem",</i>
+
+36
+00:02:09,429 --> 00:02:11,403
+<i>y así podemos ver lo que ocurre.</i>
+
+37
+00:02:11,927 --> 00:02:13,333
+<i>Doy clic a la bandera verde,</i>
+
+38
+00:02:13,884 --> 00:02:15,381
+<i>presiono la barra espaciadora,</i>
+
+39
+00:02:15,412 --> 00:02:16,939
+<i>la ruleta rueda,</i>
+
+40
+00:02:16,939 --> 00:02:19,188
+<i>Vemos que "número_de_ítem" es 1</i>
+
+41
+00:02:19,188 --> 00:02:21,911
+<i>elegido al azar.
+"¿Cuántas patas tiene la tortuga?"</i>
+
+42
+00:02:23,160 --> 00:02:24,675
+<i>escribo 4,</i>
+
+43
+00:02:25,370 --> 00:02:27,431
+"<i>tu respuesta fue 4". Está bien.</i>
+
+44
+00:02:27,431 --> 00:02:31,867
+Ya que ahora tengo la pregunta correcta,
+con la respuesta correcta,
+
+45
+00:02:31,867 --> 00:02:33,886
+porque ésta la hemos guardado.
+
+46
+00:02:34,830 --> 00:02:38,505
+Tengo una tarea final para 
+esta semana para vosotros.
+
+47
+00:02:38,756 --> 00:02:41,533
+Agreguen un par de preguntas más.
+
+48
+00:02:41,624 --> 00:02:44,094
+Inventad un par de preguntas extra,
+por ejemplo sobre tortugas
+
+49
+00:02:44,380 --> 00:02:47,291
+o sobre caballos, o perros;
+lo que deseéis.
+
+50
+00:02:47,712 --> 00:02:52,834
+Agreguen las preguntas a su concurso,
+y miren si todavía funciona.
