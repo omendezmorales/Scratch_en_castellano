@@ -1,0 +1,57 @@
+1
+00:00:00,000 --> 00:00:04,810
+Hola a todos. Bienvenidos a la 4ª semana
+de <i>ScratchX</i> con Felienne.
+
+2
+00:00:04,810 --> 00:00:08,376
+Vamos a hacer por supuesto 
+otro juego juntos esta semana
+
+3
+00:00:08,677 --> 00:00:12,531
+y este es el juego en el que trabajaremos:
+Aquí vemos a nuestro Amigo Hassan el perro
+
+4
+00:00:13,079 --> 00:00:14,970
+y él adora comer rico.
+
+5
+00:00:15,368 --> 00:00:18,158
+Al otro lado del camino 
+hay de todo para comer.
+
+6
+00:00:18,169 --> 00:00:24,200
+Miren conmigo: un plátano, un taco, torta,
+una sandía, y un pastelillo; muy delicioso.
+
+7
+00:00:24,722 --> 00:00:28,240
+Pero, también pasan por 
+el camino peligrosos autos
+
+8
+00:00:28,412 --> 00:00:30,912
+y por supuesto 
+no queremos que le atropellen.
+
+9
+00:00:30,912 --> 00:00:35,381
+Entonces hoy idearemos 
+un algoritmo inteligente
+
+10
+00:00:35,420 --> 00:00:37,792
+para programar en la cabeza de Hassan
+
+11
+00:00:37,792 --> 00:00:40,514
+para que pueda cruzar
+seguramente el camino
+
+12
+00:00:40,514 --> 00:00:43,128
+y entonces pueda comer todo
+en deliciosos bocados.
