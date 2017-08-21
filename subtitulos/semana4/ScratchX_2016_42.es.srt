@@ -1,0 +1,108 @@
+1
+00:00:00,340 --> 00:00:04,307
+Si les fue bien, ya tendrán este 
+juego vacío con vosotros
+
+2
+00:00:04,307 --> 00:00:06,019
+y lo rellenaremos juntos.
+
+3
+00:00:06,606 --> 00:00:08,688
+Primero haremos que se mueva el coche.
+
+4
+00:00:08,688 --> 00:00:10,105
+Miren conmigo:
+
+5
+00:00:10,525 --> 00:00:13,365
+<i>Vamos al código de programación del auto.</i>
+
+6
+00:00:13,726 --> 00:00:15,905
+<i>Ahí hay otros bloques que no conocemos.</i>
+
+7
+00:00:16,100 --> 00:00:21,210
+<i>Y lo primero que haremos es 
+poner el auto a la izquierda del camino.</i>
+
+8
+00:00:21,830 --> 00:00:23,347
+<i>Vamos a </i> "Eventos",
+
+9
+00:00:23,489 --> 00:00:26,346
+<i>tomamos un "cuando se da 
+clic a la bandera verde"</i>
+
+10
+00:00:27,504 --> 00:00:31,126
+<i>la altura del auto está bien,
+porque está al nivel del camino</i>
+
+11
+00:00:31,145 --> 00:00:33,924
+<i>pero queremos que esté a la izquierda.</i>
+
+12
+00:00:35,412 --> 00:00:39,371
+<i>Quizá recuerden de lecciones pasadas
+que podemos ver la x y la y</i>
+
+13
+00:00:39,674 --> 00:00:42,534
+<i>que están a lado derecho abajo
+y que cambian constantemente</i>
+
+14
+00:00:42,548 --> 00:00:45,538
+<i>cuando muevo mi</i> mouse 
+<i>totalmente a la izquierda</i>
+
+15
+00:00:45,761 --> 00:00:49,436
+<i>entonces veremos 
+que esto pone -240.</i>
+
+16
+00:00:49,662 --> 00:00:53,039
+<i>Vamos a "movimiento"
+y aquí tenemos este bloque:</i>
+
+17
+00:00:53,550 --> 00:00:57,093
+<i>"Haz x = 0". Este lo vamos a pegar</i>
+
+18
+00:00:58,040 --> 00:01:03,186
+<i>y desde luego que en lugar de 0,
+pondremos -240.</i>
+
+19
+00:01:03,509 --> 00:01:04,977
+<i>Damos clic a la bandera verde</i>
+
+20
+00:01:04,977 --> 00:01:07,936
+<i>Miren, ahí se mueve 
+el auto a la izquierda.</i>
+
+21
+00:01:08,695 --> 00:01:13,025
+Lo que ahora queremos es que
+el coche se mueva de izquierda a derecha.
+
+22
+00:01:13,398 --> 00:01:15,754
+Esa es vuestra tarea de programación.
+
+23
+00:01:15,836 --> 00:01:19,762
+Seguramente recuerdan de otras lecciones
+cuáles bloques podéis usar
+
+24
+00:01:20,088 --> 00:01:24,034
+si queréis que el auto avance.
