@@ -1,0 +1,61 @@
+1
+00:00:00,298 --> 00:00:02,806
+Creo que hicieron algo así:
+
+2
+00:00:03,027 --> 00:00:06,027
+Un bloque "repetir" con 
+un "cambiar X" dentro.
+
+3
+00:00:06,460 --> 00:00:09,670
+Así va el auto avanzando
+y en un ciclo.
+
+4
+00:00:10,703 --> 00:00:14,074
+Eso es muy bueno, pero 
+así el auto avanza una sola vez
+
+5
+00:00:14,417 --> 00:00:17,527
+y queremos que 
+los autos circulen continuamente
+
+6
+00:00:17,527 --> 00:00:20,232
+para hacer el juego emocionante.
+
+7
+00:00:20,497 --> 00:00:23,245
+Eso lo podemos hacer 
+como sigue. Miren conmigo.
+
+8
+00:00:23,779 --> 00:00:26,997
+<i>Como pensaron, tomamos 
+otro bloque "repetir".</i>
+
+9
+00:00:26,997 --> 00:00:30,190
+<i>Quiero que cada vez el auto 
+vaya de izquierda a derecha</i>
+
+10
+00:00:30,428 --> 00:00:33,810
+<i>y eso se repita. Podrían 
+tomar un bloque "repetir"</i>
+
+11
+00:00:34,200 --> 00:00:37,396
+<i>y colocarlo aquí alrededor.</i>
+
+12
+00:00:38,080 --> 00:00:42,572
+<i>Cada vez va a la izquierda,
+y luego doy vuelta para ir a la derecha.</i>
+
+13
+00:00:42,911 --> 00:00:48,264
+Probad este programa,
+y ved si hace lo que debe de hacer.
