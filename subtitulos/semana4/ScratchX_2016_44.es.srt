@@ -1,0 +1,91 @@
+1
+00:00:00,473 --> 00:00:04,558
+Vaya, eso no ha funcionado, ¿eh?
+Mirad conmigo:
+
+2
+00:00:05,037 --> 00:00:08,447
+Doy clic a la bandera verde,
+una vez sale bien,
+
+3
+00:00:08,678 --> 00:00:10,874
+y luego ahí se queda el coche.
+
+4
+00:00:11,222 --> 00:00:13,830
+¿Qué ha pasado? ¿Se le pinchó la rueda?
+
+5
+00:00:14,073 --> 00:00:18,971
+<i>No, lo que sucede es que
+yo repito y se va todo a la derecha</i>
+
+6
+00:00:19,806 --> 00:00:21,697
+<i>pero nunca me detengo.</i>
+
+7
+00:00:21,796 --> 00:00:25,699
+<i>Y eso es quizá un poco confuso.
+Lo que ven es la parte trasera del auto</i>
+
+8
+00:00:26,333 --> 00:00:29,814
+<i>pero eso es porque Scratch
+no puede desplazarse más</i>
+
+9
+00:00:29,869 --> 00:00:31,338
+<i>porque no hay mas espacio.</i>
+
+10
+00:00:32,100 --> 00:00:34,753
+<i>Eso no significa que 
+el auto esté detenido.</i>
+
+11
+00:00:35,208 --> 00:00:39,585
+<i>Quizá recuerden de la semana pasada
+lo del bloque "repetir" aquí debajo.</i>
+
+12
+00:00:39,902 --> 00:00:42,813
+<i>Ahí no tiene ningún </i> ganchito,
+
+13
+00:00:42,890 --> 00:00:45,122
+<i>entonces no hay nada 
+con lo que pueda enganchar.</i>
+
+14
+00:00:45,397 --> 00:00:49,177
+Ya que eso nunca se detiene, 
+si yo repito para siempre,
+
+15
+00:00:49,595 --> 00:00:52,506
+entonces eso significa para SIEMPRE.
+
+16
+00:00:53,667 --> 00:00:56,598
+Ahora, ustedes recuerdan 
+que la semana pasada otro bloque:
+
+17
+00:00:57,044 --> 00:00:58,624
+El bloque "repetir-hasta".
+
+18
+00:00:59,066 --> 00:01:00,751
+¿Pueden mejorar este programa?
+
+19
+00:01:01,230 --> 00:01:07,136
+Hay que quitar el bloque "repetir" del 
+medio, y cambiarlo con un "repetir-hasta"
+
+20
+00:01:07,468 --> 00:01:11,701
+y piensen bien lo que 
+debe llevar en los triangulitos.
