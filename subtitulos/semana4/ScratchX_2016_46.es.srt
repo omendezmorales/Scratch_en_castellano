@@ -1,0 +1,40 @@
+1
+00:00:00,441 --> 00:00:04,778
+Mirad, eso si es un buen auto, ¿verdad?
+Si doy clic a la bandera verde, ahí va.
+
+2
+00:00:06,296 --> 00:00:07,895
+Cada vez da la vuelta.
+
+3
+00:00:08,528 --> 00:00:12,759
+Pero, lo que enseguida haremos es cruzar.
+
+4
+00:00:13,284 --> 00:00:18,279
+Y ahora la pregunta es a vosotros:
+pensad qué es lo que hacéis al cruzar.
+
+5
+00:00:18,682 --> 00:00:21,653
+No piensen en programar.
+
+6
+00:00:21,653 --> 00:00:25,909
+Escriban en el siguiente cuestionario,
+¿qué hacen exactamente para cruzar?
+
+7
+00:00:26,273 --> 00:00:30,999
+¿Qué pasos siguen siempre 
+antes de cruzar un camino?
+
+8
+00:00:31,072 --> 00:00:33,076
+Esa es vuestra siguiente 
+tarea de programación
+
+9
+00:00:33,156 --> 00:00:35,094
+aunque no se trate de programar.

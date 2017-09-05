@@ -1,0 +1,116 @@
+1
+00:00:00,368 --> 00:00:03,987
+Esto les ha salido bien,
+insertando el bloque "repetir-hasta".
+
+2
+00:00:04,223 --> 00:00:07,130
+Pero, ¿qué es lo que debe ir
+dentro de los triangulitos?
+
+3
+00:00:07,990 --> 00:00:11,391
+Eso es un poco complicado.
+Dejadme ayudaros un poco.
+
+4
+00:00:12,776 --> 00:00:18,042
+<i>Vayan conmigo a "Movimiento",
+y si se desplazan hasta abajo,</i>
+
+5
+00:00:18,079 --> 00:00:24,725
+<i>quizá nunca antes han ido hasta allí.
+Verán "posición-x" y "posición-y"</i>.
+
+6
+00:00:25,272 --> 00:00:30,316
+<i>Esos son bloques redondeados, 
+así que esos son un tipo de: variables.</i>
+
+7
+00:00:30,497 --> 00:00:33,183
+<i>Naturalmente.
+Pueden tomarlas</i>
+
+8
+00:00:33,341 --> 00:00:36,734
+<i>y con ellas podéis ver dónde
+exactamente está el auto. </i>
+
+9
+00:00:36,997 --> 00:00:40,344
+<i>Quizá recuerden de la lección anterior
+que está una palomita a lado</i>
+
+10
+00:00:40,928 --> 00:00:43,870
+<i>así que también aquí 
+podemos ver la posición.</i>
+
+11
+00:00:44,494 --> 00:00:47,931
+<i>¿Qué vamos ahora a hacer?
+Vamos a usar la variable</i>
+
+12
+00:00:48,572 --> 00:00:52,460
+<i>y con ella sabremos si el auto ya está
+lo suficientemente lejos a la derecha.</i>
+
+13
+00:00:53,455 --> 00:00:59,741
+<i>Vamos a "funciones",
+y vemos entre la i que hemos usado antes</i>
+
+14
+00:01:00,259 --> 00:01:04,217
+<i>pero además vemos otros bloques,
+en efecto, un "menor-que"</i>
+
+15
+00:01:04,468 --> 00:01:05,856
+<i>y un "mayor-que".</i>
+
+16
+00:01:06,701 --> 00:01:13,743
+<i>Ya que vamos a aumentar la x,
+queremos comprobar si es mayor que 240</i>
+
+17
+00:01:14,099 --> 00:01:16,910
+<i>porque ese es el límite de la pantalla.</i>
+
+18
+00:01:17,280 --> 00:01:24,341
+<i>Así que coloco la x ahí, y coloco 
+aquí 240, que es el límite del otro lado.</i>
+
+19
+00:01:24,889 --> 00:01:28,392
+<i>Y luego veremos que
+el bloque cabe perfecto aquí.</i>
+
+20
+00:01:29,702 --> 00:01:32,838
+Lo que ahora va a suceder
+cuando prueben el programa
+
+21
+00:01:33,084 --> 00:01:37,551
+y eso lo pueden hacer enseguida,
+es que el auto irá de izquierda a derecha,
+
+22
+00:01:37,817 --> 00:01:42,028
+y si está lo suficientemente lejos,
+entonces se detendrá
+
+23
+00:01:42,562 --> 00:01:44,439
+y va a iniciar de nuevo.
+
+24
+00:01:44,804 --> 00:01:50,858
+Así que de nuevo estará a la izquierda,
+y así viajará de nuevo; intentadlo.
