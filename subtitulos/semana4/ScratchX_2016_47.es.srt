@@ -1,0 +1,76 @@
+1
+00:00:00,336 --> 00:00:04,852
+¿Qué hacéis al cruzar?
+Miran a la izquierda, y luego a la derecha
+
+2
+00:00:05,391 --> 00:00:07,242
+luego miran de nuevo a la izquierda,
+
+3
+00:00:07,364 --> 00:00:10,527
+y si no hay más autos, 
+entonces van a cruzar.
+
+4
+00:00:11,572 --> 00:00:15,655
+Eso quizá no lo habían pensado 
+antes, pero es un tipo de <i>algoritmo.</i>
+
+5
+00:00:16,003 --> 00:00:20,458
+Algoritmo es una palabra de programación
+que significa un plan de acción.
+
+6
+00:00:20,705 --> 00:00:23,797
+Un plan en pasos 
+que pueda realizar el ordenador.
+
+7
+00:00:24,169 --> 00:00:26,599
+¡Así que cruzar la calle 
+es un tipo de algoritmo!
+
+8
+00:00:27,146 --> 00:00:29,211
+Y lo que hicimos 
+la semana pasada por ejemplo:
+
+9
+00:00:29,443 --> 00:00:33,368
+"Si la flecha indicaba el rosa,
+entonces recibes dos puntos
+
+10
+00:00:33,674 --> 00:00:35,766
+y si no, recibes solo un punto".
+
+11
+00:00:35,972 --> 00:00:39,060
+También ese es 
+un ejemplo de algoritmo.
+
+12
+00:00:39,332 --> 00:00:41,828
+De hecho no es muy difícil si lo piensan.
+
+13
+00:00:42,153 --> 00:00:45,996
+Vuestra siguiente tarea de programación 
+es que el algoritmo para cruzar,
+
+14
+00:00:46,247 --> 00:00:50,200
+o sea: izquierda, derecha, izquierda,
+lo pondréis en bloques de programa.
+
+15
+00:00:50,773 --> 00:00:55,341
+No necesitan ser bloques de <i>Scratch</i>,
+pueden ser con papel y lápiz,
+
+16
+00:00:55,735 --> 00:00:59,426
+pero intenten traducir
+el algoritmo en bloques.

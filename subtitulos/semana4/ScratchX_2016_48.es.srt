@@ -1,0 +1,83 @@
+1
+00:00:00,223 --> 00:00:04,122
+Hemos pensado mucho sobre cruzar;
+porque vemos izquierda, derecha, izquierda
+
+2
+00:00:04,485 --> 00:00:08,451
+pero si lo ponemos en la computadora,
+Hassan no necesita mirar a ambos lados.
+
+3
+00:00:08,949 --> 00:00:13,222
+Él puede saber dónde andan los autos.
+A qué distancia se encuentran.
+
+4
+00:00:13,222 --> 00:00:16,190
+Y qué tan seguro es cruzar.
+
+5
+00:00:16,190 --> 00:00:17,344
+Miren conmigo:
+
+6
+00:00:17,981 --> 00:00:22,088
+<i>Si vamos a "observaciones"
+veremos un bloque que dice:</i>
+
+7
+00:00:22,234 --> 00:00:23,898
+<i>"Distancia hasta"</i>.
+
+8
+00:00:24,143 --> 00:00:27,201
+<i>Y puedo elegir que sea
+"Distancia hasta auto"</i>
+
+9
+00:00:27,654 --> 00:00:30,986
+<i>Necesito ir a Hassan</i>.
+Miren, entonces elijo
+
+10
+00:00:31,129 --> 00:00:33,444
+<i>"distancia hasta auto".</i>
+
+11
+00:00:33,748 --> 00:00:38,486
+<i>Y así Hassan sabe automáticamente
+la distancia a la que está el auto.</i>
+
+12
+00:00:38,856 --> 00:00:45,099
+Así que pueden hacer que 
+Hassan diga a qué distancia está el auto.
+
+13
+00:00:45,466 --> 00:00:48,459
+Digan "la distancia al auto es: "
+
+14
+00:00:48,459 --> 00:00:50,751
+y enseguida colocad la distancia,
+
+15
+00:00:50,751 --> 00:00:53,039
+y para ello pueden usar 
+el bloque de "unión"
+
+16
+00:00:53,039 --> 00:00:55,670
+que usaron la semana
+pasada con el concurso.
+
+17
+00:00:55,990 --> 00:01:00,360
+Entonces: dejad que el auto avance como lo
+hace, y Hassan va a decir todo el tiempo
+
+18
+00:01:00,360 --> 00:01:03,614
+"¿A qué distancia 
+está el auto?" Intentadlo.
