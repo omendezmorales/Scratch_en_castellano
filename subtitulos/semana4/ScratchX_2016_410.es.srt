@@ -1,0 +1,67 @@
+1
+00:00:00,287 --> 00:00:05,240
+Miren, eso lo logramos con un bloque "si"
+y un bloque "mayor que" de las "funciones".
+
+2
+00:00:05,486 --> 00:00:07,223
+Eso ya lo sabéis vosotros.
+
+3
+00:00:07,528 --> 00:00:09,042
+Miren cómo se ve.
+
+4
+00:00:09,192 --> 00:00:10,972
+<i>Doy clic a la bandera verde.</i>
+
+5
+00:00:10,972 --> 00:00:13,859
+<i>Esto no es seguro, y en cuanto
+el auto se aleja lo suficiente </i>
+
+6
+00:00:14,243 --> 00:00:17,432
+<i>dice Hassan "cruzar",
+pero regresa de nuevo el auto.</i>
+
+7
+00:00:17,612 --> 00:00:21,163
+<i>Vamos a esperar
+y ahora es seguro cruzar.</i>
+
+8
+00:00:21,419 --> 00:00:27,425
+Ahora, a Hassan le gusta comer
+así que no solo le gusta decir "cruzar"
+
+9
+00:00:27,687 --> 00:00:30,291
+sino además quiere cruzar de verdad.
+
+10
+00:00:30,562 --> 00:00:35,107
+Programad vosotros de forma que
+pueda cruzar, y para eso podéis usar
+
+11
+00:00:35,107 --> 00:00:36,966
+el bloque "desplazarse".
+
+12
+00:00:37,700 --> 00:00:39,637
+Ese lo encuentran aquí en "movimiento"
+
+13
+00:00:39,637 --> 00:00:41,921
+y además en la 1ª lección lo hemos usado.
+
+14
+00:00:42,897 --> 00:00:45,763
+Tomen ese bloque, 
+colóquenle en el lugar correcto
+
+15
+00:00:45,763 --> 00:00:50,480
+y hagan que Hassan cruce el camino,
+pero sin que se aleje tanto; ¡éxito!

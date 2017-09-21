@@ -1,0 +1,97 @@
+1
+00:00:00,317 --> 00:00:03,708
+Miren. Seguramente les ha resultado:
+toman un bloque "repetir"
+
+2
+00:00:03,708 --> 00:00:06,708
+un bloque " decir",
+y lo unen a un bloque "añadir".
+
+3
+00:00:06,916 --> 00:00:09,261
+Miren cuando doy clic a la bandera verde.
+
+4
+00:00:10,038 --> 00:00:13,077
+Por cierto, hice que el auto
+avance más despacio, para verlo mejor.
+
+5
+00:00:14,156 --> 00:00:17,257
+<i>Eso funciona, pero ahora 
+vemos un número muy largo. </i>
+
+6
+00:00:17,528 --> 00:00:20,374
+<i>Es un poco molesto ver lo que ocurre.</i>
+
+7
+00:00:20,588 --> 00:00:24,162
+<i>Lo podemos resolver. Para ello
+naturalmente hay un bloque en </i> Scratch.
+
+8
+00:00:24,596 --> 00:00:30,252
+<i>Voy a "funciones", y si bajamos un poco
+veréis que está la palabra "redondear"</i>.
+
+9
+00:00:30,530 --> 00:00:35,374
+<i>Puedo redondear una cifra, 
+por ejemplo la distancia</i>
+
+10
+00:00:37,659 --> 00:00:41,102
+<i>Y ahora cada vez será redondeada.</i>
+
+11
+00:00:41,849 --> 00:00:48,908
+<i>Eso lo uno con la "distancia hasta" y eso
+lo coloco de vuelta en el bloque "decir".</i>
+
+12
+00:00:49,386 --> 00:00:51,395
+<i>Mirad conmigo lo que pasa ahora.</i>
+
+13
+00:00:51,760 --> 00:00:54,337
+<i>Se ve un lindo número redondeado.</i>
+
+14
+00:00:55,717 --> 00:00:58,942
+Así podemos ver cada vez 
+la distancia al auto.
+
+15
+00:00:59,398 --> 00:01:02,686
+Ahora, ¿cuál es la distancia
+segura para poder cruzar?
+
+16
+00:01:02,997 --> 00:01:09,681
+Acordemos que si el auto está a 
+más de 200, si la distancia es mayor a 200
+
+17
+00:01:09,983 --> 00:01:12,877
+entonces cruzaremos el camino.
+
+18
+00:01:13,093 --> 00:01:16,596
+Entonces vuestra siguiente 
+tarea de programación es:
+
+19
+00:01:16,871 --> 00:01:22,199
+si la distancia es mayor a 200, 
+entonces dirán "cruzar"
+
+20
+00:01:22,594 --> 00:01:27,190
+y si la distancia es 
+menor a 200, diréis "esperar".
+
+21
+00:01:27,485 --> 00:01:29,090
+Programad eso.
