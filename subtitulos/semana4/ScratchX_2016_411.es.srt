@@ -1,0 +1,193 @@
+1
+00:00:00,716 --> 00:00:06,718
+Miren, así se hace: Él dice "cruzar"
+y luego va a cruzar de verdad
+
+2
+00:00:06,718 --> 00:00:09,867
+con un bloque "desplazar".
+La x la podemos dejar en -180
+
+3
+00:00:09,981 --> 00:00:15,857
+porque así queda del mismo ancho,
+pero va a subir hasta -20.
+
+4
+00:00:16,202 --> 00:00:17,693
+Miren conmigo:
+
+5
+00:00:17,844 --> 00:00:21,853
+<i>Doy clic a la bandera verde,
+espera un poco hasta que el auto se aleje</i>
+
+6
+00:00:22,439 --> 00:00:24,587
+<i>y luego cruza</i>.
+
+7
+00:00:25,738 --> 00:00:34,745
+<i>Muy bien, pero ahora él se queda
+diciendo "cruzar", aún cuando ya lo hizo.</i>
+
+8
+00:00:34,745 --> 00:00:39,059
+<i>¡Miren! Aun dice "cruzar"</i>,
+pero ya está del otro lado.
+
+9
+00:00:39,642 --> 00:00:43,996
+<i>Entonces queremos que deje de decir
+"cruzar", si ya está del otro lado.</i>
+
+10
+00:00:43,996 --> 00:00:47,095
+<i>Para eso vamos a ajustar 
+un poco nuestro programa.</i>
+
+11
+00:00:50,375 --> 00:00:54,582
+<i>Para ello usaremos un nuevo bloque,
+el bloque "esperar hasta"</i>.
+
+12
+00:00:55,379 --> 00:00:58,205
+<i>Se parece un poco 
+al bloque "repetir-hasta"</i>
+
+13
+00:00:58,228 --> 00:01:02,576
+<i>pero si los ponemos juntos
+veréis que en el "repetir-hasta"</i>
+
+14
+00:01:02,808 --> 00:01:05,699
+<i>haremos algo hasta que sea cierto algo</i>
+
+15
+00:01:05,965 --> 00:01:10,497
+<i>y en el "esperar-hasta" no hacemos algo,
+estamos quietos y esperamos en cambio</i>
+
+16
+00:01:10,497 --> 00:01:12,236
+<i>hasta que algo suceda.</i>
+
+17
+00:01:12,656 --> 00:01:17,141
+<i>Entonces, ¿qué haremos?
+Voy a mover a lado estos bloques</i>
+
+18
+00:01:17,373 --> 00:01:19,852
+<i>porque vamos a adaptar el programa.</i>
+
+19
+00:01:21,020 --> 00:01:24,866
+<i>Si doy clic a la bandera verde,
+¿qué es lo que sucede primero?</i>
+
+20
+00:01:24,866 --> 00:01:27,194
+<i>Voy a decir primero "espera".</i>
+
+21
+00:01:29,722 --> 00:01:36,025
+<i>Luego, espero hasta que 
+la distancia sea mayor a 200</i>
+
+22
+00:01:36,668 --> 00:01:41,159
+<i>y si eso es así, entonces digo "cruzar"</i>
+
+23
+00:01:41,461 --> 00:01:46,239
+<i>y entonces me desplazo 
+a mi nueva posición.</i>
+
+24
+00:01:46,601 --> 00:01:53,213
+<i>Lo único que hemos olvidado cambiar
+es colocar a Hassan al inicio del camino</i>
+
+25
+00:01:53,521 --> 00:01:55,476
+<i>una vez que hemos cruzado.</i>
+
+26
+00:01:55,476 --> 00:01:57,108
+<i>Ese bloque aun no lo teníamos.</i>
+
+27
+00:01:57,698 --> 00:02:04,253
+<i>Voy aquí con un "ir-a -180"
+así se queda en el mismo ancho</i>
+
+28
+00:02:04,266 --> 00:02:08,901
+<i>pero ahora voy a -130, que es al inicio.</i>
+
+29
+00:02:09,202 --> 00:02:11,189
+<i>Miren lo que ahora sucede:</i>
+
+30
+00:02:11,669 --> 00:02:16,398
+<i>Va al inicio... no salió bien.</i>
+
+31
+00:02:16,582 --> 00:02:18,084
+<i>Voy a probar de nuevo.</i>
+
+32
+00:02:18,084 --> 00:02:20,637
+<i>Doy clic a la bandera verde, él espera </i>
+
+33
+00:02:21,219 --> 00:02:24,906
+<i>y cuando se aleja el auto,
+entonces cruza la calle.</i>
+
+34
+00:02:25,366 --> 00:02:28,090
+Así que ahora he hecho
+el programa más fácil:
+
+35
+00:02:28,090 --> 00:02:32,051
+en lugar de un repetir, 
+tengo ahora un espera-hasta
+
+36
+00:02:32,542 --> 00:02:36,954
+me quedo quieta, espero a que algo ocurra,
+y entonces cruzo el camino.
+
+37
+00:02:37,367 --> 00:02:41,108
+Entonces pensad que 
+si queréis hacer algo siempre
+
+38
+00:02:41,377 --> 00:02:43,551
+entonces está bien usar 
+un bloque "repetir"
+
+39
+00:02:43,843 --> 00:02:45,972
+pero si queréis hacer algo una sola vez
+
+40
+00:02:46,191 --> 00:02:48,843
+esperad a que ocurra
+algo a lo cual reaccionar.
+
+41
+00:02:49,071 --> 00:02:51,627
+Para eso es mejor 
+usar un bloque "esperar-hasta"
+
+42
+00:02:51,627 --> 00:02:52,953
+en lugar de un "repetir".
