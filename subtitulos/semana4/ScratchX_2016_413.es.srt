@@ -1,0 +1,51 @@
+1
+00:00:00,187 --> 00:00:02,887
+Mirad, se hace así: 
+toman un bloque de "desplazar"
+
+2
+00:00:02,887 --> 00:00:06,510
+pero ahora vamos al final 
+de la misma altura a donde estábamos
+
+3
+00:00:06,510 --> 00:00:10,563
+pero vamos a desplazarnos de <i>x</i>.
+Mirad cómo luce eso:
+
+4
+00:00:10,728 --> 00:00:13,995
+<i>Presionamos la bandera verde, esperamos,</i>
+
+5
+00:00:15,225 --> 00:00:21,237
+cruzamos y ahí van todos esos ricos
+bocadillos a la barriga de Hassan.
+
+6
+00:00:22,380 --> 00:00:25,299
+Pero esperad: los bocadillos siguen ahí.
+
+7
+00:00:25,659 --> 00:00:28,971
+¡Mirad! No se los ha comido;
+solo corrió de largo.
+
+8
+00:00:29,705 --> 00:00:31,934
+Vuestra siguiente tarea es hacer
+
+9
+00:00:32,046 --> 00:00:35,331
+que desaparezcan 
+los bocadillos si los toca Hassan.
+
+10
+00:00:35,847 --> 00:00:40,237
+No olvidéis mostrarlos de nuevo 
+al presionar la bandera verde,
+
+11
+00:00:40,237 --> 00:00:42,891
+porque si no, 
+solo podréis jugar una sola vez.

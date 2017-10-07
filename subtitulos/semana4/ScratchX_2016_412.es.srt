@@ -1,0 +1,28 @@
+1
+00:00:00,608 --> 00:00:04,802
+Mirad, añadimos un bloque vacío "decir"
+para que cuando Hassan cruce
+
+2
+00:00:04,802 --> 00:00:07,891
+no diga más "cruzar", 
+sino que deje de decirlo.
+
+3
+00:00:08,829 --> 00:00:12,800
+Finalmente está al otro lado 
+del camino con esos deliciosos bocadillos.
+
+4
+00:00:13,195 --> 00:00:17,852
+La siguiente tarea naturalmente 
+es que vaya de izquierda a derecha.
+
+5
+00:00:18,101 --> 00:00:23,222
+Desde el plátano hasta el rico pastelillo.
+Que se coma todos los bocadillos.
+
+6
+00:00:23,222 --> 00:00:25,295
+¿Sabéis cómo programar eso?
