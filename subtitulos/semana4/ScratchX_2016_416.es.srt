@@ -1,0 +1,55 @@
+1
+00:00:00,860 --> 00:00:03,373
+Sabemos que vamos a cruzar muy a menudo.
+
+2
+00:00:03,387 --> 00:00:07,129
+Y si vais a hacer algo muy seguido, lo 
+mejor es hace un bloque especial para ello
+
+3
+00:00:07,129 --> 00:00:09,971
+porque así mantienen
+vuestro programa ordenado.
+
+4
+00:00:10,653 --> 00:00:14,479
+Mirad conmigo; lo sabemos esto desde
+la lección 3, pero lo veremos de nuevo
+
+5
+00:00:14,728 --> 00:00:16,384
+ya que es un poquito difícil.
+
+6
+00:00:17,164 --> 00:00:21,765
+<i>Vamos a "más bloques",
+y ahí digo "haced un bloque"</i>
+
+7
+00:00:21,991 --> 00:00:24,704
+<i>y le voy a llamar "cruzar".</i>
+
+8
+00:00:25,086 --> 00:00:30,140
+<i>Doy clic en OK, y ahora tengo 
+un guapo bloque que define cruzar.</i>
+
+9
+00:00:30,723 --> 00:00:36,049
+Aquí abajo, voy a colocar todos
+los bloques correspondientes a cruzar.
+
+10
+00:00:36,285 --> 00:00:38,329
+Así que lo dejo así para vosotros.
+
+11
+00:00:38,586 --> 00:00:41,413
+Ustedes van a elegir todos los 
+bloques que deban ir debajo
+
+12
+00:00:41,603 --> 00:00:45,182
+que correspondan a cruzar,
+y los vais a colocar bajo el nuevo bloque.
