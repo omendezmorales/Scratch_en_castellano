@@ -1,0 +1,138 @@
+1
+00:00:00,314 --> 00:00:02,483
+Mirad: quizá esto es 
+lo que han programado.
+
+2
+00:00:02,870 --> 00:00:05,801
+Si dan clic a la bandera verde,
+entonces desaparece un bloque
+
+3
+00:00:06,048 --> 00:00:10,939
+y cada vez que Hassan lo toca,
+entonces desaparece el bocadillo.
+
+4
+00:00:11,201 --> 00:00:17,190
+Fue mucho que todos 
+los bocadillos usaran ese programa.
+
+5
+00:00:17,379 --> 00:00:19,888
+Os voy a enseñar un truquillo
+con el que la siguiente vez
+
+6
+00:00:20,231 --> 00:00:21,870
+no necesitarán hacer eso.
+
+7
+00:00:21,870 --> 00:00:23,183
+Mirad conmigo:
+
+8
+00:00:24,158 --> 00:00:29,149
+<i>No he hecho esto con todos los bloques;
+solo con el de la sandía, y el del taco</i>
+
+9
+00:00:29,169 --> 00:00:31,411
+<i>todavía no tiene programa alguno.</i>
+
+10
+00:00:31,875 --> 00:00:36,710
+<i>Si quisiera usar todos estos bloques
+para el taco, puedo tomarlos</i>
+
+11
+00:00:36,983 --> 00:00:42,211
+<i>y los arrastro al taco,
+y si están ahí, entonces lo suelto. </i>
+
+12
+00:00:42,526 --> 00:00:47,198
+<i>Entonces vemos que salta de regreso
+a la sandía, pero si doy clic aquí</i>
+
+13
+00:00:47,416 --> 00:00:49,523
+<i>entonces los veré allí también.</i>
+
+14
+00:00:49,523 --> 00:00:52,206
+<i>Es muy útil, y así no necesito 
+programarlo dos veces.</i>
+
+15
+00:00:52,377 --> 00:00:56,034
+<i>También puedo tomar este bloque,
+lo arrastro hacia el taco</i>
+
+16
+00:00:56,243 --> 00:01:00,128
+<i>y pareciera que se va, 
+pero de hecho sí se copia. </i>
+
+17
+00:01:00,830 --> 00:01:04,336
+<i>Ahora quizá pensáis viendo 
+aquí que solo hay una parte.</i>
+
+18
+00:01:04,576 --> 00:01:08,563
+<i>¿Dónde ha quedado 
+la otra sobre aparecer?</i>
+
+19
+00:01:08,623 --> 00:01:10,680
+<i>Esa queda aquí atrás, mirad.</i>
+
+20
+00:01:10,680 --> 00:01:13,215
+<i>Queda debajo.
+Eso naturalmente no es muy conveniente.</i>
+
+21
+00:01:13,463 --> 00:01:17,530
+<i>Puedo moverla con la mano,
+pero eso me parece mucho trabajo.</i>
+
+22
+00:01:17,530 --> 00:01:20,292
+<i>Así que lo que podemos hacer
+es presionar la tecla </i> shift
+
+23
+00:01:20,462 --> 00:01:23,709
+<i>y dar clic y aparece 
+un bloquecito llamado "limpiar".</i>
+
+24
+00:01:23,889 --> 00:01:25,224
+<i>Si le doy clic... </i>
+
+25
+00:01:25,356 --> 00:01:29,473
+¿No es eso magnífico?
+¡Todos mis bloques se alinean!
+
+26
+00:01:29,767 --> 00:01:33,190
+Solo necesitan dar clic
+en "Limpiar" y se ordena todo.
+
+27
+00:01:33,389 --> 00:01:37,899
+Eso siempre lo pueden usar si
+desean ordenar los bloques.
+
+28
+00:01:37,899 --> 00:01:41,238
+¡Súper útil! Ojalá hubiese algo parecido
+para ordenar vuestro dormitorio.
+
+29
+00:01:41,394 --> 00:01:46,050
+En todo caso, sirve para ordenar vuestros 
+bloques de <i>Scratch</i> sin tanta dificultad.
