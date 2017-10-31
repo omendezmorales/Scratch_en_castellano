@@ -1,0 +1,89 @@
+1
+00:00:00,129 --> 00:00:03,134
+Mirad, así va esto: 
+vamos al punto de inicio
+
+2
+00:00:03,368 --> 00:00:06,661
+y nos desplazamos en un segundo
+hacia la posición x de la banana.
+
+3
+00:00:07,036 --> 00:00:09,037
+La cual está aproximadamente
+en el mismo lugar,
+
+4
+00:00:09,295 --> 00:00:11,515
+cruzamos y regresamos,
+
+5
+00:00:11,779 --> 00:00:14,221
+y luego vamos 
+a la posición x de la sandía.
+
+6
+00:00:14,305 --> 00:00:16,583
+Y así continuamos con el resto.
+
+7
+00:00:16,583 --> 00:00:19,293
+Mirad cómo se ve
+si damos clic en verde.
+
+8
+00:00:20,093 --> 00:00:22,251
+Clic a la bandera... ahí va.
+
+9
+00:00:22,884 --> 00:00:25,423
+<i>Estamos desplazándonos,
+esperamos que se vaya el auto</i>
+
+10
+00:00:25,706 --> 00:00:30,727
+<i>Cruzamos de ida y vuelta,
+nos movemos hacia la sandía,</i>
+
+11
+00:00:32,097 --> 00:00:37,617
+<i>el taco, y estamos frente a la torta;
+¡tenemos que esperar que pase el auto!</i>
+
+12
+00:00:38,246 --> 00:00:41,739
+<i>Cruzamos de ida y vuelta. ¡Súper guay!</i>
+
+13
+00:00:42,474 --> 00:00:49,749
+Y lo mejor del programa que hemos hecho
+es si queremos comer en otro orden.
+
+14
+00:00:50,237 --> 00:00:53,403
+Probad cambiar 
+la posición de los bocadillos,
+
+15
+00:00:53,774 --> 00:00:57,919
+y veréis que aún así Hassan 
+los come en el orden indicado
+
+16
+00:00:58,106 --> 00:01:01,650
+ya que nos movemos cada vez 
+a la posición x correcta,
+
+17
+00:01:01,984 --> 00:01:06,439
+no importa dónde los coloquemos
+a lo ancho del camino
+
+18
+00:01:06,441 --> 00:01:08,966
+y aún así va a funcionar todas las veces.
+
+19
+00:01:09,550 --> 00:01:14,745
+Ese es el poder de la programación.
+Los veo la siguiente semana. ¡Adiós!
