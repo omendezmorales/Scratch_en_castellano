@@ -1,0 +1,134 @@
+1
+00:00:00,529 --> 00:00:03,146
+Mirad, así luce 
+el bloque "cruzar de vuelta".
+
+2
+00:00:03,146 --> 00:00:07,604
+Es casi lo mismo que "cruzar", 
+pero en lugar de ir a -20
+
+3
+00:00:07,835 --> 00:00:11,400
+vamos ahora a -130, porque
+regresamos hacia abajo.
+
+4
+00:00:12,145 --> 00:00:15,387
+Lo que he programado en el lado de arriba
+es que voy a la esquina izquierda
+
+5
+00:00:15,387 --> 00:00:19,867
+cruzo, me como todos los bocadillos,
+y finalmente regreso al otro lado.
+
+6
+00:00:19,914 --> 00:00:21,190
+Mirad conmigo:
+
+7
+00:00:21,811 --> 00:00:23,518
+<i>Doy clic a la bandera verde,</i>
+
+8
+00:00:23,996 --> 00:00:26,265
+<i>espero un poquito a que se aleje el auto,</i>
+
+9
+00:00:26,265 --> 00:00:28,719
+<i>subo, todos los bocadillos</i>
+
+10
+00:00:28,719 --> 00:00:32,495
+<i>espero de nuevo que se vaya 
+el auto y entonces cruzo de vuelta.</i>
+
+11
+00:00:33,965 --> 00:00:37,315
+Vuestra siguiente tarea 
+de programación es poner todo
+
+12
+00:00:37,315 --> 00:00:38,813
+en el orden adecuado.
+
+13
+00:00:38,813 --> 00:00:42,252
+Pensad en ello: fruta, taco, y un postre.
+
+14
+00:00:42,913 --> 00:00:46,686
+Antes que comencéis, 
+os voy a dar un par de consejos:
+
+15
+00:00:46,961 --> 00:00:49,687
+Mirad una vez más mi pantalla:
+
+16
+00:00:52,310 --> 00:00:56,088
+<i>Este bloque, el de desplazarse, 
+lo podemos retirar</i>
+
+17
+00:00:56,088 --> 00:00:59,110
+<i>porque ya no vamos más 
+a desplazarnos de izquierda a derecha</i>
+
+18
+00:00:59,110 --> 00:01:04,183
+<i>sino que lo vamos a hacer 
+en un determinado orden.</i>
+
+19
+00:01:04,207 --> 00:01:06,055
+<i>Así que ese bloque ya lo podéis retirar.</i>
+
+20
+00:01:06,653 --> 00:01:10,729
+<i>Otro consejo más antes que
+comencéis a programar:</i>
+
+21
+00:01:11,551 --> 00:01:17,221
+<i>En "Observar" pueden
+preguntar la posición de otros bloques.</i>
+
+22
+00:01:17,332 --> 00:01:22,339
+<i>Aquí vemos la posición x,
+que ahora es la posición x de Hassan</i>
+
+23
+00:01:22,339 --> 00:01:26,447
+<i>que es exactamente igual 
+al bloque azul oscuro de posición x</i>
+
+24
+00:01:26,447 --> 00:01:29,692
+<i>pero también podéis usar 
+"posición x de __"</i>
+
+25
+00:01:29,963 --> 00:01:32,122
+<i>la sandía por ejemplo.</i>
+
+26
+00:01:32,668 --> 00:01:35,676
+Así que eso podéis usar. 
+Ya saben donde está la sandía
+
+27
+00:01:35,872 --> 00:01:39,933
+dada su posición en x, 
+y allí deben subir
+
+28
+00:01:40,507 --> 00:01:43,452
+y bajar. Terminad de programar el juego
+
+29
+00:01:43,500 --> 00:01:47,755
+para que todo sea comido
+en el orden correcto. ¡Éxito!
