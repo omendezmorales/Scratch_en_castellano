@@ -1,0 +1,100 @@
+1
+00:00:00,090 --> 00:00:04,335
+¡Hola a tod@s! Bienvenid@s a 
+la lección 5 de <i>ScratchX con Felienne</i>.
+
+2
+00:00:04,577 --> 00:00:08,774
+Esta semana trabajaremos con el juego
+<i>"Flappy Bird"</i>, o una variante del mismo
+
+3
+00:00:08,774 --> 00:00:12,366
+pero con un murciélago, y es una versión
+bien especial de <i>"Flappy Bird"</i>
+
+4
+00:00:12,400 --> 00:00:15,349
+porque si tenéis una cámara web,
+lo programaremos de tal suerte
+
+5
+00:00:15,362 --> 00:00:20,976
+que con vuestra mano podáis levantar
+al <i>"Flappy Bird"</i>, y eso es muy guay, ¿no?
+
+6
+00:00:21,215 --> 00:00:24,489
+Mirad conmigo al juego 
+que haremos esta semana.
+
+7
+00:00:25,086 --> 00:00:30,110
+<i>Si habéis ingresado 
+al entorno en línea, veréis este juego.</i>
+
+8
+00:00:31,013 --> 00:00:34,853
+<i>En el juego </i> "Flappy Bird" <i>parece que
+el murciélago se moviera hacia adelante</i>
+
+9
+00:00:35,329 --> 00:00:39,669
+<i>Sin embargo son los muros
+los que pasan sobre </i>"Flappy Bird".
+
+10
+00:00:39,953 --> 00:00:42,685
+<i>Vamos entonces a "Eventos"</i>
+
+11
+00:00:42,729 --> 00:00:46,716
+<i>y observen que estoy en el código 
+del muro y no en el del murciélago.</i>
+
+12
+00:00:46,953 --> 00:00:50,869
+<i>Voy a "Movimiento",
+y tomo "hacer X = 0"</i>.
+
+13
+00:00:51,882 --> 00:00:53,974
+<i>Y luego "hacer Y = 0"</i>.
+
+14
+00:00:54,623 --> 00:00:58,888
+<i>Lo que queremos hacer es que el muro
+inicie en el extremo derecho, </i>
+
+15
+00:00:59,237 --> 00:01:01,646
+<i>y luego se mueva lentamente
+hacia el murciélago. </i>
+
+16
+00:01:01,646 --> 00:01:04,443
+<i>Tomo aquí un 0,
+tanto x como y son 0</i>.
+
+17
+00:01:05,050 --> 00:01:09,994
+Si doy clic a la bandera verde,
+veréis que viene el muro al centro.
+
+18
+00:01:10,394 --> 00:01:14,343
+Eso no es lo que queremos,
+sino que queremos que el muro
+
+19
+00:01:14,597 --> 00:01:16,454
+llegue al lado derecho de la pantalla.
+
+20
+00:01:16,726 --> 00:01:20,316
+Así que el primer desafío para vosotros
+es ¿qué valores para x e y deben usar
+
+21
+00:01:20,316 --> 00:01:24,513
+para que el muro llegue bien al lado derecho?
