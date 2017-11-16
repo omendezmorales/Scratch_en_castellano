@@ -1,0 +1,168 @@
+1
+00:00:00,430 --> 00:00:05,920
+Miren, con la barra espaciadora podéis
+cambiar a 25, y el murciélago se eleva.
+
+2
+00:00:06,783 --> 00:00:10,015
+Pero si prueban el juego,
+voy a decir "iniciar".
+
+3
+00:00:10,977 --> 00:00:15,681
+<i>Funciona bien, pero no se siente
+de verdad como un</i> flappy bird.
+
+4
+00:00:16,065 --> 00:00:20,796
+<i>Eso es porque en el juego original
+el pajarito tiende a caer</i>
+
+5
+00:00:21,329 --> 00:00:25,131
+<i>en lugar de moverse 
+con una velocidad constante.</i>
+
+6
+00:00:25,545 --> 00:00:27,513
+<i>Eso lo vamos a programar juntos</i>
+
+7
+00:00:27,518 --> 00:00:30,084
+<i>y para ello vamos a usar una variable.</i>
+
+8
+00:00:30,084 --> 00:00:34,786
+<i>Miren. Voy a agregar una variable
+a la que llamaré "velocidad".</i>
+
+9
+00:00:35,399 --> 00:00:42,071
+<i>Y en lugar de cambiar a "y"
+con -2, vamos a cambiarla con "velocidad"</i>
+
+10
+00:00:42,594 --> 00:00:46,610
+<i>así que este programa que voy a hacer
+es todavía el mismo, miren:</i>
+
+11
+00:00:46,927 --> 00:00:53,634
+<i>Asigno -2 a "velocidad",
+y luego cambio "y" con "velocidad"</i>.
+
+12
+00:00:54,283 --> 00:00:56,325
+<i>(Elegí la variable equivocada)</i>
+
+13
+00:00:57,079 --> 00:01:01,478
+<i>Cambio "y" con "velocidad".
+Miren, se ve exactamente igual</i>
+
+14
+00:01:01,478 --> 00:01:03,617
+<i>no he cambiado nada.</i>
+
+15
+00:01:03,617 --> 00:01:05,565
+<i>Aún no pasa nada.</i>
+
+16
+00:01:06,232 --> 00:01:11,085
+<i>Lo que quisiéramos hacer
+es que la velocidad vaya disminuyendo.</i>
+
+17
+00:01:11,467 --> 00:01:16,656
+<i>Así que cada repetición de bloque
+queremos bajar un poco la velocidad</i>
+
+18
+00:01:16,893 --> 00:01:21,071
+<i>para que el murciélago vaya descendiendo.</i>
+
+19
+00:01:21,976 --> 00:01:23,674
+<i>¿Sabéis cuál bloque hace falta?</i>
+
+20
+00:01:25,515 --> 00:01:27,993
+<i>¡Sí! Naturalmente es el bloque "cambiar"</i>.
+
+21
+00:01:28,332 --> 00:01:32,308
+<i>Si pego ese bloque aquí abajo,
+-hago un poco de espacio-</i>
+
+22
+00:01:32,623 --> 00:01:40,274
+<i>Puedo decir: "cada vez, si desciendo,
+reduzco más la velocidad". Por ejemplo -2</i>.
+
+23
+00:01:42,211 --> 00:01:46,979
+<i>Y voy a añadir además un bloque "esperar"
+para que podáis ver mejor lo que ocurre.</i>
+
+24
+00:01:47,296 --> 00:01:50,349
+<i>De otro modo, el murciélago
+va a caer muy rápido</i>.
+
+25
+00:01:50,349 --> 00:01:52,303
+<i>Miren. Así lo haremos:</i>
+
+26
+00:01:54,488 --> 00:01:59,863
+<i>Y pueden ver ahora
+que cada vez baja más rápido.</i>
+
+27
+00:02:02,932 --> 00:02:06,579
+<i>Así que va a descender 
+cada vez más rápido</i>.
+
+28
+00:02:07,292 --> 00:02:11,807
+<i>Si remuevo el "esperar",
+vemos realmente lo rápido que cae.</i>
+
+29
+00:02:12,160 --> 00:02:14,103
+<i>Así que cada vez es más rápido.</i>
+
+30
+00:02:15,469 --> 00:02:18,166
+<i>Eso es casi igual 
+al juego real de </i> Flappy bird
+
+31
+00:02:18,454 --> 00:02:21,319
+unicamente queremos ahora
+cambiar la barra espaciadora
+
+32
+00:02:21,658 --> 00:02:25,111
+ya que cambiamos la "y" 
+directamente con ella
+
+33
+00:02:25,406 --> 00:02:29,123
+pero ahora en lugar de "y"
+queremos cambiar la velocidad.
+
+34
+00:02:29,576 --> 00:02:33,702
+Intentad aquello, removiendo 
+el bloque "asignar y"
+
+35
+00:02:33,954 --> 00:02:36,590
+y poniendo en su lugar a "velocidad"
+
+36
+00:02:36,798 --> 00:02:40,044
+y vean si así logran 
+un verdadero <i>Flappy Bird</i>. ¡Éxito!

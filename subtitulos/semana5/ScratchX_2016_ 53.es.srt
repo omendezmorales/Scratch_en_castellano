@@ -1,0 +1,99 @@
+1
+00:00:00,272 --> 00:00:03,038
+Miren, en el juego anterior 
+añadieron un bloque "repetir"
+
+2
+00:00:03,402 --> 00:00:08,099
+entonces estamos listos con el muro,
+y es momento de ver el murciélago.
+
+3
+00:00:08,742 --> 00:00:13,175
+Lo que haremos en este juego 
+es que el murciélago debe ir bajando.
+
+4
+00:00:13,588 --> 00:00:17,836
+Iniciaremos en el medio, y va ir bajando,
+y si presionan la barra espaciadora
+
+5
+00:00:17,865 --> 00:00:19,463
+entonces flota de nuevo arriba.
+
+6
+00:00:19,463 --> 00:00:21,004
+Eso es lo que vamos a programar.
+
+7
+00:00:21,004 --> 00:00:24,193
+<i>Miren conmigo. 
+Vamos al código del murciélago</i>
+
+8
+00:00:24,802 --> 00:00:28,540
+<i>Para iniciar, tomamos un 
+"cuando se presiona la bandera verde"</i>
+
+9
+00:00:29,495 --> 00:00:33,787
+<i>Vamos primero a una posición inicial,
+y donde ahora está es una buena posición</i>
+
+10
+00:00:34,084 --> 00:00:38,260
+<i>así que dejamos esa. 
+Vamos a -120, y "y" es 0</i>.
+
+11
+00:00:39,188 --> 00:00:44,665
+<i>Luego usamos un bloque "repetir",
+porque vamos a descender en pausas".</i>
+
+12
+00:00:44,758 --> 00:00:48,639
+<i>¿Cuál bloque hace falta si queréis 
+descender constantemente?</i>
+
+13
+00:00:50,772 --> 00:00:53,966
+<i>Ese es desde luego "cambiar 'y' con _" </i>
+
+14
+00:00:54,437 --> 00:00:57,255
+<i>Ese está aquí en "movimiento".
+Lo colocamos dentro</i>
+
+15
+00:00:57,519 --> 00:01:03,169
+<i>y vosotros sabéis del juego anterior
+que no debe tener 10, sino algo menor a 0</i>
+
+16
+00:01:03,239 --> 00:01:05,363
+<i>digamos "-2".</i>
+
+17
+00:01:05,968 --> 00:01:11,814
+<i>Miren, si presiono la barra verde,
+va a ir bajando el murciélago.</i>
+
+18
+00:01:13,031 --> 00:01:17,598
+Vuestra siguiente tarea de programación
+es hacer que el murciélago ascienda
+
+19
+00:01:17,852 --> 00:01:19,626
+cuando presionen la barra espaciadora.
+
+20
+00:01:19,656 --> 00:01:23,658
+Digamos que suba 25, 
+que eso es un buen aletazo
+
+21
+00:01:23,895 --> 00:01:26,898
+para que pase por el muro.
+¿Lo programáis por mí?
