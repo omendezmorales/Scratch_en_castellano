@@ -1,0 +1,87 @@
+1
+00:00:00,108 --> 00:00:03,899
+Miren, así lo he hecho:
+aumento la velocidad en cinco
+
+2
+00:00:04,044 --> 00:00:06,161
+cada vez que presiono la barra espaciadora
+
+3
+00:00:06,161 --> 00:00:09,591
+así que comienza un poco arriba, 
+y siempre es atraído al suelo
+
+4
+00:00:09,867 --> 00:00:15,064
+y podéis ver también -2 
+en el vídeo lo he cambiado por -0.5
+
+5
+00:00:15,341 --> 00:00:18,441
+porque con -2 va muy rápido hacia abajo
+
+6
+00:00:18,725 --> 00:00:24,444
+pero naturalmente podéis jugar 
+y hacerlo tan lento o rápido como gusten.
+
+7
+00:00:25,236 --> 00:00:31,294
+Lo que ahora sería bueno -pienso yo,
+es hacer que murciélago de verdad aletee
+
+8
+00:00:31,637 --> 00:00:35,918
+con sus alas, y afortunadamente se puede,
+porque hay dos versiones del murciélago.
+
+9
+00:00:36,329 --> 00:00:38,327
+<i>Miremos en "apariencia"</i>
+
+10
+00:00:38,727 --> 00:00:41,992
+<i>ahí le vemos las alas arriba,
+y con alas abajo</i>.
+
+11
+00:00:42,196 --> 00:00:46,285
+<i>Voy a subirlo un poco, si no, 
+no le veremos en acción.</i>
+
+12
+00:00:46,484 --> 00:00:49,067
+<i>Miren: arriba y abajo. </i>
+
+13
+00:00:50,006 --> 00:00:54,125
+Lo que sería aun mejor es que 
+si presiono la barra espaciadora
+
+14
+00:00:54,233 --> 00:00:57,155
+que las alas se muevan una vez.
+
+15
+00:00:57,402 --> 00:00:59,124
+¿Podéis programar eso?
+
+16
+00:00:59,340 --> 00:01:02,834
+Presionan la barra espaciadora,
+se elevan las alas, esperan un poquito,
+
+17
+00:01:03,018 --> 00:01:05,922
+y las alas vuelven a bajar.
+Cada vez que presionen la barra
+
+18
+00:01:05,996 --> 00:01:08,081
+de verdad vuele hacia arriba.
+
+19
+00:01:08,145 --> 00:01:11,835
+Prográmenlo y muestren 
+al resto cómo lo hicieron.

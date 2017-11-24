@@ -1,0 +1,76 @@
+1
+00:00:00,437 --> 00:00:02,369
+Se ve muy guapo, ¿no?
+
+2
+00:00:02,632 --> 00:00:05,571
+Miren conmigo. 
+Quizá lo han visto ya en su juego.
+
+3
+00:00:05,817 --> 00:00:08,330
+Realmente luce como 
+si volara el murciélago.
+
+4
+00:00:08,606 --> 00:00:11,019
+Ahí va. Súper guay.
+
+5
+00:00:11,624 --> 00:00:16,807
+Pero es realmente una lástima
+que solo pueda atravesar el muro, ¿no?
+
+6
+00:00:17,129 --> 00:00:20,655
+Eso no lo queremos.
+Vuestra siguientes tareas
+
+7
+00:00:20,880 --> 00:00:26,551
+porque tengo dos de ellas.
+La primera, vea que si toca el muro
+
+8
+00:00:26,874 --> 00:00:29,941
+que diga "ups", 
+o también puede ser algo más
+
+9
+00:00:30,204 --> 00:00:34,723
+"au" o "ay, eso era el muro". 
+Elijan lo que más les agrade
+
+10
+00:00:34,918 --> 00:00:39,228
+pero hagan que diga
+algo cuando toque un muro.
+
+11
+00:00:39,446 --> 00:00:44,351
+La segunda tarea es
+¿pueden hacer una variable para puntaje?
+
+12
+00:00:44,824 --> 00:00:48,338
+Esa ya la pueden hacer, ¿verdad?
+Creen una variable llamada puntos
+
+13
+00:00:48,532 --> 00:00:51,406
+que inicie en cero al iniciar el juego
+
+14
+00:00:51,600 --> 00:00:55,222
+y que quede en cero 
+si el murciélago choca.
+
+15
+00:00:55,524 --> 00:01:01,243
+Haced eso ahora, y en el siguiente vídeo
+veremos que el murciélago logre puntos
+
+16
+00:01:01,477 --> 00:01:05,057
+cuando atraviese 
+correctamente entre el muro. ¡Éxito!
