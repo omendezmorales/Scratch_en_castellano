@@ -1,0 +1,228 @@
+1
+00:00:00,156 --> 00:00:03,367
+Miren, así debe ser:
+El murciélago espera a acercarse al muro
+
+2
+00:00:03,611 --> 00:00:06,050
+y cuando lo ha pasado,
+recibe un punto
+
+3
+00:00:06,308 --> 00:00:11,704
+y luego espera a pasar el siguiente muro,
+y eso lo repite todo el tiempo.
+
+4
+00:00:11,854 --> 00:00:17,823
+Eso va bien, voy a intentar demostrarlo,
+porque nuestro juego se ha complicado mucho.
+
+5
+00:00:18,056 --> 00:00:21,289
+Miren, si atravieso bien entre el muro...
+
+6
+00:00:21,833 --> 00:00:24,341
+<i>¡Sí! entonces tengo un punto.</i>
+
+7
+00:00:24,535 --> 00:00:27,644
+<i>Y si lo hago una vez más,
+¡sí! entonces tengo dos puntos</i>
+
+8
+00:00:27,644 --> 00:00:29,417
+<i>Lástima que he tocado el muro</i>
+
+9
+00:00:29,417 --> 00:00:31,517
+<i>pero el programa funciona bien.</i>
+
+10
+00:00:31,530 --> 00:00:37,645
+Cada vez recibimos un punto,
+en lugar de 30 una vez cruzado el muro.
+
+11
+00:00:38,053 --> 00:00:39,830
+¿Qué vamos a hacer ahora?
+
+12
+00:00:40,027 --> 00:00:43,326
+Como lo prometí, vamos a intentar
+hacer que suba el murciélago
+
+13
+00:00:43,487 --> 00:00:46,305
+con nuestra propia mano.
+Eso es muy guay.
+
+14
+00:00:46,607 --> 00:00:52,574
+Y quizá les sorprenda que para ello
+solo necesitemos un nuevo bloque.
+
+15
+00:00:52,574 --> 00:00:55,960
+Miren conmigo dónde 
+encontrar ese bloque especial.
+
+16
+00:00:56,281 --> 00:00:58,473
+<i>Eso está aquí en "Eventos".</i>
+
+17
+00:00:58,761 --> 00:01:02,209
+<i>Está un "cuando el volumen es mayor a 0"</i>
+
+18
+00:01:02,500 --> 00:01:07,485
+<i>(voy a hacer un poco de espacio) y además
+puedo elegir "movimiento en vídeo".</i>
+
+19
+00:01:07,618 --> 00:01:10,409
+<i>Si eligen aquel, 
+entonces </i> Scratch <i>os preguntará</i>
+
+20
+00:01:10,488 --> 00:01:13,486
+<i>"¿Puedo mirar por tu cámara web?"</i>
+
+21
+00:01:13,684 --> 00:01:18,533
+<i>Normalmente no dirías que sí,
+pero en este caso lo necesitamos</i>
+
+22
+00:01:18,587 --> 00:01:20,145
+<i>y nos parece bien por eso.</i>
+
+23
+00:01:20,374 --> 00:01:23,937
+<i>Si dais clic en </i> "allow",
+<i>entonces miren: ¡Hola chicos!</i>
+
+24
+00:01:24,266 --> 00:01:26,438
+<i>Esta soy yo a través de la cámara.</i>
+
+25
+00:01:26,630 --> 00:01:30,513
+<i>Entonces os veréis porque 
+apareceréis por la cámara web</i>.
+
+26
+00:01:30,769 --> 00:01:34,098
+<i>Eso es genial, pero lo vamos a hacer mejor.</i>
+
+27
+00:01:34,311 --> 00:01:37,698
+<i>Tomo el murciélago 
+y lo coloco en la esquina</i>
+
+28
+00:01:38,114 --> 00:01:43,370
+<i>tomo el bloque "cuando el 
+movimiento de vídeo es &gt; 10"</i>
+
+29
+00:01:43,565 --> 00:01:47,804
+<i>y vamos a iniciar simple,
+porque primero haremos un ruido</i>
+
+30
+00:01:47,986 --> 00:01:51,338
+<i>para estar seguros que 
+este bloque hace lo que queremos.</i>
+
+31
+00:01:51,597 --> 00:01:53,836
+<i>Vamos a "sonido",
+entonces tomamos "pop"</i>
+
+32
+00:01:54,007 --> 00:01:58,185
+<i>y ahora cada vez que tomo 
+con mi mano al murciélago</i>
+
+33
+00:01:58,354 --> 00:02:00,917
+<i>entonces escucharéis ese</i> "pop, pop, pop".
+
+34
+00:02:01,212 --> 00:02:03,435
+<i>Eso es muy</i> cool, ¿no?
+
+35
+00:02:03,661 --> 00:02:06,476
+<i>Quizá tras esta lección
+podemos hacer otro juego</i>
+
+36
+00:02:06,540 --> 00:02:08,976
+<i>donde puedan hacer de todo con la </i>webcam.
+
+37
+00:02:09,258 --> 00:02:14,555
+<i>Ahora queremos que además 
+de presionar la barra espaciadora</i>
+
+38
+00:02:14,854 --> 00:02:17,887
+<i>que además de percibir 
+movimiento en el</i> sprite
+
+39
+00:02:18,135 --> 00:02:22,994
+<i>entonces el murciélago se eleve.
+Eso es cuestión de tomar estos bloques</i>
+
+40
+00:02:23,151 --> 00:02:29,521
+<i>hacer una copia, pegarlos aquí abajo,
+y entonces va a elevarse el murciélago.</i>
+
+41
+00:02:29,767 --> 00:02:32,494
+<i>Entonces inicio el juego,
+¡esto se convierte en un desafío</i>
+
+42
+00:02:32,701 --> 00:02:36,877
+<i>porque ahora voy a mover las manos, en
+lugar de presionar la barra espaciadora!</i>
+
+43
+00:02:37,085 --> 00:02:43,855
+<i>Ahí va. Si yo ahora agito mi mano,
+ven que el murciélago se eleva</i>
+
+44
+00:02:44,023 --> 00:02:47,356
+<i>tan solo con el movimiento de mi mano</i>.
+
+45
+00:02:47,534 --> 00:02:52,083
+Eso es espectacular, ¿no?
+¡Eso es todo chicos!
+
+46
+00:02:52,412 --> 00:02:55,372
+Eso fue el fin de la lección 5
+disfrutad vuestro juego,
+
+47
+00:02:55,928 --> 00:02:59,230
+coloquen algunos obstáculos,
+haced lo que queráis con la <i>webcam.</i>
+
+48
+00:02:59,517 --> 00:03:04,098
+Muéstrennos en el estudio 
+lo que han programado esta semana
+
+49
+00:03:04,302 --> 00:03:06,051
+con o sin la <i>webcam</i>. ¡Adiós!

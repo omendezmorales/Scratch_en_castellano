@@ -1,0 +1,250 @@
+1
+00:00:00,155 --> 00:00:03,478
+Miren, así lo hice:
+Asigno 0 a puntos
+
+2
+00:00:03,742 --> 00:00:05,824
+y cada vez que todo el muro, digo "ups"
+
+3
+00:00:06,751 --> 00:00:08,903
+y hago puntos igual a 0.
+
+4
+00:00:08,903 --> 00:00:10,584
+Miren cómo luce:
+
+5
+00:00:11,221 --> 00:00:14,695
+<i>Este lo voy a remover: la velocidad
+y la altura del muro.</i>
+
+6
+00:00:14,899 --> 00:00:16,495
+<i>Ya no los necesitamos más.</i>
+
+7
+00:00:16,647 --> 00:00:18,591
+<i>Y coloco puntos un poco arriba. Veamos.</i>
+
+8
+00:00:19,066 --> 00:00:20,679
+<i>Ahí va muy bien</i>
+
+9
+00:00:20,859 --> 00:00:23,135
+<i>Voy a chocar a propósito
+contra el muro: ¡Ups!</i>
+
+10
+00:00:26,194 --> 00:00:31,211
+<i>"Ups" por 3 segundos es quizá demasiado;
+dejémosle en 2 segundos mejor.</i>
+
+11
+00:00:32,855 --> 00:00:36,293
+Así se ve bien, 
+pero los puntos siempre están en 0
+
+12
+00:00:36,570 --> 00:00:39,327
+Los iniciamos en 0, 
+y cada vez que toca el muro
+
+13
+00:00:39,645 --> 00:00:41,471
+los ponemos de nuevo en 0
+
+14
+00:00:41,635 --> 00:00:43,558
+pero también queremos ganar puntos.
+
+15
+00:00:43,558 --> 00:00:45,079
+Eso es un poco difícil
+
+16
+00:00:45,079 --> 00:00:46,966
+y por eso lo vamos a programar juntos.
+
+17
+00:00:47,235 --> 00:00:48,555
+Mirad conmigo.
+
+18
+00:00:48,555 --> 00:00:50,206
+<i>¿Qué es lo que podríamos hacer?</i>
+
+19
+00:00:50,474 --> 00:00:56,469
+<i>Bueno, cada vez 
+que nuestro murciélago pase el muro,</i>
+
+20
+00:00:56,550 --> 00:00:59,489
+<i>cuando queda 
+a lado izquierdo del murciélago</i>
+
+21
+00:00:59,489 --> 00:01:03,044
+<i>ahí debería recibir un punto,
+porque si hemos cruzar el muro</i>
+
+22
+00:01:03,514 --> 00:01:05,576
+<i>entonces éste queda a la izquierda.</i>
+
+23
+00:01:05,576 --> 00:01:07,823
+<i>¿Cómo podríamos usarlo? Así: </i>
+
+24
+00:01:08,940 --> 00:01:13,369
+<i>Cuando se presiona la bandera verde,
+vamos a decir "espera hasta que"</i>
+
+25
+00:01:15,148 --> 00:01:19,599
+<i>¿hasta cuándo vamos a esperar?
+Hasta que la posición x del muro</i>
+
+26
+00:01:19,902 --> 00:01:23,377
+<i>sea menor a la posición x del murciélago.</i>
+
+27
+00:01:23,663 --> 00:01:25,851
+<i>Esto en lenguaje de programación </i>
+
+28
+00:01:25,851 --> 00:01:28,992
+<i>quiere decir que el muro
+está a la izquierda del murciélago.</i>
+
+29
+00:01:28,992 --> 00:01:31,560
+<i>Piensen en la lección
+anterior sobre cruzar.</i>
+
+30
+00:01:32,781 --> 00:01:41,721
+<i>Así que vamos a tomar este bloque.
+Si la posición x del muro es menor</i>
+
+31
+00:01:42,275 --> 00:01:46,899
+<i>a nuestra posición x, 
+y esa la encontramos en "movimiento"</i>
+
+32
+00:01:47,348 --> 00:01:53,765
+<i>(esta es la posición x del murciélago)
+entonces si ocurre en ese momento</i>
+
+33
+00:01:54,114 --> 00:01:58,203
+<i>vamos a decir: actualizar "puntos" en 1.</i>
+
+34
+00:01:59,469 --> 00:02:03,410
+<i>¿Sirve esto ahora?
+Bueno, siempre podemos probar el juego.</i>
+
+35
+00:02:03,898 --> 00:02:06,353
+<i>Vamos a pasar con cuidado</i>
+
+36
+00:02:08,012 --> 00:02:10,786
+<i>y vemos que funciona, pero solo una vez.</i>
+
+37
+00:02:11,714 --> 00:02:14,580
+<i>Solo una vez 
+se incrementa el puntaje en 1.</i>
+
+38
+00:02:14,872 --> 00:02:18,658
+<i>Y luego se detiene.
+Incluso aunque pasemos otros muros.</i>
+
+39
+00:02:19,316 --> 00:02:21,056
+<i>Entonces vosotros pensareis: </i>
+
+40
+00:02:21,060 --> 00:02:23,921
+<i>"Sí, si lo quiero hacer 
+varias veces y no solo una</i>
+
+41
+00:02:24,289 --> 00:02:26,248
+<i>entonces cojo un bloque 'repetir'"</i>
+
+42
+00:02:26,248 --> 00:02:32,054
+<i>Eso lo podrían intentar, así que
+ pueden rodearlo con un bloque "repetir".</i>
+
+43
+00:02:32,393 --> 00:02:34,148
+<i>¿Creen que va a funcionar ahora?</i>
+
+44
+00:02:34,148 --> 00:02:39,046
+<i>Intentadlo, y miren 
+si esta es la opción adecuada.</i>
+
+45
+00:02:41,819 --> 00:02:44,809
+<i>Bueno, habrán visto 
+que no es la mejor solución.</i>
+
+46
+00:02:45,183 --> 00:02:50,440
+<i>Es un poco mejor, pero si avanzo,
+¡Miren! Aumentan los puntos </i>
+
+47
+00:02:50,679 --> 00:02:58,675
+<i>hasta 30, y eso no es exactamente lo que
+queremos, porque solo queremos 1 punto.</i>
+
+48
+00:02:59,206 --> 00:03:03,558
+<i>Y no 60, o 61 cuando
+hemos pasado el 2º muro.</i>
+
+49
+00:03:04,017 --> 00:03:05,582
+<i>¿Qué podríamos hacer?</i>
+
+50
+00:03:05,582 --> 00:03:10,078
+Lo que haremos es 
+esperar a pasar el muro,
+
+51
+00:03:11,270 --> 00:03:15,823
+y si ya lo pasamos, ganamos un punto.
+Luego esperamos a que pase el siguiente
+
+52
+00:03:16,137 --> 00:03:20,476
+y luego vamos a esperar 
+a que pase el muro de nuevo.
+
+53
+00:03:20,787 --> 00:03:23,735
+Así sigue circulando todo el tiempo.
+
+54
+00:03:23,984 --> 00:03:26,816
+¿Saben cómo hacerlo?
+Elijan el programa correcto
+
+55
+00:03:27,199 --> 00:03:32,852
+y en el siguiente vídeo vamos a
+incorporar como lo prometí la <i>webcam</i>.
