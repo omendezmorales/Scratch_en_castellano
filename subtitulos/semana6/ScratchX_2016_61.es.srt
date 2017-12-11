@@ -1,0 +1,202 @@
+1
+00:00:00,634 --> 00:00:04,763
+Bienvenid@s chic@s a 
+la lección 6 de ScratchX con Felienne.
+
+2
+00:00:05,200 --> 00:00:07,313
+Esta semana está de vuelta
+
+3
+00:00:07,519 --> 00:00:10,954
+nuestra amiguita Giga de la
+primera lección para jugar con nosotros
+
+4
+00:00:10,986 --> 00:00:13,627
+pero esta vez haremos 
+un juego parecido a Mario.
+
+5
+00:00:13,813 --> 00:00:18,571
+Giga va a correr por el campo, saltar,
+para luego aplastar monstruos.
+
+6
+00:00:19,332 --> 00:00:23,242
+Iniciemos haciendo que Giga camine.
+
+7
+00:00:23,609 --> 00:00:24,771
+Miren conmigo.
+
+8
+00:00:25,107 --> 00:00:28,188
+<i>Quizá piensen: "caminar por el juego,</i>
+
+9
+00:00:28,437 --> 00:00:30,389
+<i>¡Pero eso ya lo ha hecho Giga!</i>
+
+10
+00:00:30,413 --> 00:00:32,828
+<i>No tiene sentido programar eso de nuevo</i>
+
+11
+00:00:32,955 --> 00:00:38,476
+<i>ya que en el laberinto la lección 1,
+ya funcionaba eso bien.</i>
+
+12
+00:00:38,707 --> 00:00:42,519
+<i>En eso tenéis razón, 
+lo que podríais hacer es reutilizar </i>
+
+13
+00:00:42,771 --> 00:00:46,213
+<i>la mochila aquí abajo. 
+Quizá la habéis visto antes</i>
+
+14
+00:00:46,457 --> 00:00:49,455
+<i>y si damos clic al triángulo,
+entonces se abrirá</i>
+
+15
+00:00:49,652 --> 00:00:53,699
+<i>y en ella podemos llevar 
+bloques de un programa a otro.</i>
+
+16
+00:00:54,315 --> 00:00:58,440
+<i>Así que si arrastro uno adentro, con la
+flecha derecha y luego la izquierda,</i>
+
+17
+00:00:58,760 --> 00:01:03,097
+<i>y luego voy al juego actual, 
+donde hay otra mochila </i>
+
+18
+00:01:03,317 --> 00:01:07,222
+<i>y ahí están los bloques 
+que puedo usar de inmediato</i>
+
+19
+00:01:07,514 --> 00:01:11,862
+<i>así que los puedo colocar 
+a la derecha e izquierda</i>
+
+20
+00:01:12,185 --> 00:01:15,747
+<i>sin tener que programar algo,
+y funciona el juego automáticamente</i>
+
+21
+00:01:15,890 --> 00:01:18,033
+<i>porque si voy 
+a la derecha o a la izquierda</i>
+
+22
+00:01:18,051 --> 00:01:19,436
+<i>entonces se mueve.</i>
+
+23
+00:01:20,419 --> 00:01:26,006
+<i>Sería mejor que si Giga camina
+hacia atrás, mejor se dé la vuelta.</i>
+
+24
+00:01:26,461 --> 00:01:28,941
+<i>Eso lo hemos hecho en 
+la 1a lección con su "apariencia". </i>
+
+25
+00:01:29,190 --> 00:01:33,598
+<i>Eso mismo pueden repetir aquí,
+cambiar su "apariencia" para que voltee</i>
+
+26
+00:01:33,853 --> 00:01:36,534
+<i>eso lo hice por vosotros en la 1a lección</i>
+
+27
+00:01:36,836 --> 00:01:40,094
+<i>pero lo que también podéis hacer es
+usar un bloque "dirigirse".</i>
+
+28
+00:01:40,487 --> 00:01:44,112
+<i>Podéis decir: "si vas 
+a la derecha, dirígete a la derecha, </i>
+
+29
+00:01:44,336 --> 00:01:48,511
+<i>y si vas a izquierda, 
+dirígete a la izquierda."</i>
+
+30
+00:01:48,881 --> 00:01:51,674
+<i>Miren, si presiono 
+la flecha derecha, va a la derecha</i>
+
+31
+00:01:51,677 --> 00:01:54,167
+<i>y si va a la izquierda, ¿qué fue eso?</i>
+
+32
+00:01:54,193 --> 00:01:55,856
+<i>¡está de cabeza!</i>
+
+33
+00:01:55,890 --> 00:02:01,320
+<i>Eso es una pena, no pueden verlo,
+pero de hecho Giga está de cabeza.</i>
+
+34
+00:02:01,379 --> 00:02:06,380
+<i>Eso es por el sistema de rotación:
+si doy clic aquí, verán la rotación</i>
+
+35
+00:02:06,647 --> 00:02:11,799
+<i>totalmente vuelta, izquierda, derecha
+y este es cero giro</i>
+
+36
+00:02:12,059 --> 00:02:15,909
+<i>así que si pongo a Giga de vuelta,
+entonces girará bien a la izquierda</i>
+
+37
+00:02:16,190 --> 00:02:17,801
+<i>y la derecha.</i>
+
+38
+00:02:18,569 --> 00:02:23,182
+Eso ya es un buen programa,
+solo que quizá lo vieron
+
+39
+00:02:23,208 --> 00:02:28,012
+en la lección 1: Giga se mueve un 
+poco "cuadrada", si presionan la flecha
+
+40
+00:02:28,268 --> 00:02:32,259
+tarda un poco en moverse, 
+y entonces comienza girar.
+
+41
+00:02:32,529 --> 00:02:37,750
+En nuestra primera tarea,
+vamos a hacer que gire de forma fluida
+
+42
+00:02:37,991 --> 00:02:41,254
+usando los bloques "repetir" y "si - "
+
+43
+00:02:41,450 --> 00:02:44,140
+Veré como lo hicieron 
+en el siguiente vídeo.
