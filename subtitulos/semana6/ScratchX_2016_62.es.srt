@@ -1,0 +1,205 @@
+1
+00:00:00,173 --> 00:00:03,438
+Así pueden hacer que se mueva Giga:
+Repiten todo el tiempo
+
+2
+00:00:03,653 --> 00:00:06,477
+y toman el bloque "si" 
+que está en "observaciones"
+
+3
+00:00:06,698 --> 00:00:09,499
+y van a monitorear continuamente 
+si las flechas han sido presionadas
+
+4
+00:00:09,579 --> 00:00:11,735
+y si vemos cómo funciona el juego
+
+5
+00:00:12,942 --> 00:00:17,720
+<i>entonces veréis que ella
+"flota" fluidamente por el piso. </i>
+
+6
+00:00:18,291 --> 00:00:22,093
+<i>Y eso es más facil que 
+cada vez dar un pasito</i>
+
+7
+00:00:22,300 --> 00:00:24,547
+<i>sobre todo para un juego tipo "Mario"</i>
+
+8
+00:00:24,547 --> 00:00:26,409
+<i>que por cierto llamamos 
+un "formador de planos"</i>
+
+9
+00:00:26,409 --> 00:00:28,215
+<i>nombre que veis aquí arriba</i>.
+
+10
+00:00:28,858 --> 00:00:32,958
+<i>Lo único que también queremos 
+en un juego de Mario, es ¡saltar!</i>
+
+11
+00:00:33,508 --> 00:00:36,060
+<i>No solo a la izquierda y derecha, 
+sino también saltar</i>
+
+12
+00:00:36,117 --> 00:00:39,160
+<i> e igual que en el laberinto
+con una flecha hacia arriba, sería raro.</i>
+
+13
+00:00:39,542 --> 00:00:41,689
+<i>Queremos realmente hacer un tipo de salto.</i>
+
+14
+00:00:42,107 --> 00:00:45,344
+<i>Como primer pregunta, pensemos un poco.</i>
+
+15
+00:00:45,609 --> 00:00:47,484
+<i>¿Cómo programarían ese salto?</i>
+
+16
+00:00:47,666 --> 00:00:52,641
+<i>Intenten con algunos bloques,
+miren lo que hay, adaptadlos un poco</i>
+
+17
+00:00:52,934 --> 00:00:55,583
+<i>y vean si pueden hacer que Giga salte.</i>
+
+18
+00:00:55,853 --> 00:01:00,987
+<i>Un consejo que quiero daros,
+es que si está arriba, deben esperar</i>
+
+19
+00:01:01,210 --> 00:01:05,371
+<i>un poco a que baje, porque si hacen 
+que "y" varíe entre 10 y -10 </i>
+
+20
+00:01:05,610 --> 00:01:11,455
+<i>entonces no lograréis ver el cambio
+porque </i> Scratch <i>lo ejecuta muy rápido.</i>
+
+21
+00:01:12,195 --> 00:01:14,466
+<i>Intentadlo.</i>
+(pausar vídeo un momento)
+
+22
+00:01:15,541 --> 00:01:18,450
+<i>Ahora, lo que creo 
+que hicieron más o menos</i>
+
+23
+00:01:18,668 --> 00:01:22,659
+<i>si ya tienen un poquito 
+de experiencia programando</i>
+
+24
+00:01:22,899 --> 00:01:27,835
+<i>es que han hecho una copia, y desde
+luego pueden elegir la barra espaciadora</i>.
+
+25
+00:01:28,169 --> 00:01:32,681
+<i>¿Qué queremos hacer?
+Queremos cambiar la "y" en vez de la "x"</i>
+
+26
+00:01:33,221 --> 00:01:37,045
+<i>entonces podéis 
+tomar un bloque "cambiar y"</i>.
+
+27
+00:01:37,613 --> 00:01:42,017
+<i>y asignarle por ejemplo 60
+-vamos a ver el resultado-.</i>
+
+28
+00:01:42,017 --> 00:01:47,363
+<i>Miren, eso son 60. Eso podrían hacer
+y luego esperar un poco.</i>
+
+29
+00:01:49,089 --> 00:01:57,465
+<i>Por ejemplo, 0.1 segundos,
+y luego pueden dejar que Giga baje</i>
+
+30
+00:01:57,616 --> 00:02:01,888
+<i>por ejemplo a -60.
+Así podríais hacerlo.</i>
+
+31
+00:02:03,565 --> 00:02:09,481
+<i>Debemos ponerla de vuelta al inicio,
+y si presionan la barra espaciadora,</i>
+
+32
+00:02:09,521 --> 00:02:11,916
+<i>se eleva, y baja de nuevo.</i>
+
+33
+00:02:11,916 --> 00:02:14,391
+<i>¡Miren!
+Eso luce bien, ¿no?</i>
+
+34
+00:02:14,391 --> 00:02:20,159
+<i>Vamos a colocar un bloque más arriba
+con el que inicien en la altura correcta.</i>
+
+35
+00:02:22,969 --> 00:02:28,798
+<i>Así, miren: debemos bajarla
+¿qué sucede con "y"?</i>
+
+36
+00:02:28,834 --> 00:02:34,653
+<i>tiene -170 aproximadamente.
+Así que inicia bien, miren.</i>
+
+37
+00:02:35,192 --> 00:02:42,297
+Eso ya es un juego bonito,
+pero hay algo que aun no está bien.
+
+38
+00:02:42,710 --> 00:02:47,967
+No está fluyendo tan bien,
+si se mueve a la derecha o la izquierda
+
+39
+00:02:48,312 --> 00:02:51,216
+piensen por ejemplo también 
+en el <i>flappy bird</i> que programamos
+
+40
+00:02:51,222 --> 00:02:56,275
+la semana pasada: subimos y luego
+bajamos un poco, en lugar de saltar de una
+
+41
+00:02:56,298 --> 00:03:01,369
+y bajar de una vez. Vuestro desafío
+es ¿Cómo harían que el movimiento
+
+42
+00:03:01,393 --> 00:03:05,818
+sea más gradual? 
+O sea no un 1,2 sino mas suave.
+
+43
+00:03:06,400 --> 00:03:08,883
+Elegid bien vuestro programa. Éxito.
