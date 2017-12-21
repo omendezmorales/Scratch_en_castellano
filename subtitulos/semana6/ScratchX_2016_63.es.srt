@@ -1,0 +1,158 @@
+1
+00:00:00,084 --> 00:00:03,480
+Mirad, así se salta súper-fluido: 
+en lugar de hacerlo una vez arriba
+
+2
+00:00:03,797 --> 00:00:09,102
+repetimos por un tiempo
+subir, esperar y volver a bajar.
+
+3
+00:00:09,866 --> 00:00:11,005
+<i>Mirad conmigo:</i>
+
+4
+00:00:11,563 --> 00:00:16,503
+<i>Ahora salta súper suave, y veis 
+que si salta a la izquierda o a la derecha</i>
+
+5
+00:00:16,747 --> 00:00:20,532
+<i>que también en el aire
+puede cambiar de dirección</i>
+
+6
+00:00:21,345 --> 00:00:25,986
+<i>quizá ya habéis visto que en el juego
+también hay un muro, mirad</i>
+
+7
+00:00:25,986 --> 00:00:30,387
+<i>pero el muro aun no es visible.
+Lo podemos hacer visible </i>
+
+8
+00:00:30,658 --> 00:00:33,592
+<i>si doy clic sobre 
+el icono de la "i" y elijo "mostrar"</i>.
+
+9
+00:00:33,661 --> 00:00:38,312
+<i>Así aparecerá de inmediato el muro.
+Como es un juego de Mario</i>
+
+10
+00:00:38,534 --> 00:00:40,814
+<i>queremos saltar sobre el muro.</i>
+
+11
+00:00:41,095 --> 00:00:49,246
+<i>Desafortunadamente ese no es el caso aún,
+porque subimos y bajamos justamente con 60</i>
+
+12
+00:00:49,609 --> 00:00:52,883
+(20 x 3), y luego hacia abajo, 20 x -3*.
+
+13
+00:00:52,947 --> 00:00:56,277
+<i>Lo que quisiéramos 
+es aterrizar sobre el muro.</i>
+
+14
+00:00:56,584 --> 00:00:59,523
+<i>Lo que haremos es remover
+el bloque de repetición</i>
+
+15
+00:00:59,772 --> 00:01:03,947
+<i>y en lugar de repetir 20 veces,
+voy a tomar un "repetir hasta"</i>.
+
+16
+00:01:04,168 --> 00:01:07,536
+<i>¿Sabéis lo que tiene que ir en el bloque?</i>
+
+17
+00:01:07,815 --> 00:01:13,464
+<i>En lugar de 60 veces hacia abajo, 60 pasos
+hacia abajo, iremos abajo hasta...</i>
+
+18
+00:01:14,042 --> 00:01:15,553
+<i>¿Lo saben?</i>
+
+19
+00:01:16,933 --> 00:01:21,974
+<i>Eso fue quizá un poco difícil, 
+pero miren lo que pueden usar ahora: </i>
+
+20
+00:01:22,142 --> 00:01:25,878
+<i>Puedo decir "voy a bajar hasta
+que toque un color"</i>
+
+21
+00:01:26,404 --> 00:01:28,861
+<i>y entonces elijo el color café;
+porque por coincidencia</i>
+
+22
+00:01:29,146 --> 00:01:35,353
+<i>-bueno, no realmente porque lo hice así-
+tanto el piso como el muro son cafés</i>.
+
+23
+00:01:35,720 --> 00:01:42,955
+<i>Así que si presiono, salto, y ¡miren!
+Desciendo hasta tocar el suelo café.</i>
+
+24
+00:01:43,316 --> 00:01:46,566
+<i>Pero también hacia abajo 
+hasta tocar el muro café.</i>
+
+25
+00:01:46,823 --> 00:01:54,105
+<i>Ahora, este programa aún no está correcto,
+porque si camino ahora aquí, ¡Mirad!</i>
+
+26
+00:01:54,448 --> 00:01:57,810
+Me quedo en el aire.
+Así que saltar ya está bien
+
+27
+00:01:58,046 --> 00:02:01,976
+pero caminar, 
+tiene que corregirse en algo.
+
+28
+00:02:02,353 --> 00:02:06,618
+pero vosotros como programadores 
+avezados con esta última lección,
+
+29
+00:02:06,618 --> 00:02:11,185
+podéis hacer algo mejor que yo.
+Así que pienso que podéis repararlo
+
+30
+00:02:11,185 --> 00:02:14,451
+de forma que siga como ahora, o sea
+
+31
+00:02:14,451 --> 00:02:18,584
+Giga salta arriba y baja, 
+sobre el muro o el suelo
+
+32
+00:02:18,830 --> 00:02:22,233
+pero si camina fuera del muro,
+entonces tiene que bajar al suelo
+
+33
+00:02:22,233 --> 00:02:25,579
+y no quedarse flotando como aquí.
+¿Hacéis el programa correcto?
