@@ -1,0 +1,81 @@
+1
+00:00:00,000 --> 00:00:03,850
+Mirad, así lo podéis hacer: 
+tomad un bloque "y",
+
+2
+00:00:03,989 --> 00:00:07,622
+entonces si Giga toca el muro,
+y está cerca del suelo
+
+3
+00:00:07,960 --> 00:00:11,491
+entonces crear sonido, y si no, continuar.
+
+4
+00:00:11,629 --> 00:00:16,194
+Y han podido quizá ver 
+arriba en la esquina el valor de "y",
+
+5
+00:00:16,402 --> 00:00:21,027
+¿qué valor corresponde al suelo
+y qué valor muestra estando sobre el muro?
+
+6
+00:00:21,354 --> 00:00:22,827
+Ahora va bien, miren.
+
+7
+00:00:23,674 --> 00:00:28,134
+<i>Inicio el juego.
+Choco contra el muro</i>
+
+8
+00:00:29,790 --> 00:00:34,015
+<i>pero si estoy sobre el muro,
+miren que mi posición "y" es -110</i>
+
+9
+00:00:34,239 --> 00:00:39,704
+<i>y aquí he puesto que si mi posición es
+menor a -120, entonces genero el sonido.</i>
+
+10
+00:00:39,959 --> 00:00:42,997
+<i>Y no suena, entonces 
+no hemos cambiado nada.</i>
+
+11
+00:00:43,192 --> 00:00:46,359
+<i>Así que ahora 
+bajamos del muro sin problema</i>
+
+12
+00:00:46,544 --> 00:00:48,843
+<i>y no quedamos detenidos encima.</i>
+
+13
+00:00:49,162 --> 00:00:53,020
+<i>Pero, quizá han visto 
+que si cruzo al otro lado</i>
+
+14
+00:00:53,292 --> 00:00:57,831
+<i>Miren, si retrocedo, 
+entonces atravieso de nuevo el muro.</i>
+
+15
+00:00:58,139 --> 00:01:03,043
+Entonces haced algo que funcione tanto
+desde la derecha como desde la izquierda.
+
+16
+00:01:03,364 --> 00:01:07,960
+Es cuestión de copiar los bloques,
+quizá hacer unos cambios
+
+17
+00:01:08,209 --> 00:01:12,156
+y luego colocarlos en el lugar adecuado.
+¡Eso os resultará bien!

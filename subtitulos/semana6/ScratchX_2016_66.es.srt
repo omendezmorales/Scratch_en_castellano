@@ -1,0 +1,293 @@
+1
+00:00:00,505 --> 00:00:03,485
+Miren, ahora se ve bien para la izquierda,
+son casi los mismos bloques
+
+2
+00:00:03,752 --> 00:00:06,185
+pero si los copian,
+deben desde luego adaptarlos
+
+3
+00:00:06,328 --> 00:00:09,742
+para ir a la izquierda, 
+y que Giga mire hacia la izquierda
+
+4
+00:00:10,042 --> 00:00:13,746
+al presionar la flechita izquierda.
+Así que mirad conmigo:
+
+5
+00:00:14,316 --> 00:00:18,742
+<i>Si inicio el juego,
+y estoy del lado izquierdo del muro</i>
+
+6
+00:00:19,118 --> 00:00:22,001
+<i>camino hacia la izquierda,
+y no puedo avanzar.</i>
+
+7
+00:00:22,940 --> 00:00:25,472
+<i>Pero si han jugado 
+antes Mario o un juego similar</i>
+
+8
+00:00:25,785 --> 00:00:28,130
+<i>saben entonces 
+que si caminan hacia la derecha</i>
+
+9
+00:00:28,373 --> 00:00:32,083
+<i>no pueden llegar hasta el final 
+del camino porque si no éste</i>
+
+10
+00:00:32,083 --> 00:00:34,306
+<i>se moverá con ustedes.</i>
+
+11
+00:00:34,605 --> 00:00:38,336
+<i>Entonces vamos a hacer que 
+el campo siga moviéndose continuamente</i>
+
+12
+00:00:38,348 --> 00:00:41,898
+<i>para que puedan seguir saltando muros.</i>
+
+13
+00:00:42,356 --> 00:00:46,056
+<i>Vamos a apagar la posición "y"
+porque ya terminamos con ella.</i>
+
+14
+00:00:46,290 --> 00:00:49,762
+<i>Vamos a activar la posición "x",
+así que ahora podéis ver que Giga</i>
+
+15
+00:00:49,762 --> 00:00:52,861
+<i>está en la posición 180, 
+y si vamos a la izquierda</i>
+
+16
+00:00:52,861 --> 00:00:55,101
+<i>miren, entonces baja y aumenta de nuevo.</i>
+
+17
+00:00:55,460 --> 00:00:58,777
+<i>Lo que queremos hacer es 
+que si Giga está al medio, cerca del 0</i>
+
+18
+00:00:59,001 --> 00:01:01,861
+<i>entonces que el campo 
+comience a desplazarse.</i>
+
+19
+00:01:02,141 --> 00:01:06,712
+<i>Para eso vamos a usar una señal
+porque vamos a simular el desplazamiento</i>
+
+20
+00:01:06,712 --> 00:01:09,718
+<i>porque cuando estemos 
+frente al muro vamos a decir:</i>
+
+21
+00:01:09,718 --> 00:01:16,109
+<i> "Murito, ¿te mueves a ese lado?"
+Entonces parecerá que Giga avanza.</i>
+
+22
+00:01:16,589 --> 00:01:21,062
+<i>Miren conmigo: 
+Vamos a hacer una variable, perdón</i>
+
+23
+00:01:21,062 --> 00:01:26,176
+<i>vamos a usar una señal, así que vamos
+a "eventos", y haremos una señal</i>
+
+24
+00:01:27,306 --> 00:01:32,584
+<i>"desplazarse". 
+(Esas son mayúsculas; me emocioné).</i>
+
+25
+00:01:33,085 --> 00:01:41,441
+<i>"desplazarse", eso usaremos. Esa señal 
+la enviaremos de Giga hacia el muro</i>.
+
+26
+00:01:43,293 --> 00:01:48,622
+<i>Si la posición "x" es 0, 
+que está a mitad del campo</i>
+
+27
+00:01:48,626 --> 00:01:53,036
+<i>entonces vamos a enviar la señal.
+ahora , ¿qué vamos a hacer?</i>
+
+28
+00:01:53,066 --> 00:01:57,931
+<i>Lo haremos en "movimiento".
+Esta vez no hacia izquierda y derecha,</i>
+
+29
+00:01:58,187 --> 00:02:02,644
+<i>sino solo a la derecha, porque queremos
+desplazar si Giga va a la derecha. </i>
+
+30
+00:02:02,882 --> 00:02:07,729
+<i>¿qué haremos ahora? Aquí dejamos
+el sonido con -código de- el muro</i>
+
+31
+00:02:07,729 --> 00:02:10,996
+<i>pero aquí en "caminar", 
+ahí vamos a ajustar algo.</i>
+
+32
+00:02:10,996 --> 00:02:14,599
+<i>Ahí vamos a colocar 
+un "si-entonces si-no"</i>.
+
+33
+00:02:14,880 --> 00:02:19,707
+<i>"si-entonces si-no", ¿qué dijimos?</i>
+
+34
+00:02:19,707 --> 00:02:27,887
+Si la posición "x" de Giga es mayor a 0
+
+35
+00:02:27,887 --> 00:02:31,514
+<i>tomamos el bloque "mayor que"
+(lo ponemos a lado para ver mejor)</i>
+
+36
+00:02:31,822 --> 00:02:38,889
+<i>Si la posición "x" es mayor a 0,
+en ese caso desplazaremos, y si no,</i>
+
+37
+00:02:39,080 --> 00:02:40,796
+<i>vamos a caminar.</i>
+
+38
+00:02:41,815 --> 00:02:46,064
+Así que en el momento 
+que pasemos el centro, Giga está en 0
+
+39
+00:02:46,064 --> 00:02:52,623
+así que nos detenemos, y en lugar de ello
+enviaremos una señal al muro:
+
+40
+00:02:53,009 --> 00:02:57,878
+"Hola muro, ¿te mueves?"
+Entonces parecerá como si avanzáramos.
+
+41
+00:02:57,878 --> 00:03:01,294
+Pero en la primera mitad del campo
+ahí puede moverse Giga.
+
+42
+00:03:01,865 --> 00:03:07,022
+¿Qué debemos hacer como muro
+al recibir una señal de desplazamiento?
+
+43
+00:03:07,231 --> 00:03:09,666
+Entonces nos movernos a la izquierda.
+
+44
+00:03:09,735 --> 00:03:12,290
+Miren como luce. 
+<i>Ahora no ha cambiado nada</i>
+
+45
+00:03:12,326 --> 00:03:16,183
+<i>porque solo enviamos la señal,
+pero no la recibimos.</i>
+
+46
+00:03:16,557 --> 00:03:20,488
+<i>Así, ¿qué debe hacer Giga
+cuando reciba la señal?</i>
+
+47
+00:03:20,488 --> 00:03:23,943
+<i>perdón, el muro.
+"Cuando reciba la señal ´desplazarse'</i>
+
+48
+00:03:24,268 --> 00:03:30,245
+<i>lo que vamos a hacer es
+damos -5 pasos, o sea hacia la izquierda.</i>
+
+49
+00:03:30,245 --> 00:03:32,647
+<i>¡Mirad! es un programa un poquito difícil</i>º
+
+50
+00:03:32,647 --> 00:03:37,996
+<i>pero miren cómo luce: 
+Si pasamos del centro se mueve el campo.</i>
+
+51
+00:03:37,996 --> 00:03:40,869
+<i>Miren, el muro se nos aproxima</i>
+
+52
+00:03:42,352 --> 00:03:46,847
+<i>y de este lado del campo no cambia algo
+porque ese es entonces este lado:</i>
+
+53
+00:03:46,847 --> 00:03:52,028
+<i>si la posición "x" es menor a 0
+entonces vamos a movernos;</i>
+
+54
+00:03:52,284 --> 00:03:55,662
+<i>pero si se hace mayor a 0,
+entonces el campo se mueve.</i>
+
+55
+00:03:55,662 --> 00:03:58,913
+¡Eso se ve guay! ¿no?
+Es como si nos moviéramos en el campo
+
+56
+00:03:58,920 --> 00:04:00,683
+tras haber desplazado el muro.
+
+57
+00:04:00,683 --> 00:04:04,832
+Solo que ahora damos vueltas,
+pero no sucede nada, porque el muro
+
+58
+00:04:04,832 --> 00:04:07,361
+pasa una sola vez,
+y luego se detiene.
+
+59
+00:04:07,666 --> 00:04:11,437
+¿Podéis programarlo 
+de forma que si el muro está al final
+
+60
+00:04:11,437 --> 00:04:13,805
+se mueva al inicio?
+
+61
+00:04:14,130 --> 00:04:17,912
+De ese modo puede Giga
+correr por el campo continuamente.
