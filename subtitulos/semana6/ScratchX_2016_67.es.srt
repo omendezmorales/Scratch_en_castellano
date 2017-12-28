@@ -1,0 +1,314 @@
+1
+00:00:00,270 --> 00:00:02,795
+Miren, lo he hecho así:
+Este es el código del muro
+
+2
+00:00:03,211 --> 00:00:06,568
+¿y qué hace cuando recibe 
+una señal de desplazarse?
+
+3
+00:00:06,789 --> 00:00:09,590
+Si está al borde, 
+entonces se mueve al inicio
+
+4
+00:00:09,811 --> 00:00:13,308
+pero de otro modo, 
+como vimos, solo se mueve.
+
+5
+00:00:13,608 --> 00:00:15,832
+Si lo programamos así; miren:
+
+6
+00:00:16,085 --> 00:00:19,437
+<i>Así podemos seguir
+indefinidamente corriendo por el campo.</i>
+
+7
+00:00:19,652 --> 00:00:23,137
+<i>Ahí va de nuevo.
+Cuando he pasado el muro</i>
+
+8
+00:00:23,137 --> 00:00:26,751
+<i>aparece de nuevo.
+Eso es un juego guay ¿no?</i>
+
+9
+00:00:26,919 --> 00:00:29,932
+<i>Pareciera como si 
+pudiésemos caminar muy lejos</i>
+
+10
+00:00:30,160 --> 00:00:33,229
+<i>pero de hecho es un solo muro 
+que aparece continuamente.</i>
+
+11
+00:00:33,417 --> 00:00:37,576
+<i>Ustedes saben quizá 
+que falta una sola cosa en el juego</i>
+
+12
+00:00:37,856 --> 00:00:43,122
+<i>y eso es: enemigos, desde luego.
+Queremos "algo" en ese juego</i>
+
+13
+00:00:43,122 --> 00:00:46,761
+<i>que aparezca e intente atraparnos.
+Si no, es un poco aburrido.</i>
+
+14
+00:00:47,152 --> 00:00:50,453
+<i>Por eso debemos elegir un monstruo.</i>
+
+15
+00:00:50,722 --> 00:00:53,532
+<i>Vamos a elegir un nuevo</i> sprite.
+
+16
+00:00:54,102 --> 00:00:56,660
+<i>Damos clic entonces 
+en la biblioteca a un "nuevo sprite"</i>
+
+17
+00:00:57,157 --> 00:01:00,313
+<i>y podéis elegir lo que gustéis,
+no hace para mí diferencia. </i>
+
+18
+00:01:00,313 --> 00:01:05,042
+<i>Puede ser un avión, o una bailarina,
+ pero yo prefiero un animal</i>
+
+19
+00:01:05,042 --> 00:01:08,178
+<i>porque esos me parecen 
+a mí un buen enemigo.</i>
+
+20
+00:01:08,371 --> 00:01:11,201
+<i>Voy a elegir a la mariquita 2.</i>
+
+21
+00:01:11,201 --> 00:01:17,687
+<i>Esa será mi enemiga, y la coloco aquí.
+ La voy a encoger un poco</i>
+
+22
+00:01:18,173 --> 00:01:22,457
+<i>porque un monstruo tan grande, asusta.</i>
+
+23
+00:01:23,981 --> 00:01:27,382
+<i>Así la encuentro de buen tamaño</i>.
+
+24
+00:01:27,935 --> 00:01:34,292
+<i>Ahora, sería bueno que la mariquita
+no solo estuviera en el campo</i>
+
+25
+00:01:34,389 --> 00:01:38,168
+<i>pero si también se mueve.
+Porque lo que ahora ocurre, miren:</i>
+
+26
+00:01:38,168 --> 00:01:44,170
+<i>Sí, el muro se mueve,
+pero la mariquita se queda quieta.</i>
+
+27
+00:01:44,603 --> 00:01:48,951
+<i>¿Sabéis vosotros cómo hacer 
+para que la mariquita se mueva también?</i>
+
+28
+00:01:49,378 --> 00:01:52,346
+<i>Les anticipo que ya tenéis
+los bloques adecuados</i>
+
+29
+00:01:52,346 --> 00:01:55,045
+<i>y solo debéis mirar en el lugar adecuado.</i>
+
+30
+00:01:57,491 --> 00:02:00,869
+<i>Tiene que haberos resultado, ¿no?
+porque pueden ver en el código del muro</i>
+
+31
+00:02:01,137 --> 00:02:04,593
+<i>y reutilizarlo también para la mariquita. </i>
+
+32
+00:02:05,002 --> 00:02:08,307
+<i>Quizá recuerden de la lección anterior
+que si toman los bloques</i>
+
+33
+00:02:08,307 --> 00:02:11,771
+<i>y los colocan sobre la mariquita,
+entonces ésta los tendrá.</i>
+
+34
+00:02:12,168 --> 00:02:17,361
+<i>Ahora la mariquita también se desplaza
+por el campo, y también reaparece</i>
+
+35
+00:02:17,361 --> 00:02:22,200
+<i>igual que el muro.
+Eso ya es una guapa mejora.</i>
+
+36
+00:02:22,590 --> 00:02:26,446
+<i>Pero sería mejor
+si la mariquita se moviera.</i>
+
+37
+00:02:26,712 --> 00:02:28,781
+<i>En Mario también vemos esos figurines</i>
+
+38
+00:02:29,004 --> 00:02:32,525
+<i>que se mueven arriba, abajo,
+izquierda, y derecha por el campo.</i>
+
+39
+00:02:32,905 --> 00:02:38,467
+<i>Eso también lo vamos a programar aquí,
+haciendo uso de variables</i>
+
+40
+00:02:38,467 --> 00:02:44,271
+<i>y a una de ellas la llamaremos "lado",
+y como su nombre lo indica,</i>
+
+41
+00:02:44,342 --> 00:02:50,560
+<i>el lado al cual el monstruo 
+-o mariquita- se va a mover.</i>
+
+42
+00:02:51,033 --> 00:02:55,306
+<i>Lo que vamos a hacer es 
+que si doy clic a la bandera verde</i>
+
+43
+00:02:55,696 --> 00:03:01,580
+<i>entonces hacemos que "lado"
+tenga una dirección; yo elijo izquierda.</i>
+
+44
+00:03:01,969 --> 00:03:06,843
+<i>Entonces, iniciamos por la izquierda
+y lo que quiero que vosotros programéis</i>
+
+45
+00:03:07,290 --> 00:03:11,258
+<i>es procurar que si "lado" 
+tiene dirección a la izquierda</i>
+
+46
+00:03:11,445 --> 00:03:14,477
+<i> que la mariquita vaya a izquierda;
+y si "lado" está a la derecha</i>
+
+47
+00:03:14,698 --> 00:03:17,167
+<i>entonces que vaya a la derecha.</i>
+
+48
+00:03:17,242 --> 00:03:19,564
+<i>¿Podéis programar eso?</i>
+
+49
+00:03:22,523 --> 00:03:27,272
+<i>Creo que os ha resultado, ¿no? porque
+los bloques de "repetir" y "si-entonces"</i>
+
+50
+00:03:27,296 --> 00:03:32,149
+<i>que se necesitan, 
+ya los conocen casi de memoria</i>.
+
+51
+00:03:32,149 --> 00:03:36,131
+<i>Entonces, si -vamos a tomar una "x"-</i>
+
+52
+00:03:36,752 --> 00:03:44,100
+<i>si "lado" es izquierda, 
+entonces vamos a la izquierda</i>
+
+53
+00:03:44,141 --> 00:03:51,337
+<i>ustedes pueden elegir la velocidad
+con la cual moverse; yo haría -2 pasos </i>
+
+54
+00:03:51,337 --> 00:03:53,816
+<i>ya que no queremos hacerlo más difícil.</i>
+
+55
+00:03:53,856 --> 00:03:57,378
+<i>Eso naturalmente pueden copiarlo,
+y colocarlo aquí abajo</i>
+
+56
+00:03:57,378 --> 00:04:00,658
+<i>y si "lado" está a la derecha,
+entonces tomamos 2 pasos.</i>
+
+57
+00:04:01,317 --> 00:04:04,232
+<i>Entonces como "lado"
+apunta a la izquierda, mirad: </i>
+
+58
+00:04:04,461 --> 00:04:07,117
+<i>la mariquita se mueve a la izquierda.</i>
+
+59
+00:04:07,458 --> 00:04:10,867
+Sin embargo ponemos "lado"
+una vez a la izquierda;
+
+60
+00:04:11,573 --> 00:04:15,087
+pero debe cambiar alguna vez a la derecha,
+porque si dejamos avanzar el juego,
+
+61
+00:04:15,103 --> 00:04:18,170
+entonces irá a la izquierda,
+y ahí se quedará dejando al monstruo
+
+62
+00:04:18,177 --> 00:04:21,260
+de ese lado ya que no puede moverse más.
+
+63
+00:04:21,316 --> 00:04:24,889
+Así que creo que deben saber 
+cuál es vuestra siguiente tarea:
+
+64
+00:04:25,086 --> 00:04:29,837
+¿Pueden hacer que si vuestro monstruo 
+llega al borde o al muro,
+
+65
+00:04:30,149 --> 00:04:34,946
+que pueda cambiar de lado?
+¿Podrán hacer que el monstruo
+
+66
+00:04:34,946 --> 00:04:39,794
+se desplace por el campo 
+cambiando continuamente el "lado"?
