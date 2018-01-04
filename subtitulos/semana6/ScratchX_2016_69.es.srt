@@ -1,0 +1,284 @@
+1
+00:00:00,139 --> 00:00:03,982
+Mirad, así debe ser: Dejen 
+que vuestro monstruo desaparezca,
+
+2
+00:00:04,333 --> 00:00:08,547
+esperen a que se mueva el muro, y
+justo entonces puede aparecer la catarina
+
+3
+00:00:08,547 --> 00:00:11,734
+en algún lugar del eje X, 
+yo lo he puesto en 200
+
+4
+00:00:11,938 --> 00:00:15,702
+pero vosotros podéis naturalmente
+elegir una posición al gusto.
+
+5
+00:00:16,003 --> 00:00:17,273
+Mirad cómo luce:
+
+6
+00:00:17,566 --> 00:00:20,215
+<i>Presiono la bandera, no hay monstruo aún</i>
+
+7
+00:00:20,215 --> 00:00:24,029
+<i>porque el muro no está lo suficientemente
+ lejos, pero si me desplazo, ¡Miren!</i>
+
+8
+00:00:24,289 --> 00:00:30,037
+<i>ahí viene y sigue avanzando 
+hasta el muro o hasta el borde.</i>
+
+9
+00:00:30,172 --> 00:00:33,898
+<i>Pero podeis ver que 
+el monstruo pasa sobre Giga.</i>
+
+10
+00:00:34,025 --> 00:00:39,154
+<i>Lo que queremos desde luego es
+que Giga se muera si la coge el monstruo</i>.
+
+11
+00:00:39,462 --> 00:00:43,449
+<i>Creo que vosotros sabéis 
+cómo podrían lograrlo:</i>
+
+12
+00:00:43,602 --> 00:00:46,125
+<i>vamos a usar una señal.</i>
+
+13
+00:00:46,175 --> 00:00:51,156
+<i>Esa señal le llamaremos "Giga_va".
+o mejor: Giga_esta_muerta.</i>
+
+14
+00:00:51,156 --> 00:00:54,338
+<i>Nuevo mensaje: Giga_está_muerta.</i>
+
+15
+00:00:54,338 --> 00:00:59,108
+¿Cuándo muere Giga?
+Creo que vosotros sabéis bien
+
+16
+00:00:59,108 --> 00:01:01,169
+<i>cuándo Giga está muerta.</i>
+
+17
+00:01:02,203 --> 00:01:08,378
+<i>Sí, eso no es tan difícil, ¿no?
+Se muere cuando le toca el monstruo.</i>
+
+18
+00:01:08,644 --> 00:01:11,584
+<i>Entonces con el monstruo 
+colocamos un bloque "repetir"</i>
+
+19
+00:01:11,832 --> 00:01:19,417
+<i>y un "esperar-hasta". Vamos a esperar 
+hasta que toquemos a Giga, porque estamos</i>
+
+20
+00:01:19,417 --> 00:01:22,976
+<i>en el código del monstruo, 
+y por eso esperamos a tocarla</i>
+
+21
+00:01:23,011 --> 00:01:26,778
+<i>y cuando le toquemos entonces
+enviaremos la señal "Giga_esta_muerta."</i>
+
+22
+00:01:27,423 --> 00:01:34,283
+<i>Pero ahora todavía no ocurre nada,
+porque Giga no reacciona a esa señal aún.</i>
+
+23
+00:01:34,323 --> 00:01:37,502
+<i>Me deplazo un poco aquí,
+y lo que haremos ahora es</i>
+
+24
+00:01:37,713 --> 00:01:42,089
+<i>cuando reciba la señal,
+lo que podríamos hacer es decir algo</i>
+
+25
+00:01:42,089 --> 00:01:46,458
+<i>por ejemplo "au" o "ayuda",
+pero haremos algo distinto.</i>
+
+26
+00:01:46,465 --> 00:01:50,307
+<i>Vamos a probar un nuevo bloque
+llamado "detener-todos."</i>
+
+27
+00:01:50,538 --> 00:01:54,004
+<i>Entonces si Giga muere,
+entonces todo el juego termina.</i>
+
+28
+00:01:55,781 --> 00:01:57,421
+<i>Mirad conmigo:</i>
+
+29
+00:01:57,421 --> 00:02:00,939
+<i>Yo camino aquí, 
+y ahora camino hacia mi enemiga</i>
+
+30
+00:02:00,979 --> 00:02:04,544
+<i>¡Miren! Se detiene el juego de verdad.</i>
+
+31
+00:02:04,947 --> 00:02:10,964
+Pero entonces no ocurre nada mas,
+y si alguien más quiere usar vuestro juego
+
+32
+00:02:11,182 --> 00:02:16,338
+un hermano o un padre, 
+entonces no sabrán qué ocurrió.
+
+33
+00:02:16,366 --> 00:02:20,797
+Quizá realmente está atorado.
+Entonces sería útil mostrar algo más
+
+34
+00:02:20,797 --> 00:02:23,847
+en la pantalla, 
+por ejemplo "fin del juego".
+
+35
+00:02:24,219 --> 00:02:27,786
+Eso no lo podemos hacer con Giga;
+para eso necesitamos otra solución.
+
+36
+00:02:28,051 --> 00:02:31,402
+Miren conmigo,
+<i>porque si hago que Giga lo diga</i>
+
+37
+00:02:31,402 --> 00:02:36,929
+<i>podemos intentarlo. Puedo decir "au"
+ y luego detengo el juego.</i>
+
+38
+00:02:37,298 --> 00:02:40,024
+<i>Entonces si ahora choco 
+contra el monstruo, ¡vean!</i>
+
+39
+00:02:40,088 --> 00:02:44,025
+<i>Les dije, no ocurre nada,
+porque el juego termina de inmediato.</i>
+
+40
+00:02:44,244 --> 00:02:48,381
+<i>Dije algo, y si se detiene
+también significa que no pude decir más.</i>
+
+41
+00:02:49,043 --> 00:02:55,032
+<i>Así que lo que haremos
+será mostrar en el aire "fin de juego"</i>
+
+42
+00:02:55,032 --> 00:02:58,812
+<i>cuando Giga toque al monstruo.
+Eso es muy guay, ¿no?</i>
+
+43
+00:02:58,812 --> 00:03:03,630
+<i>Eso desde luego que lo podemos programar
+porque programando se puede casi todo.</i>
+
+44
+00:03:03,951 --> 00:03:08,038
+<i>Vamos a crear un nuevo </i> sprite
+<i>y esta vez no tendrá un figurín</i>
+
+45
+00:03:08,038 --> 00:03:11,387
+<i>sino que vamos 
+a dibujar uno nosotros mismos.</i>
+
+46
+00:03:11,709 --> 00:03:15,910
+<i>Así recibimos un bloque vacío
+y ahí podéis dibujar lo que quieran.</i>
+
+47
+00:03:16,118 --> 00:03:20,887
+<i>Vamos a crear un texto,
+de color rojo, pongo aquí una crucecita</i>
+
+48
+00:03:20,887 --> 00:03:26,875
+<i>para que quede en el medio,
+y escribo "fin de juego"</i>
+
+49
+00:03:26,889 --> 00:03:29,137
+<i>con signos de exclamación.</i>
+
+50
+00:03:29,531 --> 00:03:33,951
+<i>Desde luego pueden elegir otras palabras,
+las que quieran, y ven aquí que el texto</i>
+
+51
+00:03:34,177 --> 00:03:39,398
+<i>aparece en pantalla. Lo voy a acomodar,
+lo agrando un poco, y desde luego</i>
+
+52
+00:03:39,401 --> 00:03:44,421
+<i>vosotros podéis elegir el texto adecuado.
+"hasta la vista, baby" o lo que sea.</i>
+
+53
+00:03:47,374 --> 00:03:52,141
+<i>Queremos que ese texto no aparezca
+cuando iniciemos el juego</i>
+
+54
+00:03:52,239 --> 00:03:54,889
+<i>sino cuando Giga muera</i>.
+
+55
+00:03:55,139 --> 00:03:59,642
+<i>¿Podéis programar eso?
+¿Podéis elegir el bloque correcto</i>
+
+56
+00:03:59,642 --> 00:04:05,569
+con el que "fin de juego"
+no se muestre al inicio del juego?
+
+57
+00:04:05,579 --> 00:04:10,446
+sino en el momento en que el monstruo
+toque a Giga, aparece el texto arriba.
+
+58
+00:04:10,471 --> 00:04:13,159
+¡Esa es vuestra siguiente
+tarea de programación!
+
+59
+00:04:13,167 --> 00:04:15,341
+Creo que os saldrá bien.

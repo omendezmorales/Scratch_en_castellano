@@ -1,0 +1,84 @@
+1
+00:00:00,028 --> 00:00:04,057
+Miren, así es como lo hice:
+Si toco el muro o el límite
+
+2
+00:00:04,057 --> 00:00:09,053
+entonces, si voy a la derecha, volteo
+a la izquierda, y si iba a izquierda
+
+3
+00:00:09,088 --> 00:00:12,574
+entonces volteo a la derecha.
+Entonces veréis que la variable "lado"
+
+4
+00:00:12,633 --> 00:00:17,134
+que aún está a la vista,
+cambia de lado. Miren conmigo:
+
+5
+00:00:17,835 --> 00:00:21,406
+<i>ahí va;
+Voy a la izquierda, y ahora a la derecha</i>
+
+6
+00:00:21,613 --> 00:00:24,484
+<i>paso por Giga, 
+-eso lo vamos a corregir pronto-</i>
+
+7
+00:00:24,764 --> 00:00:28,966
+<i>Y de nuevo voy a la izquierda.
+En todo, va bien, pero quizá habéis visto</i>
+
+8
+00:00:29,301 --> 00:00:33,820
+<i>que algunas veces va mal. ¡!Mirad!
+La catarinita se queda pegada al muro</i>
+
+9
+00:00:34,107 --> 00:00:40,088
+<i>o al borde, mirad.
+Está atorada moviendo las patitas</i>
+
+10
+00:00:40,088 --> 00:00:48,778
+y quiere moverse. En la siguiente tarea
+que mejora el programa es ¿podemos esperar
+
+11
+00:00:48,778 --> 00:00:53,583
+a que la catarina aparezca al inicio hasta
+que el muro desaparezca de la escena?
+
+12
+00:00:53,584 --> 00:00:57,771
+Digamos que el muro debe 
+estar alejado a 100, y justo entonces
+
+13
+00:00:57,935 --> 00:01:02,145
+puede la catarina aparecer; 
+no mientras esté el muro
+
+14
+00:01:02,145 --> 00:01:05,433
+porque entonces 
+veremos que se queda pegada.
+
+15
+00:01:05,614 --> 00:01:09,275
+Entonces dejar que la catarina
+-o vuestro monstruo preferido-
+
+16
+00:01:09,564 --> 00:01:13,866
+espere a que el muro esté en 100,
+y solo entonces puede aparecer.
+
+17
+00:01:14,112 --> 00:01:16,330
+Esa es vuestra siguiente 
+tarea de programación.
