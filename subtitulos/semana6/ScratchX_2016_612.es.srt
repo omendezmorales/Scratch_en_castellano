@@ -1,0 +1,67 @@
+1
+00:00:00,463 --> 00:00:04,326
+Ahora, para un programador graduado, 
+esa fue una tarea fácil, ¿no?
+
+2
+00:00:04,402 --> 00:00:09,211
+Mirad aquí, si tocamos a Giga entonces no
+tenemos lado, y no necesita pasar nada más
+
+3
+00:00:09,383 --> 00:00:13,000
+porque "lado" solo lo programamos 
+para izquierda y derecha
+
+4
+00:00:13,000 --> 00:00:16,306
+y si "lado" está vacío, 
+entonces naturalmente no ocurrirá nada.
+
+5
+00:00:16,306 --> 00:00:18,719
+Mirad cómo funciona de bien este juego:
+
+6
+00:00:18,755 --> 00:00:22,862
+<i>Lo inicio una vez más;
+he iniciado de nuevo "lado"</i>.
+
+7
+00:00:22,941 --> 00:00:27,615
+<i>aplasto el bicho, 
+y veo que deja de moverse cuando le toco.</i>
+
+8
+00:00:27,897 --> 00:00:29,302
+<i>Ahí vamos.</i>
+
+9
+00:00:29,571 --> 00:00:35,808
+Ese fue todo el juego que vosotros
+habéis programado. Quiero agradeceros
+
+10
+00:00:35,887 --> 00:00:39,660
+que habéis trabajado 
+por seis semanas en estos juegos.
+
+11
+00:00:39,660 --> 00:00:43,227
+¡Fue fantástico para nosotros
+ver todas vuestras reacciones en el foro!
+
+12
+00:00:43,475 --> 00:00:50,336
+Los mejores juegos, aviones, acuarios,
+Gigas con lágrimas, hemos visto de todo
+
+13
+00:00:50,336 --> 00:00:55,091
+y fue espectacular, y espero 
+que algunos de vosotros en unos 10 años
+
+14
+00:00:55,125 --> 00:01:00,429
+quizá aparezcan como estudiantes
+de TUDelft. ¡Hasta entonces, Adiós!
