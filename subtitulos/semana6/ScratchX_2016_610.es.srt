@@ -1,0 +1,225 @@
+1
+00:00:00,915 --> 00:00:06,231
+Para uno programadores casi egresados
+como vosotros, no es un problema ¿no?
+
+2
+00:00:06,398 --> 00:00:09,592
+Cuando se presiona sobre la bandera verde,
+entonces desaparece el <i>sprite</i>
+
+3
+00:00:09,808 --> 00:00:14,166
+y si Giga recibe esa señal, 
+entonces desaparece rápidamente.
+
+4
+00:00:14,199 --> 00:00:16,658
+Mirad, <i>se ve realmente guay:</i>
+
+5
+00:00:17,359 --> 00:00:23,151
+<i>Comienzo normal, ningún fin de juego, y
+entonces si toco al monstruo, ahí ocurre.</i>
+
+6
+00:00:23,352 --> 00:00:25,623
+<i>El juego se detiene, pero aún vemos algo</i>
+
+7
+00:00:25,984 --> 00:00:32,187
+<i>Algo debe cambiarse aquí 
+cuando termine el juego, porque aquí</i>
+
+8
+00:00:32,187 --> 00:00:35,924
+<i>vemos que se llama </i> sprite 1.
+<i>Eso no me parece un buen nombre.</i>
+
+9
+00:00:36,270 --> 00:00:40,431
+<i>Nunca es bueno llamar cosas como 
+imagen 1, o monstruo 1</i>
+
+10
+00:00:40,460 --> 00:00:43,135
+<i>porque así enseguida no sabemos
+de lo que estamos hablando.</i>
+
+11
+00:00:43,370 --> 00:00:46,593
+<i>Entonces sería mucho mejor 
+que si en lugar de </i> sprite 1
+
+12
+00:00:46,772 --> 00:00:53,165
+<i>escribiésemos "fin de juego".
+Así es mucho mejor saber de qué se trata.</i>
+
+13
+00:00:56,489 --> 00:00:59,530
+<i>¿Qué mas haremos?
+Bueno, sería ideal que pudiésemos</i>
+
+14
+00:00:59,530 --> 00:01:04,620
+<i>derrotar al monstruo, ¿no os parece?
+Porque si solo nos toca y mata</i>
+
+15
+00:01:04,642 --> 00:01:09,626
+<i>¿cómo podemos jugar?
+Así solo podríamos intentar saltarle</i>
+
+16
+00:01:09,626 --> 00:01:13,652
+<i>pero eso no es todo.
+Entonces sería mejor si saltamos</i>
+
+17
+00:01:13,667 --> 00:01:16,593
+<i>sobre el monstruo,
+para poder aplastarle</i>
+
+18
+00:01:16,593 --> 00:01:19,616
+<i>que lo hagamos plano como tortilla.
+¿No es eso muy guay?</i>
+
+19
+00:01:19,920 --> 00:01:23,232
+<i>Para ello vamos a usar una nueva
+apariencia para la catarina.</i>
+
+20
+00:01:23,626 --> 00:01:29,444
+<i>Vamos a "apariencias", y este 
+que ahora tenemos, lo vamos a copiar.</i>
+
+21
+00:01:29,820 --> 00:01:35,322
+<i>Para eso puedo usar un sello,
+hago la copia, y recibo otra apariencia.</i>
+
+22
+00:01:37,075 --> 00:01:41,683
+<i>Puedo cambiar ahora la apariencia,
+Puedo dibujar algo, y en el foro he visto</i>
+
+23
+00:01:41,690 --> 00:01:45,959
+<i>que algunos habéis hecho eso antes.
+Que por ejemplo habéis dibujado lagrimitas</i>
+
+24
+00:01:45,959 --> 00:01:52,012
+<i>en la cara de Giga. Convierto esto en
+imagen, y luego puedo seleccionar al bicho</i>
+
+25
+00:01:52,285 --> 00:01:56,170
+<i>y aplanarlo, mirad: 
+lo hago así un poco plano</i>.
+
+26
+00:01:56,470 --> 00:02:00,607
+<i>Lo puedo aplastar tanto como quiera,
+y lo coloco de vuelta en la cruz</i>
+
+27
+00:02:00,648 --> 00:02:03,778
+*porque de otro modo se verá un poco raro.
+
+28
+00:02:04,209 --> 00:02:09,085
+<i>Y aquí también queremos 
+usar un buen nombre, porque usar</i> ladybu2A2
+
+29
+00:02:09,298 --> 00:02:12,890
+<i>no me parece un buen nombre.
+Vamos a nombrar esto "aplastada"</i>
+
+30
+00:02:13,189 --> 00:02:15,553
+<i>y nombraremos esta otra "normal".</i>
+
+31
+00:02:16,410 --> 00:02:21,779
+<i>Así será mas fácil leer en el código
+cuál es la aplastada y cuál la normal</i>.
+
+32
+00:02:21,987 --> 00:02:26,426
+<i>Podemos ahora desplazarle un poco.
+Esta es normal y esta aplastada</i>
+
+33
+00:02:26,847 --> 00:02:32,061
+<i>podéis ver que tengo que desplazar 
+un poco porque está ahora en el suelo</i>
+
+34
+00:02:32,061 --> 00:02:34,190
+<i>y la crucecita indica 
+dónde queda la mitad</i>
+
+35
+00:02:34,605 --> 00:02:38,139
+<i>así que podéis tomarle,
+y moverle hacia arriba</i>
+
+36
+00:02:38,326 --> 00:02:42,701
+<i>eso está un mas alto,
+así mirad, ahora está bien sobre el suelo</i>
+
+37
+00:02:42,945 --> 00:02:46,783
+<i>así camina, y así queda
+cuando se le aplasta.</i>
+
+38
+00:02:48,843 --> 00:02:54,503
+Ahora, ¿qué vamos a programar?
+Eso es un rompecabezas
+
+39
+00:02:54,773 --> 00:02:58,966
+pero creo que tendréis éxito:
+queremos programar que si Giga
+
+40
+00:02:59,247 --> 00:03:04,270
+camina hacia el monstruo, muera, 
+pero si salta sobre el mismo
+
+41
+00:03:04,270 --> 00:03:10,118
+entonces éste debe cambiar su apariencia
+a aplastado, y pensad bien en el código
+
+42
+00:03:10,118 --> 00:03:15,160
+usado en el muro: si estoy sobre el muro,
+entonces puedo caminar
+
+43
+00:03:15,465 --> 00:03:18,745
+pero si estoy frente al muro, 
+entonces no puedo caminar.
+
+44
+00:03:19,014 --> 00:03:23,134
+El mismo tipo de bloque vamos a usar
+si estamos sobre la catarina,
+
+45
+00:03:23,383 --> 00:03:26,226
+entonces debe ser aplastada, 
+pero frente al monstruo
+
+46
+00:03:26,226 --> 00:03:29,133
+entonces muere Giga.
+¿Lo armáis por mí?
