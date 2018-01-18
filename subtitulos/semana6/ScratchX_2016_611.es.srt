@@ -1,0 +1,259 @@
+1
+00:00:01,412 --> 00:00:05,412
+Mirad, así lo he hecho:
+Si Giga está lo suficientemente arriba
+
+2
+00:00:05,426 --> 00:00:10,993
+y toca el monstruo, entonces es aplastado,
+y de otro modo, Giga muere.
+
+3
+00:00:10,993 --> 00:00:16,045
+Pero si lo habéis programado, quizá
+vieron que no es totalmente perfecto.
+
+4
+00:00:16,322 --> 00:00:19,386
+Porque <i>quizá el monstruo es venenoso.</i>
+
+5
+00:00:19,566 --> 00:00:23,768
+<i>Aun cuando esté aplastado,
+te mata de todos modos, miren:</i>
+
+6
+00:00:23,768 --> 00:00:28,406
+<i>salto, le aplasto y también muero.
+¡Eso no es lo que quiero!</i>
+
+7
+00:00:28,622 --> 00:00:35,902
+<i>Lo que quiero es que cuando le aplaste,
+que desaparezca y enseguida re-aparezca.</i>
+
+8
+00:00:35,942 --> 00:00:39,604
+<i>Así que debe desaparecer, 
+porque de otro modo muere igual Giga.</i>
+
+9
+00:00:39,884 --> 00:00:42,508
+<i>Desaparecerlo no es tan difícil, ¿no?</i>
+
+10
+00:00:42,703 --> 00:00:48,082
+<i>Podemos usar un "desaparecer" 
+aquí en medio, pero pienso que aquí</i>
+
+11
+00:00:48,317 --> 00:00:51,420
+<i>algo saldrá mal. ¿Sabés qué es?</i>
+
+12
+00:00:52,614 --> 00:00:55,524
+<i>Inténtenlo, si no lo saben.</i>
+
+13
+00:00:56,566 --> 00:00:58,317
+<i>Así desaparece de inmediato.</i>
+
+14
+00:00:58,317 --> 00:01:00,794
+<i>Hemos hecho ese material
+de aplastar para nada.</i>
+
+15
+00:01:01,069 --> 00:01:04,793
+<i>Entonces queremos insertar 
+un bloque "esperar" muy breve</i>
+
+16
+00:01:04,793 --> 00:01:10,138
+<i>medio seg. es suficiente, 
+para poder ver que cuando sea aplastada</i>
+
+17
+00:01:10,347 --> 00:01:12,596
+<i>y que después desaparece.</i>
+
+18
+00:01:13,044 --> 00:01:16,984
+<i>Mirad, le aplasto, y luego desaparece.</i>
+
+19
+00:01:18,403 --> 00:01:22,811
+Nos gustaría naturalmente 
+que la bestia regresara.
+
+20
+00:01:23,229 --> 00:01:27,298
+Porque ahora solo ocurre una sola vez:
+la aplastamos, y luego desaparece.
+
+21
+00:01:27,397 --> 00:01:31,598
+Pero en un juego tipo Mario
+hay muchas más bestias.
+
+22
+00:01:31,916 --> 00:01:36,603
+Así que sería bueno 
+que en lugar de desaparecer
+
+23
+00:01:36,792 --> 00:01:41,020
+que la bestia reaparezca 
+después de un rato.
+
+24
+00:01:41,020 --> 00:01:46,893
+Vemos aquí algunos bloques
+que podríamos reutilizar en un bloque
+
+25
+00:01:47,031 --> 00:01:53,994
+para no tener que duplicar.
+¿Podéis elegir los bloques adecuados
+
+26
+00:01:53,994 --> 00:01:58,575
+que quizá serían adecuados 
+para colocar en el nuevo bloque?
+
+27
+00:01:58,874 --> 00:02:03,384
+Ese bloque lo vamos a hacer pronto,
+y se llama "aparecer-por-derecha".
+
+28
+00:02:03,596 --> 00:02:08,038
+Eso quizá es una pista 
+de los bloques que serían necesarios.
+
+29
+00:02:10,833 --> 00:02:13,611
+<i>Pienso que habéis tenido éxito.</i>
+
+30
+00:02:13,611 --> 00:02:17,326
+<i>Pero si no fue así, 
+entonces lo haremos juntos</i>.
+
+31
+00:02:17,326 --> 00:02:22,788
+<i>Como lo dije, haremos un 
+bloque llamado "aparecer-por-derecha".</i>
+
+32
+00:02:24,451 --> 00:02:26,497
+<i>Hagamos un poco de espacio aquí </i>
+
+33
+00:02:26,792 --> 00:02:28,704
+<i>¿Cuáles bloques necesitamos para ello?</i>
+
+34
+00:02:28,906 --> 00:02:34,445
+<i>Son estos, porque cada vez al inicio
+del juego, aparece la bestia también.</i>
+
+35
+00:02:34,828 --> 00:02:37,239
+<i>Así que podemos tomar esos bloques</i>
+
+36
+00:02:37,537 --> 00:02:40,691
+<i>y pegarlos aquí abajo
+con "aparecer-por-derecha".</i>
+
+37
+00:02:40,782 --> 00:02:42,257
+<i>¿Qué hacemos aquí?</i>
+
+38
+00:02:42,620 --> 00:02:45,781
+<i>Cuando inicie el juego 
+aparecemos por la derecha</i>
+
+39
+00:02:45,781 --> 00:02:48,947
+<i>pero aquí también, 
+cuando sea aplastado el bicho</i>
+
+40
+00:02:48,963 --> 00:02:52,293
+<i>entonces esperamos un poco 
+y luego aparecemos de nuevo.</i>
+
+41
+00:02:52,609 --> 00:02:57,524
+<i>Y ya que aquí está también un
+bloque "desaparecer", podemos usarlo ahora</i>
+
+42
+00:02:57,524 --> 00:03:02,007
+<i>(pego ese de vuelta), ese puede irse
+porque cada vez que es aplastado</i>
+
+43
+00:03:02,253 --> 00:03:07,244
+<i>aparece de nuevo, mirad.
+Esa inversión que hemos hecho</i>
+
+44
+00:03:07,469 --> 00:03:12,122
+<i>con los bloques, esa se recupera
+porque ahora podemos aparecer</i>
+
+45
+00:03:12,122 --> 00:03:14,185
+<i>dos veces por derecha. Muy bien</i>
+
+46
+00:03:14,185 --> 00:03:19,607
+<i>Mirad: la bestia desaparece, 
+así que esta es la 1ª apariencia</i>
+
+47
+00:03:19,851 --> 00:03:23,773
+<i>una vez presionada la bandera verde,
+luego voy a aplastar el bicho</i>
+
+48
+00:03:24,749 --> 00:03:26,776
+<i>y luego reaparece.</i>
+
+49
+00:03:26,776 --> 00:03:31,237
+Pero vosotros veis que 
+hay algo que no está bien.
+
+50
+00:03:31,574 --> 00:03:34,057
+La bestia se queda aplastada.
+
+51
+00:03:34,401 --> 00:03:41,220
+Entonces en algún lugar debemos cambiar
+su apariencia para que no quede aplastada
+
+52
+00:03:41,220 --> 00:03:47,328
+sino redonda o de la manera 
+que le creasteis originalmente.
+
+53
+00:03:47,800 --> 00:03:55,087
+Pensad en el bloque necesario y
+dónde en el programa debe ir el bloque
+
+54
+00:03:55,087 --> 00:03:58,196
+pero además dónde hay 
+que remover un bloque
+
+55
+00:03:58,196 --> 00:04:04,065
+porque si programáis bien esto,
+veréis que en algún lugar sobra un bloque.
